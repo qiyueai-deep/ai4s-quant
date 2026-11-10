@@ -1,0 +1,11 @@
+quantity	value
+KL of same-budget SFT draft (T=2)	0.38672574
+KL of distilled draft (T=2)	0.10907738
+Pinsker floor, SFT draft	0.56026955
+Pinsker floor, distilled draft	0.7664648
+greedy top1 agreement, SFT draft	0.84375
+greedy top1 agreement, distilled draft	0.86458333
+agreement gain of distillation	0.020833333
+probe KL at T=2	0.086199408
+probe alpha at T=2	0.91656721
+sweep greedy acceptance mean	0.31165049

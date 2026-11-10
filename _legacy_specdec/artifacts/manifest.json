@@ -1,0 +1,37 @@
+{
+  "seed": 0,
+  "target_config": {
+    "vocab_size": 33,
+    "max_seq_len": 192,
+    "d_model": 256,
+    "n_layers": 6,
+    "n_heads": 8,
+    "d_ff": 1024,
+    "dropout": 0.0
+  },
+  "draft_config": {
+    "vocab_size": 33,
+    "max_seq_len": 192,
+    "d_model": 64,
+    "n_layers": 2,
+    "n_heads": 4,
+    "d_ff": 256,
+    "dropout": 0.0
+  },
+  "target_parameters": 4790528,
+  "draft_parameters": 113984,
+  "vocab_size": 33,
+  "corpus_train_chars": 123219,
+  "corpus_val_chars": 13782,
+  "target_steps": 800,
+  "draft_steps": 900,
+  "distill_ce_weight": 0.3,
+  "metrics": {
+    "val_ce_target": 0.5949334353208542,
+    "kl_target_to_draft_sft": 0.38672574012352046,
+    "kl_target_to_draft_distilled": 0.1090773832604574,
+    "greedy_top1_agreement_sft": 0.84375,
+    "greedy_top1_agreement_distilled": 0.8645833333333334
+  },
+  "train_seconds": 675.8104438781738
+}

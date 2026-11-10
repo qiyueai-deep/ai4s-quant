@@ -1,0 +1,8100 @@
+set n14 ram 64
+ping n14 n11
+ping n14 n15
+get n14
+get n11
+ping n11 n14
+set n03 cpu 256
+set n03 cpu 64
+set n11 cpu 256
+ping n16 n11
+set n16 disk 64
+set n14 cpu 256
+set n02 disk 256
+link n02 n09 bw 32
+get n02
+link n02 n01 bw 16
+set n07 disk 1024
+set n07 cpu 64
+ping n07 n12
+link n07 n04 bw 128
+ping n07 n05
+set n13 cpu 64
+get n13
+del n04
+link n13 n08 bw 32
+ping n16 n08
+link n16 n04 bw 128
+ping n05 n15
+get n05
+get n14
+set n14 cpu 1024
+link n07 n06 bw 16
+set n03 cpu 256
+get n03
+ping n03 n03
+ping n03 n10
+ping n03 n03
+ping n09 n02
+set n09 ram 256
+set n03 ram 128
+set n04 disk 128
+link n04 n13 bw 128
+set n04 cpu 256
+del n11
+link n14 n06 bw 16
+link n14 n14 bw 16
+ping n14 n15
+ping n14 n02
+ping n01 n02
+ping n01 n11
+set n16 disk 256
+link n16 n07 bw 32
+set n16 ram 256
+set n14 cpu 256
+set n14 disk 128
+del n11
+get n16
+set n16 ram 512
+set n14 disk 1024
+link n14 n12 bw 16
+set n13 cpu 1024
+set n13 cpu 512
+set n09 disk 64
+set n09 cpu 256
+del n02
+ping n09 n02
+set n11 disk 512
+set n11 disk 1024
+get n11
+set n15 cpu 64
+get n15
+link n15 n01 bw 16
+set n15 ram 512
+link n15 n11 bw 128
+link n15 n05 bw 16
+del n09
+link n03 n13 bw 128
+ping n03 n14
+ping n15 n02
+del n07
+link n02 n01 bw 128
+ping n02 n05
+ping n13 n06
+set n13 disk 256
+set n13 cpu 512
+ping n04 n05
+link n14 n14 bw 32
+ping n16 n09
+get n04
+ping n15 n10
+set n15 cpu 1024
+link n15 n02 bw 64
+get n07
+ping n07 n02
+set n11 ram 512
+ping n11 n13
+set n09 disk 1024
+ping n09 n03
+link n09 n13 bw 16
+set n04 disk 1024
+link n04 n10 bw 128
+ping n04 n04
+set n06 disk 512
+link n06 n04 bw 64
+get n06
+set n01 cpu 512
+ping n01 n09
+link n16 n05 bw 16
+link n16 n10 bw 32
+set n13 cpu 256
+set n13 ram 128
+set n07 ram 128
+link n05 n15 bw 32
+set n05 ram 256
+del n16
+set n05 ram 1024
+ping n04 n11
+set n04 cpu 256
+set n04 ram 64
+get n03
+link n13 n12 bw 128
+ping n13 n12
+get n13
+ping n13 n03
+link n13 n16 bw 32
+set n06 ram 64
+del n14
+link n05 n03 bw 128
+link n16 n16 bw 64
+get n16
+set n16 disk 64
+ping n16 n09
+link n04 n01 bw 64
+link n14 n03 bw 32
+ping n14 n06
+link n10 n09 bw 64
+ping n10 n05
+set n10 cpu 1024
+link n10 n02 bw 128
+link n10 n12 bw 32
+ping n08 n04
+link n08 n11 bw 64
+set n10 cpu 512
+set n15 ram 64
+set n11 cpu 256
+ping n11 n02
+link n06 n01 bw 16
+ping n06 n12
+set n14 ram 512
+link n14 n06 bw 128
+ping n14 n06
+set n14 ram 512
+set n08 ram 256
+link n08 n15 bw 32
+del n03
+get n07
+set n02 ram 128
+del n08
+link n08 n01 bw 64
+set n04 cpu 1024
+ping n04 n10
+set n04 cpu 256
+set n04 cpu 512
+set n07 cpu 512
+del n12
+set n05 disk 64
+link n05 n08 bw 64
+ping n05 n01
+link n05 n14 bw 32
+set n10 ram 128
+get n10
+link n10 n12 bw 32
+ping n10 n05
+get n10
+ping n10 n10
+set n10 disk 1024
+set n10 ram 1024
+ping n10 n09
+set n10 cpu 256
+set n10 cpu 128
+link n08 n07 bw 32
+ping n08 n13
+link n08 n11 bw 128
+set n12 cpu 256
+get n12
+link n12 n02 bw 32
+ping n12 n13
+get n12
+ping n10 n16
+ping n10 n11
+ping n07 n14
+link n07 n01 bw 64
+link n07 n07 bw 128
+set n07 ram 64
+link n07 n12 bw 32
+ping n07 n03
+ping n07 n05
+set n06 disk 512
+set n06 disk 1024
+link n04 n09 bw 32
+set n04 ram 128
+get n04
+ping n04 n13
+set n04 disk 128
+link n04 n15 bw 128
+get n06
+set n06 ram 128
+del n16
+set n02 cpu 256
+set n02 cpu 512
+del n05
+set n13 cpu 64
+ping n13 n14
+ping n13 n04
+set n13 ram 512
+set n13 disk 64
+get n07
+set n07 disk 128
+get n07
+set n07 ram 512
+del n07
+ping n07 n01
+link n07 n03 bw 16
+link n05 n11 bw 64
+ping n02 n14
+get n09
+set n12 disk 64
+set n12 ram 256
+ping n12 n07
+link n16 n14 bw 32
+ping n03 n01
+del n07
+set n10 cpu 512
+link n10 n14 bw 64
+set n10 cpu 1024
+ping n07 n11
+ping n07 n05
+set n16 cpu 512
+ping n16 n16
+del n06
+ping n08 n02
+set n02 disk 512
+set n02 ram 512
+set n02 disk 1024
+set n10 ram 256
+get n10
+set n06 ram 64
+link n06 n16 bw 16
+set n05 cpu 512
+set n11 cpu 512
+del n07
+set n09 disk 512
+set n03 ram 128
+ping n03 n01
+set n03 disk 1024
+link n03 n06 bw 16
+get n03
+link n03 n14 bw 16
+set n05 cpu 256
+get n05
+ping n05 n03
+set n05 ram 64
+link n06 n01 bw 16
+link n11 n13 bw 32
+set n11 cpu 1024
+link n10 n12 bw 128
+ping n10 n05
+get n10
+link n10 n13 bw 64
+set n10 ram 128
+set n04 cpu 256
+ping n15 n09
+ping n15 n06
+set n14 ram 512
+get n14
+set n11 cpu 512
+ping n12 n11
+link n12 n15 bw 64
+ping n14 n07
+link n14 n09 bw 64
+get n14
+link n05 n08 bw 64
+get n13
+ping n13 n09
+set n07 cpu 128
+del n03
+link n11 n05 bw 64
+link n11 n10 bw 128
+set n11 cpu 64
+link n11 n01 bw 128
+ping n11 n02
+ping n11 n03
+link n05 n09 bw 128
+set n05 cpu 128
+ping n05 n05
+ping n05 n15
+get n05
+link n05 n02 bw 16
+ping n09 n02
+ping n09 n04
+ping n09 n07
+del n06
+ping n09 n09
+set n09 ram 512
+ping n09 n10
+set n11 cpu 512
+set n09 disk 128
+set n11 disk 256
+set n15 disk 128
+set n05 ram 64
+set n11 cpu 64
+link n11 n09 bw 64
+set n11 disk 64
+set n11 ram 256
+link n14 n07 bw 128
+set n14 disk 256
+set n14 ram 128
+set n01 ram 64
+set n01 disk 256
+ping n01 n16
+ping n02 n14
+set n02 cpu 1024
+link n02 n10 bw 16
+set n10 cpu 512
+link n10 n05 bw 32
+set n10 disk 64
+set n10 ram 256
+link n11 n11 bw 128
+link n11 n02 bw 64
+ping n11 n08
+ping n11 n10
+ping n05 n02
+set n05 cpu 1024
+get n05
+set n05 cpu 1024
+set n05 ram 1024
+get n04
+ping n04 n15
+link n05 n14 bw 16
+get n05
+set n05 ram 64
+get n06
+ping n06 n08
+set n06 ram 1024
+link n05 n06 bw 128
+set n05 ram 1024
+set n03 ram 256
+set n03 cpu 64
+get n03
+set n14 ram 64
+set n14 ram 128
+link n14 n14 bw 64
+ping n07 n12
+set n14 disk 1024
+ping n14 n16
+set n16 disk 64
+get n16
+set n10 ram 128
+del n14
+link n12 n04 bw 16
+set n04 disk 256
+link n04 n01 bw 16
+link n04 n05 bw 64
+ping n15 n06
+get n15
+del n04
+ping n05 n02
+get n08
+get n15
+set n15 ram 64
+set n11 ram 1024
+get n06
+link n06 n01 bw 16
+link n06 n15 bw 128
+set n04 disk 512
+link n04 n14 bw 64
+ping n03 n06
+link n03 n10 bw 64
+set n10 cpu 128
+get n10
+link n10 n10 bw 16
+set n14 cpu 1024
+set n14 cpu 128
+set n14 cpu 512
+ping n16 n07
+link n16 n06 bw 16
+link n16 n02 bw 16
+set n16 cpu 128
+link n16 n05 bw 32
+link n16 n07 bw 16
+set n16 cpu 64
+set n16 disk 256
+set n04 disk 1024
+get n04
+ping n04 n06
+set n14 disk 256
+ping n01 n12
+set n01 cpu 1024
+set n01 ram 1024
+link n01 n13 bw 32
+link n01 n10 bw 16
+ping n13 n11
+get n13
+link n13 n14 bw 16
+link n03 n16 bw 64
+set n03 disk 1024
+set n03 disk 256
+get n01
+link n04 n06 bw 128
+set n04 cpu 256
+set n04 disk 256
+set n15 ram 512
+set n15 cpu 256
+set n15 cpu 64
+set n15 disk 64
+set n15 ram 128
+set n15 ram 64
+set n10 ram 512
+set n10 disk 512
+set n11 cpu 256
+set n11 disk 128
+set n11 disk 64
+link n02 n04 bw 16
+set n02 cpu 128
+link n02 n13 bw 16
+ping n03 n07
+ping n03 n06
+set n03 cpu 1024
+link n07 n10 bw 16
+del n05
+ping n01 n06
+del n14
+link n11 n01 bw 32
+del n14
+link n12 n01 bw 64
+link n11 n11 bw 128
+ping n11 n14
+ping n11 n16
+get n12
+link n12 n05 bw 64
+ping n04 n12
+get n04
+del n13
+set n02 ram 1024
+link n01 n06 bw 32
+set n01 disk 1024
+get n14
+get n13
+set n13 disk 64
+set n15 ram 512
+ping n14 n04
+set n04 ram 1024
+set n04 disk 512
+link n01 n07 bw 128
+set n01 disk 64
+ping n01 n07
+set n01 cpu 64
+ping n01 n11
+set n01 disk 256
+get n01
+set n13 cpu 1024
+set n13 disk 1024
+set n11 disk 1024
+link n14 n08 bw 128
+set n14 cpu 64
+set n14 disk 1024
+link n09 n13 bw 16
+ping n04 n05
+get n04
+set n02 cpu 512
+set n02 cpu 64
+ping n02 n10
+get n02
+link n02 n07 bw 32
+ping n15 n11
+link n15 n10 bw 128
+link n15 n14 bw 16
+del n16
+set n15 disk 64
+set n11 cpu 1024
+set n11 cpu 128
+get n11
+set n11 disk 64
+ping n05 n01
+link n05 n13 bw 128
+set n05 cpu 256
+set n05 ram 128
+del n16
+ping n11 n03
+set n15 disk 128
+get n15
+ping n15 n14
+get n15
+link n15 n10 bw 32
+set n15 cpu 256
+set n15 cpu 512
+set n02 cpu 128
+ping n02 n14
+set n02 cpu 128
+set n11 ram 1024
+link n06 n06 bw 128
+link n05 n12 bw 128
+link n05 n01 bw 64
+set n06 cpu 512
+ping n07 n10
+set n08 cpu 128
+ping n08 n01
+set n08 cpu 64
+set n08 cpu 512
+link n08 n06 bw 16
+link n08 n08 bw 64
+ping n02 n15
+set n02 ram 64
+set n02 cpu 64
+set n02 cpu 256
+set n02 disk 256
+del n08
+link n15 n04 bw 16
+set n15 disk 512
+get n15
+get n05
+set n05 cpu 1024
+set n05 cpu 512
+del n14
+get n05
+ping n16 n05
+set n16 ram 128
+link n02 n03 bw 32
+set n02 disk 1024
+set n02 disk 512
+get n09
+set n09 disk 1024
+link n09 n13 bw 128
+set n10 ram 256
+set n10 cpu 512
+set n10 cpu 64
+set n10 ram 1024
+get n10
+set n10 ram 256
+set n15 cpu 512
+ping n15 n13
+set n15 disk 64
+del n15
+set n15 disk 1024
+set n15 ram 512
+set n11 disk 256
+set n11 cpu 128
+set n05 ram 1024
+set n10 disk 128
+get n04
+del n13
+link n04 n11 bw 128
+link n13 n05 bw 32
+link n06 n11 bw 64
+ping n06 n16
+set n11 disk 256
+set n11 disk 1024
+set n11 disk 512
+get n11
+set n08 cpu 256
+link n08 n14 bw 16
+set n08 disk 512
+ping n08 n07
+set n05 ram 64
+set n05 disk 512
+set n10 cpu 1024
+set n10 cpu 512
+set n10 ram 1024
+set n10 disk 256
+set n16 cpu 512
+set n16 cpu 256
+set n16 disk 64
+link n16 n16 bw 32
+get n01
+set n01 cpu 256
+set n01 ram 128
+ping n01 n02
+set n01 ram 64
+set n13 ram 512
+ping n13 n14
+del n03
+link n13 n13 bw 16
+set n13 disk 512
+del n16
+set n13 ram 128
+set n13 cpu 1024
+set n13 ram 1024
+set n16 disk 128
+link n01 n07 bw 32
+set n01 ram 128
+set n01 disk 64
+set n14 cpu 64
+link n14 n07 bw 64
+set n14 disk 128
+link n14 n05 bw 128
+set n14 ram 64
+set n10 ram 1024
+set n10 ram 256
+ping n10 n14
+ping n03 n10
+link n02 n14 bw 16
+set n02 cpu 1024
+del n12
+del n02
+set n05 cpu 128
+ping n05 n04
+get n13
+set n16 cpu 64
+del n09
+link n16 n11 bw 16
+link n02 n11 bw 16
+ping n02 n01
+link n02 n08 bw 16
+set n02 cpu 512
+set n09 ram 512
+set n09 cpu 512
+set n09 disk 128
+set n16 disk 128
+link n16 n13 bw 128
+set n16 disk 512
+ping n16 n13
+set n16 ram 64
+link n08 n09 bw 64
+set n08 cpu 64
+ping n08 n09
+ping n07 n06
+set n07 ram 512
+set n16 ram 256
+get n16
+set n16 disk 256
+set n10 cpu 64
+set n10 ram 1024
+set n10 cpu 1024
+set n12 disk 256
+get n12
+del n15
+ping n01 n15
+ping n01 n13
+set n01 cpu 64
+ping n01 n06
+link n01 n07 bw 16
+set n06 ram 1024
+set n06 ram 64
+link n06 n01 bw 32
+link n05 n01 bw 128
+link n14 n08 bw 32
+link n14 n01 bw 32
+link n14 n06 bw 128
+link n14 n03 bw 32
+link n14 n16 bw 128
+link n04 n12 bw 64
+set n06 disk 128
+set n06 ram 1024
+link n06 n12 bw 128
+link n01 n01 bw 16
+get n01
+link n01 n07 bw 64
+ping n01 n03
+ping n08 n06
+set n04 ram 256
+set n07 ram 64
+link n07 n08 bw 16
+link n04 n14 bw 32
+get n15
+link n15 n02 bw 32
+set n15 ram 1024
+set n11 disk 64
+set n11 cpu 1024
+set n11 disk 1024
+set n11 disk 256
+link n08 n10 bw 128
+link n10 n16 bw 16
+set n08 disk 1024
+set n01 cpu 128
+set n01 cpu 256
+ping n01 n07
+del n01
+set n01 ram 64
+set n01 disk 256
+ping n01 n02
+link n01 n16 bw 64
+link n01 n04 bw 64
+set n01 ram 256
+del n06
+get n08
+set n03 cpu 1024
+link n03 n08 bw 16
+set n03 disk 128
+set n03 disk 256
+link n11 n05 bw 64
+set n11 disk 128
+set n09 cpu 64
+ping n09 n16
+set n09 ram 1024
+set n14 cpu 64
+link n14 n12 bw 16
+ping n14 n12
+set n14 cpu 1024
+link n14 n05 bw 16
+link n07 n07 bw 32
+ping n07 n07
+set n07 disk 256
+link n07 n13 bw 128
+link n04 n10 bw 32
+set n04 ram 512
+link n16 n07 bw 16
+get n16
+link n12 n11 bw 16
+set n05 disk 512
+link n05 n05 bw 32
+ping n05 n12
+link n05 n12 bw 16
+set n01 ram 256
+ping n01 n15
+link n01 n03 bw 128
+link n06 n01 bw 32
+link n06 n11 bw 64
+del n09
+set n06 disk 512
+link n06 n16 bw 64
+set n06 cpu 1024
+set n12 ram 512
+link n08 n11 bw 32
+link n08 n02 bw 64
+link n08 n14 bw 128
+ping n08 n05
+set n08 ram 256
+link n07 n05 bw 64
+get n13
+set n09 cpu 256
+del n13
+set n03 cpu 1024
+set n03 ram 64
+set n02 cpu 64
+ping n05 n12
+get n01
+ping n01 n10
+link n05 n15 bw 16
+get n05
+ping n07 n14
+link n07 n13 bw 128
+get n16
+ping n16 n01
+set n16 ram 1024
+get n15
+del n11
+set n06 ram 1024
+link n05 n09 bw 16
+set n05 ram 128
+link n09 n15 bw 16
+link n12 n14 bw 64
+set n12 disk 512
+get n14
+ping n14 n09
+set n14 cpu 128
+set n01 cpu 256
+link n01 n12 bw 64
+ping n03 n05
+link n03 n03 bw 16
+link n03 n08 bw 128
+link n03 n12 bw 128
+link n05 n08 bw 16
+ping n05 n08
+set n05 ram 256
+link n03 n11 bw 32
+ping n03 n14
+ping n04 n07
+set n04 disk 512
+get n04
+ping n04 n01
+ping n14 n04
+ping n10 n03
+set n10 cpu 64
+get n14
+set n14 disk 512
+link n15 n08 bw 128
+set n15 disk 128
+set n15 ram 1024
+get n03
+set n03 cpu 128
+get n02
+ping n02 n14
+set n09 disk 128
+link n09 n16 bw 128
+ping n09 n01
+set n09 disk 64
+ping n09 n02
+set n11 disk 64
+ping n04 n09
+get n10
+link n10 n06 bw 16
+link n10 n01 bw 16
+set n10 disk 256
+set n11 ram 1024
+set n11 disk 256
+set n11 disk 64
+set n09 cpu 128
+get n09
+set n09 cpu 128
+del n12
+link n07 n03 bw 16
+ping n07 n08
+set n07 cpu 1024
+set n07 ram 256
+ping n02 n11
+link n02 n10 bw 64
+get n09
+set n09 cpu 64
+set n07 ram 256
+set n07 disk 1024
+ping n08 n09
+set n08 ram 128
+link n08 n09 bw 128
+link n08 n05 bw 128
+ping n07 n10
+get n07
+link n01 n06 bw 16
+get n10
+set n09 disk 256
+set n09 cpu 512
+link n09 n05 bw 32
+get n09
+ping n09 n12
+ping n09 n01
+set n03 disk 256
+get n03
+ping n15 n06
+set n01 disk 512
+set n01 ram 128
+ping n01 n11
+link n01 n09 bw 128
+set n01 ram 128
+ping n01 n13
+set n07 disk 512
+link n02 n07 bw 64
+link n14 n09 bw 32
+ping n14 n01
+set n14 ram 256
+link n14 n13 bw 16
+ping n07 n03
+link n07 n13 bw 64
+set n07 disk 64
+link n07 n12 bw 32
+get n07
+set n09 cpu 128
+link n09 n04 bw 16
+link n15 n09 bw 64
+set n15 ram 1024
+link n15 n11 bw 16
+set n02 disk 512
+link n02 n10 bw 128
+get n02
+ping n02 n05
+get n02
+set n08 disk 256
+set n02 ram 128
+set n07 ram 1024
+link n07 n01 bw 64
+get n07
+ping n07 n12
+set n07 ram 512
+link n15 n15 bw 32
+ping n15 n12
+ping n15 n02
+ping n15 n13
+set n04 ram 64
+get n04
+link n04 n14 bw 64
+ping n05 n04
+set n05 ram 512
+set n05 ram 64
+set n05 disk 128
+set n05 ram 512
+link n05 n01 bw 64
+ping n12 n11
+set n12 cpu 1024
+link n12 n05 bw 32
+link n14 n05 bw 64
+link n14 n05 bw 32
+link n14 n16 bw 16
+ping n15 n06
+get n10
+set n10 cpu 64
+ping n02 n03
+set n02 cpu 128
+ping n01 n10
+get n01
+ping n01 n01
+link n12 n04 bw 16
+ping n01 n16
+ping n01 n14
+set n01 ram 256
+ping n13 n10
+link n16 n09 bw 128
+link n16 n05 bw 128
+ping n16 n04
+link n13 n05 bw 32
+ping n13 n15
+link n02 n01 bw 128
+set n02 cpu 128
+ping n02 n15
+set n02 cpu 128
+link n02 n09 bw 16
+del n03
+link n16 n01 bw 128
+get n09
+set n09 ram 512
+link n09 n04 bw 128
+get n09
+ping n02 n12
+ping n02 n02
+link n02 n03 bw 64
+ping n13 n02
+ping n13 n13
+link n05 n15 bw 16
+get n05
+ping n05 n08
+link n05 n10 bw 32
+ping n13 n06
+link n13 n15 bw 16
+set n13 disk 1024
+link n13 n14 bw 32
+link n06 n16 bw 16
+link n06 n04 bw 128
+set n15 ram 64
+set n15 ram 128
+set n15 cpu 64
+ping n15 n02
+link n04 n06 bw 16
+link n04 n11 bw 128
+set n02 disk 512
+ping n02 n15
+set n02 ram 1024
+set n01 cpu 512
+set n01 cpu 256
+link n01 n16 bw 32
+set n01 disk 1024
+del n12
+link n06 n10 bw 64
+ping n06 n16
+set n06 ram 128
+ping n06 n16
+set n06 ram 64
+set n06 disk 1024
+set n03 cpu 256
+set n11 cpu 128
+set n11 cpu 1024
+ping n11 n12
+link n11 n13 bw 16
+set n06 cpu 128
+set n03 disk 1024
+set n03 cpu 512
+set n07 ram 256
+set n07 cpu 64
+del n07
+ping n06 n09
+get n06
+link n05 n11 bw 16
+link n08 n13 bw 128
+set n13 ram 256
+link n12 n07 bw 16
+set n12 cpu 64
+link n13 n13 bw 32
+get n13
+set n14 disk 64
+ping n06 n06
+set n06 cpu 256
+set n06 cpu 64
+link n04 n10 bw 128
+set n04 cpu 128
+set n04 ram 64
+set n02 ram 512
+set n13 cpu 256
+set n10 ram 1024
+ping n04 n15
+ping n04 n11
+link n04 n09 bw 64
+set n03 disk 128
+set n03 cpu 512
+set n03 ram 1024
+del n14
+set n14 ram 256
+set n14 cpu 512
+set n06 disk 256
+link n06 n06 bw 16
+set n06 cpu 1024
+set n06 disk 128
+set n06 ram 1024
+del n07
+get n02
+set n04 disk 256
+link n04 n05 bw 128
+link n04 n14 bw 32
+set n04 ram 512
+del n02
+link n04 n05 bw 128
+link n11 n01 bw 16
+ping n10 n02
+link n10 n07 bw 32
+del n03
+ping n08 n10
+link n08 n07 bw 64
+link n10 n07 bw 64
+set n02 disk 128
+set n02 ram 256
+link n02 n06 bw 32
+link n09 n04 bw 64
+get n01
+link n01 n10 bw 32
+set n01 cpu 256
+ping n01 n10
+ping n08 n14
+del n07
+ping n08 n14
+set n13 ram 512
+del n11
+link n13 n05 bw 64
+link n13 n04 bw 128
+del n05
+ping n13 n02
+link n05 n03 bw 128
+set n05 cpu 512
+set n05 ram 128
+link n05 n07 bw 16
+del n07
+set n01 ram 512
+set n01 cpu 1024
+link n01 n09 bw 128
+ping n10 n14
+link n03 n02 bw 16
+link n03 n09 bw 64
+set n01 ram 256
+ping n01 n03
+set n01 ram 512
+link n15 n06 bw 64
+set n01 disk 128
+ping n01 n12
+link n01 n01 bw 64
+set n01 cpu 128
+set n01 cpu 64
+set n07 cpu 256
+ping n07 n09
+set n07 disk 128
+set n07 cpu 64
+link n11 n06 bw 64
+del n14
+link n04 n05 bw 16
+set n04 cpu 1024
+set n09 cpu 256
+set n09 disk 128
+set n09 cpu 1024
+link n10 n10 bw 32
+get n15
+set n04 cpu 128
+del n07
+link n01 n01 bw 64
+set n01 cpu 1024
+set n16 ram 1024
+set n16 disk 128
+set n16 ram 256
+link n16 n07 bw 32
+link n04 n15 bw 16
+link n04 n04 bw 16
+set n15 cpu 64
+link n15 n04 bw 32
+set n12 disk 512
+ping n06 n03
+get n06
+set n09 disk 1024
+set n10 cpu 512
+ping n01 n07
+get n16
+set n16 cpu 512
+link n01 n05 bw 128
+link n01 n12 bw 64
+link n01 n02 bw 128
+set n01 disk 128
+link n01 n08 bw 128
+set n01 disk 256
+ping n02 n10
+link n02 n01 bw 128
+del n02
+get n11
+set n11 disk 1024
+link n11 n10 bw 128
+set n11 disk 1024
+ping n02 n02
+ping n03 n14
+ping n13 n14
+set n09 ram 128
+del n14
+link n16 n14 bw 128
+del n02
+ping n16 n02
+set n16 disk 128
+set n03 disk 1024
+set n03 cpu 1024
+ping n09 n03
+link n09 n11 bw 16
+ping n09 n07
+link n09 n11 bw 128
+link n03 n04 bw 16
+set n03 ram 64
+link n03 n01 bw 16
+set n14 disk 64
+set n14 ram 64
+link n14 n05 bw 128
+set n05 ram 512
+get n05
+ping n11 n01
+set n11 disk 128
+set n11 cpu 256
+ping n11 n11
+get n12
+del n01
+link n03 n09 bw 16
+ping n03 n09
+link n03 n08 bw 64
+link n01 n11 bw 16
+del n15
+ping n01 n05
+ping n10 n14
+get n10
+set n16 disk 1024
+set n16 ram 512
+ping n16 n03
+set n16 disk 64
+set n16 ram 128
+ping n16 n15
+set n07 disk 256
+set n04 cpu 1024
+link n04 n13 bw 64
+link n04 n14 bw 128
+set n01 disk 1024
+link n01 n06 bw 64
+ping n01 n09
+set n01 disk 1024
+ping n13 n08
+link n13 n06 bw 128
+set n13 ram 1024
+ping n13 n01
+ping n04 n16
+link n12 n08 bw 32
+set n03 cpu 128
+link n03 n07 bw 32
+ping n03 n03
+link n03 n15 bw 16
+link n03 n12 bw 16
+link n03 n06 bw 32
+set n03 cpu 64
+link n03 n05 bw 64
+set n11 disk 256
+set n11 ram 256
+ping n11 n07
+set n11 cpu 512
+link n11 n07 bw 16
+ping n06 n10
+set n06 disk 256
+set n06 ram 512
+ping n06 n13
+ping n06 n11
+set n01 cpu 64
+link n01 n11 bw 64
+set n01 ram 256
+ping n01 n07
+ping n09 n06
+set n09 ram 128
+set n06 ram 256
+ping n06 n12
+set n06 ram 512
+set n04 ram 256
+link n04 n13 bw 16
+set n04 disk 128
+ping n11 n09
+ping n11 n02
+ping n11 n09
+ping n10 n05
+ping n10 n12
+ping n10 n08
+link n10 n11 bw 16
+ping n15 n12
+link n15 n03 bw 32
+set n15 ram 1024
+set n03 disk 256
+set n08 ram 256
+link n10 n01 bw 128
+link n10 n16 bw 32
+ping n15 n13
+link n10 n02 bw 16
+link n10 n15 bw 16
+set n10 cpu 256
+set n13 disk 512
+ping n13 n13
+ping n13 n06
+link n07 n05 bw 128
+ping n11 n12
+link n10 n15 bw 64
+ping n12 n04
+set n12 cpu 128
+ping n04 n13
+link n04 n01 bw 32
+link n12 n11 bw 32
+set n05 ram 1024
+set n05 cpu 256
+set n05 cpu 512
+link n10 n13 bw 32
+set n10 cpu 128
+link n10 n05 bw 16
+link n10 n10 bw 64
+ping n10 n03
+ping n14 n11
+set n06 ram 128
+ping n06 n08
+set n06 ram 1024
+set n06 disk 128
+set n04 disk 1024
+set n02 cpu 512
+link n02 n14 bw 32
+get n04
+set n04 cpu 128
+ping n08 n03
+set n10 ram 512
+ping n10 n03
+set n10 ram 1024
+set n04 cpu 1024
+set n04 disk 1024
+link n04 n13 bw 128
+set n04 disk 64
+ping n12 n09
+ping n11 n10
+set n11 cpu 256
+ping n11 n09
+set n11 ram 256
+set n03 ram 512
+link n12 n10 bw 64
+ping n12 n07
+set n12 cpu 512
+get n09
+link n09 n02 bw 64
+link n10 n11 bw 64
+del n11
+set n05 cpu 128
+get n05
+link n05 n04 bw 16
+ping n13 n05
+set n13 ram 512
+set n09 disk 128
+link n09 n04 bw 128
+link n08 n13 bw 64
+set n08 ram 64
+ping n08 n13
+get n08
+set n04 disk 1024
+ping n04 n04
+link n04 n06 bw 32
+get n09
+link n09 n03 bw 64
+set n07 ram 64
+link n07 n12 bw 32
+ping n04 n14
+set n04 cpu 64
+set n04 ram 1024
+link n16 n05 bw 64
+set n16 cpu 64
+link n12 n01 bw 64
+ping n12 n02
+set n12 disk 128
+ping n02 n10
+link n03 n16 bw 128
+link n03 n03 bw 64
+set n03 cpu 128
+set n11 cpu 1024
+ping n11 n07
+ping n07 n06
+link n07 n06 bw 32
+get n07
+link n07 n10 bw 32
+link n06 n09 bw 64
+set n12 ram 128
+set n12 cpu 512
+link n12 n13 bw 32
+get n12
+set n12 cpu 64
+link n13 n15 bw 64
+get n10
+ping n10 n02
+ping n10 n09
+get n08
+ping n08 n09
+ping n05 n02
+set n03 ram 64
+set n03 cpu 1024
+link n07 n13 bw 128
+set n07 cpu 64
+ping n07 n07
+set n15 disk 1024
+set n15 cpu 64
+ping n16 n06
+set n16 ram 512
+set n16 ram 64
+get n12
+set n03 ram 1024
+set n03 disk 128
+link n03 n01 bw 16
+get n15
+ping n15 n06
+set n12 cpu 128
+ping n05 n05
+ping n05 n04
+link n11 n14 bw 64
+set n11 ram 128
+set n11 cpu 1024
+set n11 ram 512
+set n11 cpu 256
+set n02 disk 256
+ping n02 n12
+link n02 n11 bw 128
+link n16 n02 bw 32
+ping n16 n12
+set n09 ram 64
+del n06
+set n12 disk 512
+del n16
+ping n01 n13
+link n01 n02 bw 16
+ping n01 n16
+set n12 disk 1024
+link n12 n04 bw 64
+get n12
+link n06 n01 bw 16
+del n04
+set n14 ram 64
+link n14 n16 bw 128
+get n04
+link n06 n14 bw 64
+set n11 ram 256
+set n13 ram 1024
+set n13 ram 256
+ping n05 n15
+ping n05 n02
+get n03
+link n03 n04 bw 16
+ping n01 n08
+set n16 ram 1024
+set n16 cpu 256
+ping n16 n13
+set n16 ram 64
+set n11 cpu 256
+get n11
+set n12 disk 256
+set n12 disk 1024
+ping n16 n11
+link n16 n16 bw 16
+get n08
+set n13 cpu 512
+link n13 n07 bw 32
+get n13
+get n11
+set n11 disk 512
+get n10
+set n10 ram 256
+get n14
+get n16
+set n16 cpu 1024
+set n16 disk 512
+set n16 ram 128
+set n16 ram 64
+ping n11 n05
+ping n07 n06
+del n08
+ping n06 n16
+set n01 ram 64
+set n01 disk 256
+set n01 ram 64
+del n10
+link n13 n07 bw 128
+link n13 n16 bw 64
+set n13 cpu 1024
+set n13 ram 128
+set n11 ram 128
+ping n11 n09
+set n14 ram 1024
+ping n03 n15
+link n03 n14 bw 128
+ping n03 n04
+link n07 n11 bw 64
+link n07 n03 bw 16
+set n08 disk 1024
+link n08 n08 bw 32
+get n08
+del n08
+link n02 n15 bw 32
+link n02 n03 bw 128
+set n02 ram 256
+get n04
+set n04 ram 256
+ping n04 n15
+link n04 n11 bw 16
+set n04 disk 1024
+link n06 n05 bw 16
+set n06 disk 512
+link n06 n13 bw 16
+set n03 ram 256
+get n11
+link n02 n14 bw 128
+get n09
+set n12 ram 512
+link n11 n12 bw 32
+set n11 ram 512
+ping n11 n09
+link n06 n08 bw 64
+ping n06 n07
+set n01 cpu 128
+ping n11 n14
+ping n04 n08
+ping n04 n01
+ping n11 n03
+ping n11 n05
+set n11 ram 128
+link n11 n04 bw 128
+set n11 disk 128
+ping n06 n13
+del n15
+del n14
+link n06 n04 bw 64
+ping n06 n10
+get n06
+set n16 cpu 512
+set n16 disk 128
+set n16 disk 64
+get n16
+ping n02 n04
+link n02 n02 bw 64
+link n13 n02 bw 64
+set n13 disk 1024
+set n13 disk 256
+ping n13 n04
+set n16 ram 128
+link n04 n13 bw 32
+link n04 n06 bw 64
+set n04 disk 128
+ping n04 n03
+set n04 disk 64
+link n04 n13 bw 64
+ping n04 n12
+ping n09 n10
+set n07 disk 512
+link n07 n06 bw 32
+set n09 disk 128
+set n09 ram 256
+set n09 cpu 256
+set n09 cpu 128
+set n09 disk 128
+link n09 n09 bw 64
+link n02 n15 bw 16
+set n02 disk 512
+set n02 cpu 512
+set n02 ram 512
+set n02 disk 64
+del n12
+set n07 disk 128
+ping n07 n12
+set n05 ram 128
+set n09 disk 64
+link n09 n02 bw 32
+link n15 n03 bw 128
+link n15 n09 bw 64
+get n15
+set n15 disk 64
+set n15 ram 512
+link n15 n08 bw 64
+ping n09 n14
+del n09
+link n09 n16 bw 128
+ping n03 n05
+set n03 disk 256
+link n03 n08 bw 64
+del n13
+set n03 disk 256
+link n03 n14 bw 128
+get n01
+set n11 disk 1024
+set n11 disk 256
+set n12 disk 256
+set n12 disk 64
+set n12 disk 512
+ping n07 n10
+get n07
+link n07 n01 bw 64
+ping n08 n15
+del n05
+link n08 n08 bw 32
+get n08
+ping n08 n12
+set n11 ram 128
+ping n11 n04
+set n06 cpu 256
+ping n06 n06
+set n07 disk 512
+ping n07 n16
+set n16 disk 128
+link n16 n13 bw 16
+link n05 n11 bw 128
+set n14 cpu 512
+set n16 disk 512
+ping n06 n05
+ping n06 n07
+set n06 disk 512
+set n06 cpu 512
+ping n06 n11
+link n05 n12 bw 64
+set n05 ram 64
+get n10
+ping n10 n05
+set n10 cpu 1024
+ping n06 n08
+link n06 n13 bw 128
+set n06 cpu 256
+set n06 ram 64
+ping n09 n01
+set n03 ram 64
+link n03 n16 bw 64
+link n08 n08 bw 128
+link n08 n16 bw 64
+set n08 cpu 1024
+set n08 ram 64
+set n08 disk 1024
+set n04 disk 1024
+get n04
+set n04 disk 1024
+link n09 n15 bw 64
+link n09 n09 bw 128
+del n10
+set n16 disk 256
+link n16 n08 bw 16
+link n16 n01 bw 16
+set n07 ram 512
+set n07 ram 128
+link n07 n05 bw 64
+set n07 ram 64
+get n06
+set n06 disk 512
+set n01 ram 1024
+set n01 cpu 256
+set n01 cpu 64
+link n03 n02 bw 64
+get n03
+link n03 n01 bw 128
+link n03 n02 bw 64
+del n11
+del n04
+link n16 n09 bw 32
+del n16
+set n03 cpu 128
+set n03 disk 128
+ping n15 n16
+set n15 ram 128
+set n13 disk 128
+del n09
+set n11 disk 1024
+link n08 n01 bw 64
+ping n11 n06
+set n11 cpu 512
+link n15 n10 bw 16
+link n15 n04 bw 128
+link n15 n04 bw 32
+ping n16 n09
+set n16 disk 256
+get n13
+set n13 ram 512
+ping n02 n10
+ping n02 n09
+link n02 n14 bw 64
+set n14 cpu 512
+set n14 cpu 64
+link n14 n10 bw 32
+get n05
+get n12
+ping n12 n09
+link n11 n05 bw 128
+set n11 cpu 512
+set n01 ram 128
+ping n12 n12
+ping n12 n03
+get n12
+ping n12 n13
+set n09 disk 256
+set n08 ram 64
+set n08 cpu 256
+set n08 disk 64
+ping n08 n07
+get n08
+set n08 cpu 512
+link n03 n11 bw 128
+link n03 n09 bw 128
+set n03 disk 64
+link n03 n03 bw 128
+get n03
+ping n03 n14
+set n05 cpu 64
+set n05 ram 1024
+set n11 ram 256
+link n12 n09 bw 32
+ping n12 n13
+set n16 cpu 256
+ping n16 n16
+set n16 disk 512
+link n08 n09 bw 64
+link n10 n14 bw 32
+set n10 ram 256
+set n14 ram 128
+ping n14 n10
+set n14 cpu 512
+set n14 cpu 64
+link n14 n15 bw 64
+link n14 n09 bw 16
+link n07 n13 bw 64
+link n07 n14 bw 64
+set n07 ram 256
+link n10 n03 bw 16
+set n10 ram 128
+set n10 disk 512
+ping n04 n02
+del n07
+get n02
+set n13 cpu 256
+set n08 cpu 512
+link n08 n06 bw 32
+del n08
+get n08
+link n08 n15 bw 16
+set n08 cpu 1024
+set n04 disk 512
+set n07 disk 256
+ping n01 n05
+set n08 cpu 64
+ping n08 n14
+get n08
+set n08 cpu 128
+get n08
+link n08 n10 bw 128
+link n15 n14 bw 64
+ping n12 n14
+ping n12 n16
+ping n14 n16
+set n14 ram 256
+ping n14 n14
+get n14
+get n13
+ping n13 n10
+link n13 n12 bw 16
+set n13 ram 128
+link n13 n01 bw 128
+ping n13 n12
+get n13
+link n13 n03 bw 128
+set n13 ram 256
+link n14 n15 bw 64
+link n04 n01 bw 16
+link n11 n16 bw 32
+link n11 n05 bw 128
+link n11 n12 bw 16
+set n11 ram 128
+ping n11 n14
+ping n11 n10
+set n03 cpu 1024
+link n03 n11 bw 32
+get n03
+link n10 n04 bw 16
+link n06 n01 bw 128
+ping n06 n10
+link n13 n14 bw 32
+ping n03 n04
+set n03 disk 256
+set n03 cpu 512
+set n03 ram 512
+set n10 cpu 64
+link n01 n07 bw 128
+set n07 ram 1024
+set n07 disk 1024
+link n16 n05 bw 16
+link n16 n07 bw 32
+del n06
+ping n09 n04
+link n09 n13 bw 128
+set n11 ram 512
+link n13 n08 bw 32
+get n13
+ping n09 n16
+set n09 ram 512
+ping n09 n06
+set n01 disk 1024
+get n01
+link n01 n03 bw 16
+set n11 cpu 1024
+get n11
+ping n03 n01
+set n03 disk 64
+set n03 disk 128
+link n16 n02 bw 16
+ping n16 n03
+get n16
+ping n16 n04
+ping n16 n14
+ping n03 n16
+set n03 cpu 256
+link n03 n16 bw 128
+get n13
+set n13 cpu 128
+set n13 disk 128
+set n13 cpu 128
+set n03 cpu 64
+set n03 ram 64
+link n09 n16 bw 128
+set n09 cpu 256
+set n09 disk 512
+link n09 n03 bw 64
+set n09 cpu 256
+set n04 ram 256
+set n04 ram 1024
+get n08
+ping n05 n13
+set n11 cpu 1024
+link n12 n08 bw 16
+set n12 cpu 256
+ping n12 n12
+set n15 cpu 1024
+set n13 ram 512
+set n12 ram 512
+ping n12 n12
+set n12 ram 512
+link n15 n06 bw 16
+link n15 n12 bw 16
+set n03 ram 64
+ping n03 n12
+set n02 ram 512
+set n11 disk 512
+set n11 cpu 512
+ping n11 n12
+set n11 cpu 512
+ping n08 n11
+link n08 n13 bw 32
+del n06
+ping n08 n05
+ping n01 n03
+set n01 ram 256
+set n16 ram 1024
+get n16
+set n16 ram 1024
+set n16 cpu 256
+set n02 disk 256
+set n02 cpu 1024
+set n02 ram 512
+set n09 cpu 1024
+link n09 n06 bw 64
+get n08
+set n08 disk 64
+set n08 disk 128
+set n08 disk 1024
+set n08 cpu 256
+get n10
+set n10 cpu 512
+ping n09 n14
+ping n09 n12
+set n09 cpu 64
+set n09 ram 1024
+link n07 n07 bw 128
+set n07 cpu 64
+set n07 ram 1024
+set n14 disk 128
+set n14 ram 64
+set n03 cpu 64
+link n03 n10 bw 64
+ping n10 n01
+get n10
+link n15 n04 bw 32
+set n15 disk 256
+link n15 n15 bw 32
+ping n15 n15
+link n14 n16 bw 32
+ping n14 n08
+get n14
+set n12 cpu 512
+set n12 cpu 128
+ping n07 n10
+ping n07 n06
+link n07 n10 bw 16
+link n07 n16 bw 64
+link n02 n13 bw 32
+link n02 n03 bw 16
+get n13
+link n13 n03 bw 64
+link n13 n16 bw 16
+set n13 cpu 64
+ping n13 n13
+set n13 disk 256
+get n13
+set n07 disk 64
+ping n01 n01
+link n01 n10 bw 128
+set n06 disk 64
+ping n06 n11
+set n06 ram 1024
+link n07 n03 bw 32
+link n07 n11 bw 16
+link n07 n03 bw 32
+set n06 disk 1024
+set n06 cpu 128
+link n07 n04 bw 16
+ping n13 n07
+set n13 disk 256
+link n13 n14 bw 16
+set n13 cpu 1024
+link n13 n09 bw 64
+get n12
+link n12 n08 bw 16
+set n02 disk 128
+link n02 n09 bw 16
+set n16 ram 256
+del n02
+ping n16 n07
+set n16 cpu 1024
+link n16 n04 bw 128
+link n02 n16 bw 128
+del n06
+link n02 n13 bw 64
+ping n08 n16
+link n01 n11 bw 32
+get n08
+set n09 cpu 128
+ping n09 n12
+ping n03 n09
+ping n03 n11
+link n03 n03 bw 32
+set n12 ram 128
+set n09 cpu 1024
+ping n09 n04
+link n05 n11 bw 64
+set n06 cpu 256
+set n06 cpu 1024
+ping n06 n13
+ping n05 n06
+set n05 ram 64
+link n14 n16 bw 16
+ping n14 n10
+set n14 cpu 512
+ping n14 n02
+get n03
+get n16
+link n14 n05 bw 128
+link n14 n01 bw 128
+link n14 n12 bw 32
+set n11 cpu 64
+set n11 disk 1024
+set n11 disk 128
+set n09 disk 1024
+del n01
+link n13 n06 bw 128
+set n13 disk 64
+set n13 ram 128
+link n07 n13 bw 32
+set n07 ram 512
+link n02 n05 bw 32
+set n02 ram 1024
+set n06 ram 256
+ping n06 n02
+ping n14 n04
+set n01 cpu 128
+ping n01 n15
+get n16
+link n12 n14 bw 16
+set n12 disk 256
+ping n12 n07
+get n07
+link n07 n02 bw 128
+get n07
+ping n07 n10
+ping n12 n07
+set n12 disk 256
+set n12 ram 512
+set n02 ram 256
+link n02 n01 bw 64
+set n14 ram 128
+ping n14 n03
+link n14 n03 bw 32
+link n14 n02 bw 64
+set n16 ram 64
+set n16 ram 256
+set n10 cpu 64
+link n10 n06 bw 16
+link n16 n03 bw 32
+get n16
+ping n16 n02
+set n05 ram 128
+set n05 cpu 256
+set n05 cpu 64
+set n04 ram 128
+link n04 n16 bw 32
+link n16 n15 bw 128
+ping n05 n14
+set n04 cpu 1024
+del n13
+get n04
+ping n04 n15
+set n10 ram 64
+link n10 n05 bw 64
+ping n10 n02
+del n11
+set n05 ram 512
+set n14 disk 64
+set n08 disk 256
+ping n12 n03
+link n12 n10 bw 128
+link n12 n10 bw 64
+set n12 ram 64
+ping n14 n01
+ping n14 n15
+link n14 n03 bw 64
+del n07
+set n14 disk 128
+set n14 cpu 1024
+ping n14 n05
+set n14 ram 256
+link n14 n15 bw 128
+set n12 cpu 512
+set n03 disk 64
+set n03 ram 64
+get n03
+set n03 ram 1024
+link n03 n13 bw 64
+set n12 cpu 128
+del n06
+link n12 n08 bw 128
+ping n12 n08
+link n12 n04 bw 32
+set n04 ram 512
+set n12 cpu 1024
+set n08 ram 512
+get n15
+del n03
+ping n16 n14
+ping n16 n04
+del n10
+del n11
+set n06 cpu 128
+set n06 cpu 64
+link n11 n03 bw 16
+link n09 n04 bw 64
+set n11 ram 128
+set n11 cpu 512
+ping n11 n12
+get n13
+set n13 disk 64
+ping n13 n06
+link n13 n14 bw 32
+link n05 n13 bw 16
+link n02 n02 bw 16
+set n02 disk 128
+link n02 n12 bw 128
+link n02 n02 bw 128
+set n12 disk 1024
+set n12 ram 64
+ping n12 n10
+ping n12 n01
+set n14 disk 64
+set n15 ram 256
+set n15 disk 64
+set n15 disk 128
+get n04
+set n04 disk 512
+link n10 n10 bw 16
+get n10
+get n08
+ping n08 n13
+set n08 cpu 1024
+del n06
+link n13 n06 bw 32
+set n13 disk 256
+set n13 cpu 64
+set n10 ram 1024
+set n10 ram 128
+link n12 n10 bw 32
+link n12 n13 bw 16
+get n01
+set n01 ram 128
+del n08
+ping n01 n04
+set n01 disk 64
+ping n01 n02
+get n11
+set n11 cpu 256
+ping n14 n15
+set n14 cpu 512
+set n14 ram 1024
+ping n14 n15
+ping n14 n09
+get n10
+get n13
+set n13 ram 64
+del n10
+del n03
+del n12
+set n11 cpu 512
+link n11 n16 bw 64
+set n01 cpu 512
+ping n01 n07
+del n06
+link n02 n03 bw 16
+set n02 ram 64
+set n01 ram 512
+link n01 n15 bw 64
+ping n13 n05
+get n13
+link n13 n09 bw 64
+ping n13 n11
+set n03 cpu 128
+set n03 cpu 64
+ping n08 n09
+link n08 n04 bw 16
+set n08 ram 512
+set n16 cpu 256
+ping n16 n09
+link n16 n12 bw 32
+set n16 ram 1024
+link n16 n01 bw 128
+ping n09 n08
+set n04 disk 256
+set n04 disk 1024
+set n04 ram 256
+ping n16 n04
+link n16 n07 bw 32
+set n16 disk 64
+set n16 cpu 1024
+link n12 n02 bw 32
+link n12 n03 bw 32
+set n12 disk 512
+set n12 disk 128
+link n13 n06 bw 128
+ping n06 n09
+del n16
+set n01 cpu 64
+set n01 disk 512
+link n15 n01 bw 16
+set n15 cpu 64
+ping n15 n09
+set n08 disk 256
+link n08 n07 bw 32
+link n08 n07 bw 16
+link n08 n16 bw 32
+set n04 ram 1024
+set n04 ram 128
+link n11 n13 bw 32
+ping n11 n12
+ping n04 n12
+link n04 n07 bw 64
+set n08 disk 256
+link n08 n04 bw 128
+ping n08 n12
+set n07 disk 128
+link n07 n02 bw 32
+set n12 ram 1024
+set n16 ram 128
+set n11 cpu 512
+set n11 ram 1024
+get n11
+ping n11 n02
+ping n10 n12
+del n07
+ping n13 n14
+set n09 cpu 128
+set n13 ram 512
+ping n13 n05
+set n13 cpu 256
+get n11
+ping n11 n13
+link n11 n13 bw 16
+link n12 n14 bw 16
+link n12 n06 bw 128
+del n15
+link n09 n09 bw 128
+link n09 n12 bw 128
+set n09 cpu 64
+link n09 n09 bw 16
+get n09
+set n02 disk 128
+ping n02 n12
+get n02
+ping n02 n03
+set n02 cpu 1024
+set n03 cpu 1024
+set n03 cpu 256
+set n04 disk 256
+ping n04 n01
+set n04 cpu 512
+set n04 ram 256
+ping n03 n06
+ping n03 n09
+set n03 ram 1024
+set n03 cpu 64
+get n03
+set n16 cpu 64
+ping n16 n01
+link n16 n11 bw 16
+link n14 n13 bw 16
+ping n12 n04
+link n08 n05 bw 32
+ping n08 n16
+ping n08 n04
+ping n08 n16
+link n02 n15 bw 16
+link n02 n06 bw 16
+get n02
+set n15 ram 512
+ping n15 n04
+ping n09 n16
+get n03
+set n13 cpu 64
+set n01 cpu 64
+set n11 disk 128
+link n11 n10 bw 16
+set n11 ram 1024
+set n04 disk 256
+set n04 cpu 256
+set n11 disk 64
+set n11 ram 512
+ping n11 n05
+ping n11 n08
+set n09 ram 1024
+set n12 cpu 64
+link n12 n06 bw 16
+link n12 n08 bw 64
+del n16
+link n06 n05 bw 16
+set n03 ram 128
+ping n13 n07
+link n15 n15 bw 16
+get n15
+set n15 ram 128
+link n15 n12 bw 16
+get n15
+set n05 ram 128
+ping n05 n08
+link n05 n01 bw 16
+ping n05 n12
+set n05 cpu 64
+set n11 ram 256
+set n11 disk 128
+link n06 n14 bw 32
+set n06 disk 1024
+link n04 n07 bw 16
+ping n04 n04
+ping n09 n04
+ping n09 n07
+get n09
+set n10 cpu 256
+set n10 cpu 512
+link n06 n10 bw 32
+set n05 ram 128
+ping n05 n09
+set n10 disk 64
+set n09 cpu 128
+link n09 n14 bw 16
+ping n06 n02
+del n02
+get n04
+ping n04 n16
+set n13 disk 128
+set n13 ram 128
+link n10 n11 bw 16
+set n02 ram 1024
+ping n02 n08
+set n02 cpu 1024
+set n03 ram 1024
+link n12 n12 bw 128
+ping n12 n15
+del n06
+set n03 ram 512
+set n07 cpu 512
+link n06 n13 bw 64
+set n12 ram 64
+set n12 disk 1024
+set n04 disk 64
+set n04 disk 512
+get n04
+set n04 ram 512
+set n04 cpu 256
+set n04 ram 1024
+ping n08 n09
+set n08 ram 128
+get n08
+set n08 ram 64
+link n02 n13 bw 64
+set n02 disk 1024
+set n05 ram 256
+link n06 n05 bw 64
+del n04
+ping n06 n13
+link n07 n13 bw 64
+ping n06 n12
+link n06 n12 bw 128
+ping n06 n14
+get n07
+set n07 ram 1024
+ping n16 n16
+link n16 n04 bw 32
+ping n16 n03
+link n13 n14 bw 32
+set n13 cpu 128
+ping n11 n02
+link n12 n10 bw 128
+set n10 ram 1024
+set n02 ram 256
+link n02 n04 bw 128
+set n09 ram 512
+link n09 n03 bw 128
+ping n09 n03
+set n11 ram 256
+del n07
+set n06 disk 1024
+set n06 disk 128
+set n06 ram 512
+get n06
+link n10 n03 bw 64
+set n10 disk 256
+set n10 disk 1024
+get n10
+set n10 cpu 256
+get n07
+ping n01 n01
+ping n03 n10
+set n03 ram 512
+del n15
+set n08 disk 128
+set n16 cpu 256
+link n16 n14 bw 16
+set n11 cpu 1024
+ping n11 n11
+set n04 disk 256
+link n04 n01 bw 128
+ping n12 n12
+ping n12 n14
+set n11 disk 512
+link n11 n04 bw 32
+set n11 cpu 64
+set n11 disk 128
+set n04 ram 128
+set n04 cpu 128
+set n04 ram 256
+set n03 cpu 512
+ping n12 n02
+link n12 n06 bw 64
+set n12 cpu 64
+ping n03 n15
+set n03 ram 64
+set n03 cpu 512
+ping n15 n02
+get n15
+link n15 n13 bw 32
+link n08 n04 bw 32
+set n08 ram 512
+set n08 ram 128
+set n08 cpu 512
+link n08 n01 bw 32
+link n13 n10 bw 32
+set n13 ram 1024
+link n13 n10 bw 64
+link n07 n14 bw 32
+get n04
+ping n16 n02
+set n16 ram 512
+set n03 ram 256
+link n14 n13 bw 64
+ping n05 n10
+set n05 ram 128
+link n10 n04 bw 16
+ping n10 n13
+get n08
+ping n10 n08
+ping n10 n02
+ping n10 n01
+link n10 n08 bw 32
+set n10 ram 64
+set n10 cpu 64
+del n10
+set n06 cpu 64
+set n06 disk 512
+get n04
+set n04 disk 64
+del n06
+link n04 n15 bw 32
+link n04 n04 bw 32
+ping n05 n08
+ping n15 n07
+set n15 ram 1024
+get n16
+get n04
+set n12 ram 128
+set n05 disk 512
+ping n05 n09
+set n09 cpu 512
+ping n09 n04
+link n05 n03 bw 16
+ping n05 n04
+set n04 disk 64
+set n06 cpu 64
+link n06 n07 bw 32
+set n04 cpu 256
+link n04 n09 bw 64
+set n16 disk 128
+link n04 n09 bw 32
+ping n04 n13
+set n08 disk 1024
+set n08 cpu 128
+del n10
+set n15 cpu 64
+get n11
+link n11 n11 bw 32
+set n11 ram 1024
+get n11
+set n11 cpu 512
+set n11 disk 64
+link n01 n09 bw 32
+set n09 cpu 512
+ping n01 n05
+link n12 n03 bw 128
+link n12 n15 bw 16
+link n12 n05 bw 128
+set n12 cpu 256
+set n12 ram 64
+set n12 ram 128
+set n14 disk 256
+set n14 disk 64
+set n14 cpu 128
+get n14
+set n14 disk 1024
+del n04
+link n02 n11 bw 128
+get n02
+ping n12 n12
+link n12 n09 bw 16
+ping n09 n09
+set n09 ram 512
+get n04
+link n04 n08 bw 32
+link n09 n15 bw 128
+set n09 cpu 128
+ping n11 n04
+ping n16 n09
+link n16 n07 bw 64
+link n16 n05 bw 64
+set n04 cpu 256
+link n04 n02 bw 128
+del n04
+set n02 ram 512
+link n16 n12 bw 64
+set n02 ram 128
+del n09
+ping n02 n11
+get n02
+set n02 disk 512
+link n02 n07 bw 128
+set n02 cpu 128
+link n02 n08 bw 32
+del n02
+ping n14 n02
+link n03 n09 bw 16
+set n03 ram 1024
+del n11
+set n07 ram 1024
+link n07 n13 bw 128
+set n07 ram 128
+link n07 n05 bw 64
+set n16 cpu 64
+set n16 cpu 512
+set n16 cpu 64
+set n04 cpu 128
+del n12
+link n07 n13 bw 64
+set n07 cpu 256
+ping n13 n03
+link n07 n16 bw 32
+ping n15 n10
+link n15 n02 bw 32
+set n15 ram 512
+set n15 cpu 1024
+ping n08 n12
+ping n08 n04
+set n01 disk 1024
+link n01 n15 bw 128
+ping n03 n13
+set n03 ram 512
+set n03 cpu 256
+get n03
+del n13
+set n02 cpu 128
+del n12
+set n02 cpu 64
+get n02
+set n03 ram 128
+set n03 disk 128
+del n04
+ping n09 n02
+link n09 n15 bw 32
+link n11 n15 bw 64
+del n06
+ping n11 n05
+set n11 disk 128
+ping n11 n01
+set n11 disk 256
+link n10 n08 bw 32
+set n10 ram 512
+link n01 n14 bw 64
+set n01 ram 1024
+set n01 cpu 256
+link n01 n08 bw 128
+ping n01 n08
+ping n09 n08
+del n05
+del n08
+set n13 ram 128
+set n05 disk 1024
+set n11 ram 512
+set n11 disk 256
+ping n11 n01
+link n11 n05 bw 64
+ping n11 n16
+set n11 disk 128
+set n06 cpu 512
+get n02
+link n02 n04 bw 16
+ping n02 n05
+ping n11 n11
+ping n11 n04
+ping n01 n05
+set n01 cpu 256
+get n01
+set n01 disk 128
+link n16 n11 bw 16
+set n16 disk 128
+del n08
+ping n10 n06
+link n10 n01 bw 32
+link n10 n09 bw 64
+set n04 disk 1024
+set n16 ram 1024
+link n16 n13 bw 64
+ping n04 n09
+set n08 ram 256
+get n09
+set n09 cpu 512
+set n09 cpu 1024
+set n11 ram 128
+ping n11 n08
+set n14 ram 256
+link n14 n09 bw 16
+set n06 ram 256
+link n06 n10 bw 32
+set n15 disk 512
+set n15 ram 64
+ping n12 n03
+link n12 n16 bw 64
+del n03
+set n12 cpu 1024
+link n08 n13 bw 32
+link n09 n06 bw 64
+set n09 disk 512
+link n09 n15 bw 32
+set n09 cpu 256
+del n02
+set n11 cpu 128
+set n08 ram 256
+get n08
+set n04 disk 128
+del n09
+del n01
+link n04 n03 bw 128
+get n04
+ping n15 n07
+ping n15 n03
+link n15 n07 bw 16
+link n15 n02 bw 16
+del n07
+ping n08 n13
+ping n04 n14
+link n04 n08 bw 64
+ping n04 n08
+link n04 n11 bw 32
+set n04 disk 1024
+set n07 disk 64
+ping n07 n11
+get n12
+ping n12 n05
+get n12
+ping n12 n07
+set n03 disk 64
+set n03 ram 64
+set n03 disk 128
+set n10 ram 64
+del n14
+link n10 n15 bw 32
+set n10 cpu 1024
+set n01 cpu 1024
+set n01 cpu 512
+set n08 cpu 1024
+ping n08 n11
+set n08 ram 64
+set n08 cpu 512
+link n08 n04 bw 16
+ping n09 n15
+link n08 n06 bw 128
+set n08 disk 128
+ping n01 n07
+set n01 ram 128
+set n01 cpu 512
+link n06 n07 bw 128
+set n11 ram 512
+ping n13 n08
+del n15
+link n10 n03 bw 32
+set n09 ram 256
+set n09 cpu 256
+set n10 cpu 1024
+set n05 ram 256
+ping n05 n06
+link n05 n12 bw 32
+ping n05 n11
+ping n05 n16
+link n11 n07 bw 32
+set n06 cpu 128
+ping n06 n07
+set n06 ram 1024
+link n06 n04 bw 128
+link n05 n09 bw 64
+set n05 ram 256
+ping n13 n04
+link n13 n04 bw 64
+set n08 ram 1024
+ping n08 n08
+del n14
+set n10 ram 64
+ping n10 n15
+set n16 ram 128
+set n16 ram 64
+get n16
+del n14
+get n12
+set n10 disk 128
+set n10 cpu 64
+ping n10 n11
+link n10 n12 bw 32
+ping n10 n07
+ping n11 n14
+link n11 n15 bw 16
+ping n11 n02
+link n11 n12 bw 32
+link n11 n01 bw 64
+ping n16 n14
+ping n16 n16
+set n15 ram 64
+link n15 n11 bw 16
+set n03 disk 1024
+set n03 disk 512
+link n03 n14 bw 32
+set n09 cpu 256
+set n09 cpu 128
+ping n03 n03
+link n03 n04 bw 16
+get n03
+link n08 n09 bw 128
+del n12
+ping n16 n09
+del n15
+set n13 cpu 1024
+set n13 cpu 512
+get n03
+link n03 n01 bw 16
+set n03 cpu 1024
+ping n03 n01
+link n03 n09 bw 128
+del n02
+del n08
+set n02 ram 1024
+link n02 n11 bw 64
+ping n07 n05
+ping n07 n04
+link n07 n13 bw 16
+set n01 cpu 512
+set n01 disk 1024
+link n01 n15 bw 16
+set n01 cpu 512
+get n01
+ping n02 n13
+get n07
+del n10
+link n07 n13 bw 16
+set n07 ram 512
+ping n16 n10
+link n16 n02 bw 32
+link n10 n01 bw 64
+del n01
+set n14 ram 1024
+ping n11 n01
+set n11 cpu 64
+link n11 n01 bw 32
+set n11 ram 512
+set n11 disk 512
+ping n11 n05
+ping n06 n05
+get n06
+set n06 ram 1024
+ping n06 n10
+link n09 n03 bw 32
+set n09 ram 64
+link n09 n08 bw 16
+set n06 disk 64
+ping n01 n02
+ping n12 n16
+link n12 n14 bw 64
+set n12 cpu 64
+ping n09 n15
+ping n15 n06
+link n14 n07 bw 32
+set n08 cpu 64
+set n05 ram 256
+link n05 n16 bw 64
+set n05 cpu 1024
+set n05 disk 64
+ping n05 n01
+ping n05 n04
+set n13 ram 256
+set n13 cpu 256
+get n13
+link n13 n12 bw 64
+set n05 ram 512
+link n05 n08 bw 128
+set n08 disk 256
+link n16 n09 bw 32
+ping n16 n08
+set n05 disk 64
+get n05
+set n01 disk 512
+link n01 n16 bw 64
+set n01 disk 512
+link n07 n02 bw 32
+link n07 n04 bw 128
+set n07 disk 128
+link n07 n12 bw 64
+del n09
+set n16 cpu 128
+set n14 disk 256
+set n15 cpu 512
+link n15 n01 bw 64
+set n09 cpu 64
+set n09 ram 1024
+set n06 ram 128
+set n06 cpu 128
+link n06 n10 bw 64
+set n04 cpu 512
+set n04 disk 256
+ping n04 n09
+set n09 cpu 128
+ping n15 n06
+ping n15 n14
+set n10 cpu 512
+set n10 disk 512
+set n04 disk 256
+set n04 cpu 256
+link n12 n13 bw 32
+set n12 disk 512
+link n10 n04 bw 64
+set n10 cpu 256
+set n14 disk 256
+set n14 cpu 128
+get n01
+ping n01 n14
+set n01 cpu 1024
+ping n01 n03
+set n01 cpu 256
+del n07
+ping n11 n09
+ping n11 n07
+link n04 n02 bw 16
+link n10 n04 bw 128
+ping n10 n02
+set n15 disk 128
+get n15
+ping n16 n09
+set n16 ram 1024
+set n16 disk 512
+link n14 n07 bw 32
+set n16 disk 1024
+link n14 n14 bw 64
+del n12
+set n10 ram 512
+set n10 disk 64
+set n10 disk 512
+link n10 n06 bw 16
+set n12 disk 256
+set n04 disk 512
+link n15 n05 bw 64
+set n15 cpu 1024
+link n15 n08 bw 128
+set n07 ram 256
+set n07 cpu 256
+link n01 n05 bw 16
+ping n13 n12
+link n13 n11 bw 64
+link n13 n06 bw 128
+ping n12 n07
+ping n12 n08
+set n12 disk 512
+set n12 cpu 64
+set n04 cpu 64
+ping n04 n01
+get n09
+link n01 n07 bw 16
+link n01 n10 bw 128
+set n11 ram 256
+link n11 n16 bw 128
+set n11 ram 128
+set n08 cpu 512
+set n08 ram 64
+set n13 cpu 64
+set n13 ram 64
+set n13 ram 256
+ping n13 n07
+link n13 n14 bw 128
+ping n13 n02
+set n16 ram 1024
+link n16 n02 bw 32
+set n16 disk 1024
+link n16 n01 bw 64
+link n01 n10 bw 128
+set n01 disk 256
+set n03 ram 512
+ping n03 n15
+set n03 ram 512
+link n06 n08 bw 128
+link n06 n06 bw 128
+link n08 n14 bw 128
+set n08 disk 128
+ping n07 n10
+ping n07 n09
+link n07 n01 bw 32
+set n10 ram 512
+link n10 n07 bw 128
+ping n01 n08
+ping n01 n11
+get n01
+ping n01 n02
+del n09
+ping n16 n09
+get n16
+set n16 cpu 512
+link n16 n04 bw 128
+ping n16 n05
+set n05 disk 1024
+set n07 cpu 128
+link n07 n01 bw 128
+get n11
+ping n13 n02
+ping n15 n09
+link n15 n09 bw 128
+ping n01 n11
+ping n01 n12
+link n03 n15 bw 32
+set n03 ram 128
+ping n03 n09
+ping n08 n05
+get n06
+ping n06 n09
+link n06 n14 bw 128
+link n06 n13 bw 64
+set n06 disk 64
+get n06
+set n08 ram 512
+link n08 n14 bw 64
+link n08 n12 bw 128
+set n08 ram 64
+set n10 ram 256
+get n10
+ping n10 n16
+ping n10 n15
+ping n02 n09
+set n02 disk 128
+set n02 ram 512
+del n10
+set n02 cpu 512
+del n02
+ping n02 n14
+set n02 cpu 128
+set n02 cpu 64
+del n09
+set n16 cpu 128
+del n04
+set n13 cpu 512
+get n13
+link n13 n10 bw 64
+set n10 disk 1024
+link n10 n12 bw 16
+ping n05 n11
+link n05 n03 bw 64
+set n05 ram 64
+get n05
+get n01
+del n09
+get n01
+set n09 disk 256
+ping n09 n13
+link n01 n03 bw 128
+ping n01 n02
+ping n01 n10
+get n04
+set n04 disk 256
+link n04 n07 bw 64
+get n16
+ping n16 n04
+set n16 disk 128
+get n16
+set n09 cpu 64
+del n04
+get n03
+ping n06 n10
+set n06 cpu 256
+link n15 n11 bw 16
+ping n10 n15
+ping n06 n14
+get n06
+link n06 n16 bw 16
+link n11 n06 bw 64
+set n11 ram 128
+get n11
+set n11 ram 64
+get n11
+link n11 n01 bw 64
+set n14 disk 512
+ping n14 n05
+del n09
+set n01 cpu 256
+ping n01 n03
+set n01 disk 1024
+set n08 disk 1024
+link n08 n08 bw 32
+get n08
+ping n08 n11
+del n11
+set n12 disk 256
+ping n12 n14
+link n12 n06 bw 64
+get n01
+ping n02 n04
+ping n13 n05
+del n01
+link n12 n15 bw 16
+get n10
+link n10 n11 bw 128
+set n10 disk 128
+ping n10 n14
+set n10 cpu 128
+set n10 disk 64
+ping n04 n07
+set n04 cpu 1024
+ping n08 n07
+set n13 cpu 64
+ping n03 n05
+link n03 n10 bw 128
+link n03 n08 bw 64
+link n03 n13 bw 32
+set n13 ram 64
+ping n13 n03
+link n13 n09 bw 16
+get n06
+set n06 disk 64
+del n07
+link n06 n07 bw 128
+get n10
+set n10 cpu 256
+set n10 ram 256
+set n10 cpu 512
+set n10 ram 512
+set n10 cpu 1024
+set n02 disk 128
+set n02 ram 1024
+link n02 n11 bw 16
+set n02 disk 64
+link n15 n10 bw 128
+ping n15 n06
+set n15 ram 64
+ping n14 n01
+set n16 ram 512
+get n16
+set n16 disk 256
+ping n16 n12
+ping n01 n12
+get n05
+link n05 n01 bw 16
+get n05
+set n05 ram 256
+link n05 n12 bw 32
+set n08 disk 1024
+set n08 ram 128
+set n08 cpu 64
+set n11 ram 256
+ping n11 n09
+ping n11 n14
+get n11
+del n03
+set n06 cpu 512
+del n03
+set n06 disk 128
+set n06 cpu 256
+set n06 ram 256
+set n07 disk 512
+set n02 disk 1024
+ping n02 n04
+link n02 n05 bw 16
+link n14 n10 bw 16
+set n14 ram 128
+link n14 n02 bw 128
+link n14 n01 bw 16
+set n14 cpu 64
+link n10 n10 bw 32
+set n10 ram 128
+del n09
+set n11 cpu 1024
+del n02
+ping n15 n16
+link n15 n10 bw 16
+set n15 ram 1024
+link n11 n01 bw 64
+set n11 cpu 256
+link n11 n14 bw 128
+ping n04 n09
+set n04 cpu 1024
+link n04 n08 bw 32
+del n13
+set n07 disk 1024
+ping n07 n09
+set n07 disk 512
+set n07 disk 128
+set n07 ram 128
+set n07 disk 128
+link n08 n14 bw 64
+set n08 ram 1024
+set n11 disk 64
+del n07
+set n06 disk 512
+link n06 n11 bw 64
+link n06 n02 bw 64
+set n06 cpu 1024
+ping n16 n01
+set n16 cpu 1024
+link n16 n04 bw 32
+link n16 n04 bw 128
+link n08 n13 bw 32
+ping n08 n10
+ping n08 n16
+set n08 disk 512
+set n07 cpu 1024
+set n07 disk 64
+set n07 ram 512
+link n03 n11 bw 64
+link n03 n16 bw 64
+set n03 cpu 512
+link n03 n06 bw 128
+ping n03 n08
+link n04 n06 bw 128
+set n02 ram 128
+ping n02 n08
+get n02
+set n11 ram 256
+set n11 disk 512
+ping n11 n05
+set n13 ram 1024
+ping n13 n14
+ping n13 n07
+link n13 n06 bw 128
+set n13 cpu 128
+del n14
+set n07 disk 1024
+ping n07 n02
+get n07
+link n07 n05 bw 64
+ping n07 n04
+link n10 n05 bw 128
+get n10
+ping n10 n04
+set n10 ram 64
+link n03 n09 bw 32
+link n03 n06 bw 32
+set n01 ram 64
+ping n01 n14
+ping n01 n13
+link n12 n13 bw 128
+link n12 n04 bw 32
+link n05 n08 bw 128
+set n05 disk 1024
+ping n05 n01
+ping n05 n11
+set n06 disk 512
+link n16 n02 bw 32
+ping n16 n02
+link n16 n08 bw 128
+ping n16 n15
+set n13 disk 256
+set n13 ram 256
+get n13
+ping n04 n14
+get n04
+ping n13 n08
+set n13 disk 64
+link n13 n14 bw 64
+link n13 n01 bw 32
+set n13 cpu 64
+link n13 n14 bw 64
+set n05 disk 512
+ping n05 n05
+link n05 n05 bw 32
+ping n05 n05
+set n02 ram 256
+set n02 disk 1024
+set n02 cpu 1024
+set n14 cpu 256
+link n16 n10 bw 64
+set n16 ram 64
+link n08 n11 bw 64
+ping n08 n06
+set n08 cpu 128
+get n08
+get n05
+set n05 ram 64
+set n05 cpu 1024
+ping n05 n05
+ping n05 n06
+set n09 disk 1024
+set n09 disk 512
+get n13
+link n04 n15 bw 128
+link n12 n11 bw 16
+ping n12 n03
+set n12 cpu 512
+del n06
+link n12 n08 bw 16
+link n11 n10 bw 32
+ping n11 n09
+set n15 ram 1024
+ping n07 n06
+ping n07 n13
+set n07 disk 512
+set n10 cpu 512
+get n10
+set n07 ram 1024
+set n07 disk 256
+get n07
+set n11 ram 64
+del n02
+set n16 ram 64
+link n16 n08 bw 64
+set n16 disk 64
+ping n16 n06
+set n09 ram 64
+ping n09 n10
+set n09 cpu 256
+ping n14 n09
+set n07 cpu 512
+ping n07 n03
+link n04 n13 bw 32
+set n04 cpu 1024
+ping n04 n11
+set n04 cpu 256
+link n06 n01 bw 32
+link n06 n14 bw 16
+link n14 n07 bw 32
+set n14 disk 128
+set n09 ram 256
+link n09 n04 bw 64
+set n07 cpu 256
+link n07 n11 bw 128
+set n08 disk 1024
+ping n08 n07
+ping n08 n16
+set n08 cpu 64
+ping n07 n03
+link n07 n16 bw 32
+link n07 n13 bw 128
+link n04 n03 bw 64
+get n04
+set n04 ram 128
+get n04
+link n04 n14 bw 64
+del n16
+set n09 cpu 64
+set n02 ram 1024
+link n11 n04 bw 32
+ping n11 n05
+set n11 disk 128
+set n11 cpu 256
+set n11 disk 1024
+set n11 cpu 1024
+link n09 n02 bw 16
+set n16 ram 256
+set n11 disk 256
+link n11 n03 bw 32
+link n11 n08 bw 16
+ping n08 n15
+link n08 n02 bw 128
+ping n08 n01
+set n08 ram 512
+ping n08 n03
+link n12 n01 bw 64
+link n02 n16 bw 64
+get n02
+link n02 n08 bw 128
+link n07 n06 bw 64
+set n07 ram 512
+set n04 disk 512
+del n12
+set n04 disk 512
+get n04
+set n04 cpu 128
+get n04
+get n08
+del n02
+link n08 n06 bw 64
+ping n08 n13
+set n01 cpu 1024
+set n01 ram 64
+link n01 n13 bw 128
+set n10 ram 128
+link n10 n12 bw 32
+set n10 disk 256
+set n04 disk 64
+link n04 n07 bw 64
+link n12 n04 bw 128
+link n12 n08 bw 64
+set n12 ram 512
+get n06
+del n16
+set n06 cpu 128
+link n06 n03 bw 128
+link n06 n08 bw 128
+set n14 cpu 512
+ping n10 n08
+set n10 disk 128
+set n10 cpu 128
+get n01
+set n01 disk 64
+set n12 ram 512
+set n12 disk 256
+link n03 n01 bw 16
+set n03 disk 128
+get n03
+set n03 ram 64
+ping n14 n08
+link n14 n15 bw 128
+ping n14 n14
+set n14 disk 512
+set n12 ram 128
+set n12 cpu 1024
+ping n12 n03
+set n12 ram 64
+link n12 n10 bw 128
+link n07 n06 bw 64
+ping n07 n09
+set n12 cpu 256
+set n12 disk 128
+link n12 n07 bw 16
+set n12 cpu 1024
+set n02 ram 512
+del n03
+ping n13 n07
+ping n13 n03
+link n14 n11 bw 64
+link n07 n08 bw 32
+link n07 n01 bw 128
+link n02 n08 bw 128
+set n02 ram 256
+set n02 disk 128
+ping n05 n06
+set n05 ram 512
+get n05
+del n12
+link n07 n08 bw 32
+set n14 ram 1024
+link n14 n02 bw 128
+set n14 cpu 1024
+set n12 ram 64
+set n03 ram 256
+link n03 n01 bw 16
+ping n03 n06
+set n09 cpu 64
+ping n09 n02
+set n09 cpu 128
+set n05 ram 1024
+set n14 disk 512
+link n14 n02 bw 32
+set n14 cpu 64
+ping n01 n10
+set n01 disk 512
+link n03 n07 bw 64
+link n09 n12 bw 16
+link n16 n06 bw 64
+ping n09 n08
+ping n09 n12
+set n09 disk 512
+ping n12 n04
+ping n12 n06
+ping n12 n10
+link n12 n08 bw 128
+set n12 ram 128
+set n12 cpu 64
+set n04 cpu 512
+ping n04 n16
+set n04 cpu 64
+get n04
+set n04 ram 256
+link n13 n05 bw 16
+ping n13 n15
+link n13 n03 bw 16
+set n13 disk 1024
+del n07
+link n13 n05 bw 16
+link n12 n15 bw 64
+link n13 n14 bw 128
+link n01 n06 bw 16
+del n15
+set n15 ram 512
+link n15 n05 bw 32
+get n11
+link n06 n10 bw 128
+get n10
+link n10 n06 bw 32
+ping n14 n05
+link n14 n10 bw 32
+ping n02 n12
+del n13
+link n13 n14 bw 128
+set n09 ram 128
+link n09 n16 bw 32
+set n14 cpu 256
+ping n14 n14
+link n02 n11 bw 128
+link n02 n14 bw 128
+set n02 cpu 1024
+set n01 ram 256
+set n01 cpu 64
+set n01 ram 128
+link n01 n09 bw 128
+get n06
+set n10 cpu 256
+set n10 cpu 64
+get n12
+set n12 cpu 256
+link n12 n02 bw 128
+link n16 n11 bw 32
+ping n16 n02
+set n09 ram 512
+set n09 disk 256
+set n09 cpu 64
+set n04 ram 128
+ping n08 n15
+ping n08 n14
+ping n08 n16
+set n08 ram 256
+del n06
+set n08 disk 1024
+set n01 cpu 64
+ping n01 n09
+link n06 n05 bw 128
+get n06
+ping n06 n15
+link n06 n16 bw 64
+ping n05 n01
+ping n05 n07
+ping n08 n06
+set n16 ram 512
+link n16 n03 bw 16
+ping n16 n16
+link n16 n08 bw 64
+set n09 cpu 256
+ping n09 n04
+ping n09 n16
+set n09 ram 512
+ping n09 n08
+link n09 n08 bw 64
+set n08 ram 512
+ping n08 n04
+ping n08 n11
+get n15
+set n15 ram 256
+set n10 disk 64
+link n10 n09 bw 128
+get n10
+set n10 disk 256
+get n12
+set n15 ram 128
+ping n01 n13
+set n01 disk 128
+set n01 cpu 512
+link n10 n09 bw 64
+ping n10 n03
+ping n10 n02
+set n10 cpu 256
+link n10 n04 bw 128
+set n07 disk 1024
+ping n07 n06
+link n16 n12 bw 64
+set n16 cpu 512
+ping n16 n11
+link n06 n03 bw 16
+ping n06 n08
+set n09 cpu 256
+link n03 n07 bw 64
+del n03
+set n03 ram 64
+link n10 n11 bw 64
+get n10
+ping n10 n08
+set n09 cpu 1024
+link n09 n16 bw 32
+link n07 n09 bw 64
+get n07
+set n12 disk 256
+set n12 disk 512
+del n16
+ping n14 n04
+ping n14 n12
+set n13 ram 64
+link n13 n15 bw 128
+del n15
+link n13 n07 bw 128
+set n11 cpu 256
+link n11 n10 bw 16
+set n11 cpu 1024
+set n11 disk 64
+set n05 cpu 512
+del n03
+link n10 n04 bw 64
+link n10 n05 bw 64
+link n10 n15 bw 64
+set n13 disk 256
+get n13
+ping n13 n06
+del n11
+ping n02 n09
+link n02 n14 bw 128
+set n02 ram 512
+ping n12 n16
+get n12
+set n12 cpu 128
+get n13
+set n13 cpu 64
+del n11
+set n13 disk 512
+set n13 ram 1024
+set n13 cpu 1024
+set n15 disk 1024
+del n13
+set n08 disk 1024
+set n08 cpu 128
+set n14 cpu 1024
+set n14 disk 64
+set n14 ram 256
+set n08 ram 128
+set n08 cpu 128
+ping n08 n02
+del n16
+set n11 ram 64
+set n11 disk 128
+del n14
+get n15
+set n07 cpu 256
+get n07
+set n07 cpu 512
+link n07 n01 bw 128
+set n07 cpu 1024
+set n07 disk 64
+set n05 disk 512
+link n05 n01 bw 64
+set n09 disk 128
+link n15 n13 bw 128
+set n15 cpu 256
+link n15 n11 bw 32
+link n15 n09 bw 16
+set n15 disk 1024
+link n15 n16 bw 16
+link n01 n09 bw 32
+get n16
+set n16 ram 256
+link n16 n06 bw 16
+ping n11 n13
+set n11 ram 512
+link n11 n07 bw 16
+set n09 ram 512
+link n09 n15 bw 64
+ping n03 n11
+set n03 ram 512
+set n07 cpu 64
+ping n07 n12
+set n07 ram 1024
+link n07 n05 bw 16
+link n07 n08 bw 32
+link n05 n04 bw 32
+ping n05 n16
+set n05 cpu 512
+set n07 disk 64
+ping n07 n02
+get n07
+ping n07 n08
+set n07 cpu 1024
+get n09
+link n01 n03 bw 128
+set n01 cpu 128
+set n09 disk 1024
+set n09 cpu 512
+del n14
+ping n06 n07
+set n08 ram 256
+link n06 n02 bw 32
+set n06 cpu 64
+link n06 n15 bw 64
+ping n06 n07
+link n06 n16 bw 128
+ping n01 n03
+set n01 disk 512
+get n01
+set n01 disk 512
+get n01
+link n01 n05 bw 16
+del n09
+ping n03 n11
+ping n03 n13
+set n06 cpu 256
+set n06 cpu 64
+link n06 n16 bw 32
+link n06 n01 bw 128
+link n08 n05 bw 128
+set n08 ram 512
+ping n08 n04
+set n04 disk 1024
+del n08
+set n04 disk 256
+ping n07 n01
+link n07 n04 bw 128
+ping n13 n01
+link n08 n01 bw 16
+link n08 n16 bw 16
+link n01 n09 bw 16
+set n01 cpu 128
+link n01 n03 bw 32
+ping n01 n15
+link n03 n12 bw 64
+set n03 ram 128
+get n03
+set n10 ram 1024
+link n10 n09 bw 128
+set n14 cpu 512
+ping n14 n16
+link n02 n07 bw 64
+get n02
+ping n07 n07
+ping n07 n06
+link n08 n05 bw 64
+set n08 cpu 64
+get n14
+del n11
+link n14 n12 bw 128
+del n16
+del n10
+set n14 disk 512
+set n08 ram 1024
+link n08 n14 bw 128
+set n03 disk 512
+ping n04 n02
+link n14 n01 bw 128
+link n14 n01 bw 64
+set n14 cpu 256
+set n05 disk 128
+set n05 ram 512
+link n05 n09 bw 32
+set n05 cpu 64
+link n05 n14 bw 16
+ping n11 n10
+ping n11 n09
+link n11 n14 bw 32
+set n11 ram 64
+ping n11 n02
+set n12 cpu 128
+set n14 cpu 128
+link n14 n01 bw 128
+ping n09 n08
+set n09 cpu 512
+ping n09 n11
+set n07 disk 256
+ping n07 n08
+set n07 disk 256
+set n07 cpu 64
+set n07 cpu 1024
+set n07 disk 512
+ping n03 n10
+get n03
+ping n10 n03
+ping n12 n15
+set n12 cpu 512
+get n01
+link n01 n15 bw 64
+link n01 n05 bw 32
+ping n16 n03
+ping n10 n15
+get n10
+ping n10 n09
+ping n10 n13
+set n04 cpu 256
+set n04 disk 512
+set n01 cpu 512
+link n01 n11 bw 16
+ping n07 n04
+set n07 ram 256
+ping n14 n12
+ping n14 n15
+set n14 ram 1024
+link n07 n16 bw 64
+ping n07 n12
+link n11 n03 bw 32
+link n15 n08 bw 32
+set n15 ram 64
+get n15
+set n04 ram 512
+set n04 ram 1024
+set n04 disk 512
+set n02 ram 64
+ping n02 n02
+ping n04 n09
+set n04 disk 1024
+set n08 ram 128
+set n08 disk 512
+get n08
+ping n10 n10
+set n10 disk 1024
+link n10 n13 bw 64
+set n13 disk 64
+set n13 disk 256
+set n13 ram 128
+link n15 n15 bw 16
+set n01 cpu 1024
+ping n01 n02
+link n04 n09 bw 16
+get n12
+link n03 n02 bw 64
+set n03 cpu 128
+set n03 ram 1024
+set n16 disk 64
+link n15 n13 bw 16
+set n15 disk 1024
+link n06 n05 bw 32
+set n12 ram 64
+link n12 n10 bw 64
+set n01 disk 256
+set n09 disk 128
+get n09
+ping n06 n12
+set n04 ram 64
+del n05
+set n15 cpu 512
+set n15 ram 64
+set n15 cpu 256
+link n15 n10 bw 128
+get n15
+link n15 n09 bw 16
+ping n03 n02
+ping n03 n01
+set n11 cpu 128
+set n11 ram 128
+del n07
+set n16 cpu 256
+set n01 cpu 1024
+link n01 n14 bw 64
+ping n05 n01
+get n11
+get n14
+del n05
+link n14 n11 bw 64
+get n16
+del n05
+link n16 n15 bw 16
+get n16
+set n16 cpu 128
+del n06
+ping n01 n02
+set n01 cpu 256
+ping n05 n10
+ping n12 n05
+get n05
+set n14 ram 512
+link n16 n13 bw 128
+set n06 ram 64
+link n10 n11 bw 32
+link n16 n01 bw 64
+link n14 n07 bw 32
+set n14 ram 512
+set n15 ram 64
+link n15 n13 bw 64
+set n07 ram 64
+set n09 ram 256
+set n09 ram 128
+ping n13 n16
+ping n13 n09
+ping n08 n12
+ping n08 n09
+set n02 ram 64
+get n02
+get n09
+set n13 disk 512
+set n13 disk 64
+set n13 cpu 128
+link n13 n11 bw 32
+link n13 n09 bw 32
+set n06 cpu 64
+link n06 n07 bw 128
+del n13
+set n06 disk 64
+link n07 n01 bw 16
+ping n11 n05
+set n11 ram 256
+del n13
+ping n11 n10
+ping n15 n11
+set n15 cpu 512
+link n15 n06 bw 16
+link n08 n06 bw 64
+set n13 cpu 64
+set n05 disk 128
+set n05 ram 64
+set n15 ram 64
+link n15 n13 bw 32
+link n15 n16 bw 64
+set n11 disk 512
+set n11 ram 64
+set n14 disk 512
+set n14 disk 1024
+ping n14 n16
+set n14 ram 128
+set n07 cpu 128
+get n07
+set n10 disk 128
+link n10 n14 bw 64
+ping n10 n09
+ping n10 n05
+set n03 ram 1024
+ping n14 n06
+link n14 n16 bw 64
+set n14 disk 512
+del n04
+set n14 cpu 1024
+set n14 ram 512
+ping n05 n03
+ping n05 n13
+ping n05 n12
+get n05
+set n10 disk 1024
+ping n14 n14
+link n05 n14 bw 16
+get n05
+del n16
+del n02
+ping n08 n14
+link n08 n16 bw 64
+set n08 ram 64
+link n11 n01 bw 64
+set n11 ram 512
+set n11 ram 64
+set n12 cpu 1024
+set n12 disk 256
+ping n04 n12
+link n12 n05 bw 128
+set n06 ram 256
+get n01
+set n01 disk 128
+ping n01 n08
+set n09 cpu 1024
+set n09 disk 1024
+link n09 n13 bw 32
+get n09
+del n14
+set n09 ram 1024
+set n05 cpu 128
+link n05 n15 bw 16
+ping n05 n01
+ping n05 n10
+ping n01 n13
+ping n01 n07
+link n13 n10 bw 128
+ping n04 n09
+set n04 disk 64
+ping n14 n11
+set n06 ram 64
+link n10 n11 bw 32
+set n03 ram 1024
+link n03 n15 bw 16
+ping n03 n01
+ping n03 n06
+ping n05 n04
+set n05 disk 256
+del n11
+link n05 n08 bw 64
+get n05
+set n03 disk 64
+del n01
+link n01 n01 bw 16
+ping n12 n16
+link n12 n05 bw 64
+ping n12 n16
+link n16 n13 bw 16
+set n16 disk 256
+ping n16 n05
+link n16 n12 bw 16
+set n04 disk 1024
+get n04
+set n07 disk 1024
+link n07 n06 bw 16
+link n03 n12 bw 64
+ping n03 n11
+ping n08 n02
+get n14
+set n14 disk 1024
+set n14 ram 256
+ping n09 n06
+link n09 n08 bw 64
+ping n10 n16
+set n10 ram 512
+set n13 cpu 1024
+link n13 n02 bw 16
+link n13 n06 bw 64
+del n13
+set n12 ram 256
+get n12
+set n11 disk 256
+set n14 ram 128
+set n11 ram 256
+set n04 cpu 1024
+link n04 n04 bw 128
+set n04 ram 128
+ping n08 n10
+set n08 cpu 64
+link n08 n10 bw 16
+link n08 n04 bw 16
+ping n08 n01
+set n09 cpu 512
+link n09 n03 bw 128
+link n09 n01 bw 128
+set n11 ram 256
+link n10 n07 bw 16
+set n10 cpu 64
+get n10
+link n04 n06 bw 128
+get n12
+set n15 ram 256
+set n06 ram 1024
+set n06 ram 512
+del n14
+ping n01 n01
+del n08
+ping n08 n16
+link n15 n09 bw 64
+set n15 cpu 1024
+link n15 n13 bw 64
+set n15 ram 64
+set n15 disk 512
+get n15
+set n15 disk 128
+set n06 cpu 128
+set n11 ram 1024
+set n11 disk 512
+ping n13 n13
+ping n13 n14
+set n13 disk 512
+ping n07 n03
+set n07 disk 128
+ping n07 n01
+get n08
+del n04
+set n08 cpu 256
+set n14 cpu 1024
+ping n14 n05
+ping n09 n11
+ping n09 n08
+del n02
+link n12 n08 bw 128
+ping n12 n06
+del n14
+set n01 ram 1024
+del n11
+ping n14 n06
+set n14 ram 128
+del n11
+ping n14 n13
+link n14 n16 bw 64
+get n14
+link n14 n02 bw 16
+link n09 n06 bw 64
+set n09 ram 256
+link n09 n01 bw 128
+ping n16 n08
+link n02 n06 bw 32
+ping n02 n01
+get n02
+link n02 n15 bw 32
+set n02 disk 64
+get n06
+link n10 n14 bw 32
+link n10 n11 bw 32
+ping n08 n11
+set n08 cpu 256
+get n08
+set n07 cpu 128
+set n07 disk 512
+link n07 n05 bw 16
+ping n07 n08
+ping n02 n10
+link n02 n06 bw 64
+get n02
+set n15 disk 512
+ping n15 n15
+link n15 n16 bw 16
+set n02 disk 128
+set n02 disk 64
+link n10 n11 bw 64
+link n10 n13 bw 16
+get n10
+ping n05 n07
+link n05 n12 bw 16
+set n05 ram 256
+link n05 n15 bw 128
+ping n14 n10
+set n11 cpu 256
+get n13
+link n13 n14 bw 32
+link n10 n05 bw 128
+ping n01 n05
+set n01 disk 256
+get n01
+link n01 n16 bw 16
+ping n11 n12
+set n11 disk 1024
+link n16 n02 bw 16
+del n14
+ping n11 n15
+set n06 cpu 128
+ping n06 n02
+ping n06 n16
+ping n06 n03
+link n03 n08 bw 128
+set n08 disk 128
+link n08 n13 bw 16
+ping n16 n05
+ping n16 n12
+set n16 ram 512
+set n16 disk 64
+link n11 n02 bw 128
+set n15 cpu 256
+link n15 n03 bw 32
+link n04 n01 bw 64
+get n04
+set n04 disk 1024
+ping n04 n01
+ping n05 n03
+set n13 ram 256
+ping n13 n09
+link n13 n10 bw 64
+ping n13 n04
+link n13 n14 bw 128
+ping n07 n15
+del n11
+del n09
+get n06
+set n06 disk 256
+link n06 n03 bw 64
+link n06 n13 bw 16
+get n14
+link n14 n01 bw 64
+link n09 n07 bw 16
+set n04 disk 1024
+set n04 cpu 128
+ping n04 n06
+link n04 n12 bw 64
+set n16 disk 64
+ping n03 n09
+get n05
+set n05 cpu 512
+set n05 cpu 128
+ping n05 n13
+set n03 ram 1024
+set n15 cpu 512
+get n15
+ping n07 n08
+ping n10 n02
+ping n07 n10
+set n14 disk 64
+link n14 n16 bw 128
+link n10 n12 bw 128
+ping n10 n03
+set n10 cpu 1024
+ping n11 n01
+get n11
+set n02 disk 128
+link n02 n01 bw 32
+link n02 n07 bw 64
+link n02 n13 bw 64
+set n02 cpu 512
+ping n08 n01
+link n02 n04 bw 128
+ping n02 n09
+link n02 n09 bw 128
+link n10 n01 bw 16
+ping n10 n11
+get n03
+set n03 ram 256
+ping n03 n16
+link n03 n11 bw 64
+get n16
+set n16 ram 512
+ping n11 n12
+ping n11 n03
+set n11 ram 128
+link n06 n05 bw 32
+ping n15 n05
+ping n15 n14
+link n11 n06 bw 128
+set n11 ram 64
+set n11 disk 128
+link n15 n16 bw 128
+link n15 n13 bw 32
+link n15 n05 bw 16
+set n15 cpu 1024
+set n04 cpu 1024
+set n10 disk 256
+ping n10 n05
+link n03 n10 bw 128
+link n03 n09 bw 128
+link n15 n03 bw 16
+set n03 disk 256
+ping n03 n10
+set n03 disk 256
+link n01 n13 bw 32
+set n01 ram 256
+set n01 ram 64
+del n05
+get n07
+set n05 cpu 128
+set n09 ram 64
+set n08 cpu 1024
+set n08 cpu 256
+set n08 cpu 1024
+set n09 cpu 128
+link n09 n08 bw 64
+ping n07 n05
+link n07 n08 bw 128
+link n07 n09 bw 16
+ping n07 n16
+ping n15 n16
+del n05
+link n04 n16 bw 32
+get n04
+set n04 disk 64
+link n06 n02 bw 32
+ping n06 n06
+set n06 disk 512
+set n03 cpu 1024
+set n10 disk 512
+set n10 cpu 1024
+ping n10 n11
+link n10 n08 bw 64
+link n02 n11 bw 64
+set n16 cpu 256
+set n16 cpu 128
+set n16 cpu 64
+set n16 ram 1024
+del n12
+get n16
+ping n16 n08
+ping n16 n04
+set n07 ram 1024
+set n07 cpu 1024
+set n07 ram 512
+ping n11 n04
+set n11 ram 512
+link n10 n10 bw 16
+set n10 disk 512
+ping n11 n15
+link n11 n03 bw 64
+set n11 disk 64
+get n11
+set n11 ram 256
+ping n08 n06
+set n02 disk 128
+get n02
+set n02 cpu 1024
+link n05 n06 bw 32
+set n05 ram 512
+link n05 n07 bw 32
+link n03 n01 bw 16
+set n16 ram 512
+set n16 ram 256
+set n16 ram 512
+link n16 n11 bw 128
+link n01 n16 bw 32
+set n14 ram 256
+get n14
+set n14 disk 512
+link n13 n06 bw 128
+get n13
+link n06 n12 bw 16
+set n06 cpu 128
+del n06
+set n11 cpu 128
+link n11 n01 bw 64
+set n11 ram 256
+set n03 disk 1024
+get n11
+set n07 cpu 256
+set n07 cpu 128
+set n07 disk 1024
+ping n07 n05
+set n14 cpu 64
+ping n10 n09
+link n10 n14 bw 32
+set n10 cpu 64
+set n10 disk 128
+del n16
+set n15 ram 64
+ping n15 n10
+set n15 ram 64
+link n04 n13 bw 128
+link n04 n12 bw 16
+ping n12 n04
+link n12 n08 bw 64
+set n12 disk 256
+ping n08 n05
+set n08 ram 512
+set n08 cpu 1024
+set n08 disk 128
+set n08 ram 512
+set n08 ram 64
+set n01 cpu 64
+set n01 disk 512
+set n01 ram 128
+ping n02 n16
+set n13 cpu 128
+get n13
+link n11 n03 bw 32
+ping n15 n04
+ping n15 n15
+set n06 ram 256
+link n06 n07 bw 128
+get n06
+link n06 n07 bw 16
+link n06 n15 bw 64
+link n06 n13 bw 64
+link n05 n10 bw 16
+get n05
+set n02 disk 512
+ping n02 n14
+set n10 cpu 256
+ping n10 n01
+del n05
+set n06 cpu 64
+del n01
+set n05 disk 64
+set n05 cpu 64
+set n07 cpu 64
+link n07 n05 bw 128
+ping n07 n07
+link n07 n08 bw 128
+ping n06 n03
+del n12
+set n06 disk 128
+link n11 n03 bw 32
+set n10 cpu 256
+del n01
+set n10 cpu 1024
+get n10
+set n10 cpu 256
+get n16
+link n07 n08 bw 64
+set n07 cpu 128
+get n07
+del n16
+set n04 disk 128
+set n04 ram 128
+set n14 cpu 128
+ping n10 n03
+set n10 cpu 64
+get n01
+del n07
+set n01 ram 64
+set n01 disk 64
+set n11 disk 128
+link n14 n08 bw 32
+link n14 n10 bw 64
+set n03 cpu 64
+del n05
+link n03 n10 bw 32
+set n09 cpu 256
+del n10
+set n07 cpu 256
+ping n07 n06
+set n04 cpu 64
+set n04 ram 64
+set n14 ram 128
+link n15 n12 bw 32
+set n01 ram 128
+set n01 disk 256
+link n01 n04 bw 32
+link n09 n02 bw 16
+set n09 ram 512
+set n03 cpu 128
+set n03 cpu 1024
+set n03 disk 128
+set n08 ram 512
+set n08 cpu 64
+link n08 n04 bw 64
+ping n08 n12
+link n08 n08 bw 64
+link n02 n13 bw 128
+ping n02 n13
+link n02 n16 bw 64
+set n02 disk 1024
+link n02 n01 bw 64
+ping n10 n05
+link n10 n16 bw 16
+link n10 n01 bw 16
+ping n10 n06
+link n10 n13 bw 32
+set n10 ram 64
+ping n15 n10
+ping n11 n06
+ping n11 n12
+ping n12 n05
+set n12 ram 64
+set n09 disk 1024
+set n09 ram 512
+set n01 ram 1024
+del n10
+link n15 n06 bw 16
+link n02 n07 bw 16
+get n02
+link n02 n01 bw 16
+set n10 cpu 1024
+ping n10 n12
+get n12
+ping n12 n15
+set n12 cpu 1024
+link n12 n07 bw 128
+set n16 cpu 128
+del n11
+link n16 n03 bw 128
+ping n16 n05
+link n16 n08 bw 64
+set n16 disk 1024
+ping n10 n03
+link n10 n02 bw 32
+link n07 n08 bw 128
+get n07
+set n01 ram 64
+set n01 cpu 256
+ping n01 n08
+link n01 n12 bw 16
+link n01 n16 bw 32
+ping n08 n06
+link n08 n05 bw 32
+ping n11 n10
+link n11 n07 bw 32
+link n11 n06 bw 128
+del n03
+get n11
+get n08
+ping n08 n13
+set n08 cpu 512
+ping n09 n11
+get n14
+del n05
+set n14 ram 64
+get n14
+set n07 ram 512
+ping n07 n10
+set n07 disk 128
+del n07
+link n13 n01 bw 64
+del n10
+set n13 cpu 64
+set n13 disk 1024
+set n13 ram 512
+ping n10 n04
+del n05
+set n16 disk 64
+set n10 disk 1024
+link n08 n09 bw 16
+set n08 cpu 256
+set n08 disk 64
+link n08 n13 bw 32
+get n08
+set n07 disk 512
+link n07 n10 bw 128
+set n07 cpu 128
+set n11 ram 64
+set n11 ram 256
+link n07 n07 bw 32
+get n02
+set n06 disk 1024
+link n06 n10 bw 16
+ping n07 n05
+link n07 n12 bw 128
+set n10 ram 128
+del n09
+del n05
+link n07 n01 bw 64
+ping n07 n04
+set n07 cpu 512
+set n10 ram 64
+ping n10 n04
+link n09 n14 bw 32
+link n09 n01 bw 128
+ping n09 n13
+link n09 n02 bw 64
+ping n02 n06
+ping n02 n05
+link n04 n05 bw 64
+set n04 cpu 1024
+set n07 cpu 128
+ping n07 n16
+link n10 n13 bw 64
+set n10 disk 512
+set n04 ram 1024
+set n11 cpu 512
+ping n11 n16
+ping n08 n14
+link n08 n15 bw 16
+del n04
+set n14 ram 1024
+set n12 cpu 128
+ping n04 n04
+del n06
+set n09 cpu 256
+link n14 n05 bw 32
+set n14 ram 64
+set n13 disk 128
+set n13 cpu 128
+set n13 disk 64
+set n10 disk 512
+link n10 n01 bw 128
+link n15 n06 bw 64
+set n15 ram 512
+link n15 n01 bw 64
+set n15 ram 128
+set n08 disk 256
+link n12 n02 bw 16
+get n12
+link n12 n09 bw 128
+ping n12 n16
+set n12 ram 128
+link n14 n02 bw 128
+ping n14 n07
+set n05 cpu 256
+ping n05 n02
+get n05
+set n02 disk 512
+link n02 n09 bw 128
+ping n02 n08
+set n02 cpu 64
+ping n02 n02
+set n09 ram 1024
+ping n05 n13
+set n05 cpu 1024
+link n05 n07 bw 64
+ping n16 n02
+set n16 ram 128
+set n08 ram 64
+set n08 disk 64
+link n08 n08 bw 128
+get n15
+set n15 ram 1024
+link n11 n11 bw 128
+set n11 disk 512
+ping n15 n14
+link n15 n05 bw 64
+ping n10 n13
+link n10 n09 bw 32
+set n10 disk 256
+set n10 disk 1024
+set n08 cpu 64
+link n08 n16 bw 16
+link n08 n02 bw 32
+ping n08 n14
+get n14
+link n15 n13 bw 64
+del n05
+get n15
+set n15 disk 256
+link n14 n11 bw 64
+set n14 ram 256
+link n15 n03 bw 16
+set n15 disk 64
+set n15 cpu 128
+set n11 disk 256
+link n11 n12 bw 32
+get n11
+link n09 n10 bw 128
+link n09 n07 bw 64
+get n11
+link n11 n07 bw 16
+ping n11 n14
+ping n13 n07
+set n10 disk 128
+set n10 disk 64
+link n12 n04 bw 32
+link n12 n13 bw 128
+set n08 ram 1024
+ping n08 n10
+link n14 n09 bw 16
+set n02 disk 512
+link n02 n01 bw 16
+ping n08 n01
+ping n08 n04
+set n08 disk 256
+set n07 ram 1024
+ping n07 n16
+set n03 disk 256
+ping n03 n12
+link n03 n15 bw 32
+set n04 cpu 64
+get n04
+del n02
+link n08 n08 bw 32
+ping n08 n16
+ping n14 n11
+set n05 ram 256
+set n04 cpu 512
+link n04 n11 bw 16
+set n04 ram 1024
+get n10
+ping n10 n16
+get n16
+set n16 disk 512
+ping n16 n11
+get n16
+ping n16 n07
+link n16 n10 bw 64
+set n08 cpu 256
+set n03 cpu 256
+ping n03 n15
+ping n10 n04
+ping n02 n08
+set n11 ram 64
+set n11 disk 256
+get n11
+ping n11 n13
+ping n09 n14
+link n14 n06 bw 64
+set n10 disk 128
+set n10 cpu 64
+set n10 ram 256
+link n11 n12 bw 64
+link n02 n03 bw 64
+link n02 n13 bw 64
+link n02 n01 bw 64
+ping n11 n15
+set n11 disk 64
+set n11 cpu 1024
+set n11 cpu 64
+ping n06 n01
+set n06 cpu 512
+get n06
+ping n06 n16
+set n09 ram 256
+set n09 cpu 256
+ping n09 n07
+link n09 n04 bw 16
+ping n11 n07
+set n08 disk 512
+set n08 cpu 512
+set n08 cpu 1024
+link n08 n14 bw 64
+get n12
+link n13 n14 bw 128
+set n02 cpu 1024
+link n02 n16 bw 16
+link n01 n13 bw 32
+ping n01 n11
+link n07 n14 bw 32
+set n07 disk 256
+set n02 disk 1024
+get n02
+set n06 cpu 128
+set n09 cpu 512
+link n09 n06 bw 128
+set n09 ram 64
+ping n09 n03
+link n09 n05 bw 32
+set n04 ram 1024
+set n01 cpu 64
+set n01 disk 512
+ping n10 n06
+set n10 ram 512
+ping n10 n14
+set n11 disk 256
+ping n11 n05
+link n08 n06 bw 32
+link n08 n13 bw 32
+ping n08 n14
+link n08 n13 bw 64
+ping n08 n15
+link n16 n12 bw 128
+set n16 cpu 256
+link n11 n13 bw 64
+del n12
+set n09 ram 1024
+del n08
+link n09 n03 bw 32
+get n12
+link n12 n16 bw 32
+ping n12 n03
+ping n12 n16
+set n08 disk 512
+link n11 n08 bw 128
+ping n11 n03
+ping n11 n13
+ping n11 n03
+link n11 n15 bw 64
+get n11
+link n02 n04 bw 128
+set n05 cpu 128
+ping n02 n07
+set n02 cpu 256
+link n02 n12 bw 64
+ping n02 n09
+set n02 ram 512
+get n15
+del n04
+set n10 cpu 128
+get n05
+set n05 cpu 1024
+ping n05 n02
+link n05 n03 bw 32
+set n16 disk 1024
+ping n05 n15
+link n05 n01 bw 128
+set n13 cpu 512
+set n13 disk 128
+link n13 n03 bw 128
+ping n13 n12
+set n10 cpu 512
+ping n14 n16
+set n14 ram 512
+link n14 n04 bw 16
+ping n14 n16
+ping n07 n09
+del n12
+set n07 ram 256
+set n07 disk 128
+set n10 ram 512
+ping n10 n07
+set n06 disk 1024
+link n06 n04 bw 128
+set n13 disk 128
+set n13 cpu 1024
+ping n13 n12
+set n12 ram 64
+get n12
+link n12 n15 bw 128
+set n01 cpu 64
+get n01
+link n01 n11 bw 64
+link n01 n04 bw 64
+del n11
+link n01 n15 bw 64
+link n05 n07 bw 128
+del n14
+set n05 cpu 256
+del n16
+link n05 n13 bw 64
+link n13 n08 bw 128
+set n11 cpu 64
+link n11 n07 bw 64
+link n15 n01 bw 32
+get n15
+get n08
+link n08 n03 bw 32
+link n08 n08 bw 128
+del n02
+get n04
+set n04 disk 512
+link n02 n10 bw 16
+set n02 disk 1024
+ping n02 n13
+set n02 ram 64
+set n01 cpu 128
+set n01 ram 1024
+ping n03 n11
+set n03 ram 64
+set n03 cpu 256
+get n03
+set n03 cpu 1024
+set n06 disk 512
+get n06
+link n06 n10 bw 128
+ping n06 n13
+set n13 ram 64
+get n13
+set n13 disk 128
+set n11 ram 256
+del n06
+set n11 cpu 128
+set n11 disk 512
+ping n16 n01
+set n12 ram 1024
+link n16 n01 bw 16
+ping n01 n11
+get n05
+set n05 ram 128
+link n05 n04 bw 16
+get n05
+ping n08 n06
+ping n11 n04
+set n11 cpu 1024
+set n11 disk 64
+set n11 disk 128
+del n07
+link n11 n05 bw 32
+link n13 n02 bw 64
+link n09 n08 bw 32
+set n09 ram 512
+link n09 n05 bw 64
+ping n10 n15
+set n10 disk 64
+link n10 n16 bw 32
+set n07 cpu 128
+set n07 disk 1024
+set n07 cpu 512
+del n08
+link n07 n02 bw 32
+set n06 disk 512
+ping n06 n14
+set n16 disk 256
+set n16 cpu 64
+set n16 cpu 512
+ping n16 n13
+set n09 ram 256
+link n08 n08 bw 16
+set n08 ram 512
+ping n08 n04
+get n02
+get n05
+get n10
+link n10 n01 bw 16
+ping n13 n06
+link n13 n03 bw 16
+link n13 n05 bw 32
+get n09
+set n09 cpu 256
+set n09 ram 64
+set n09 disk 256
+set n09 ram 1024
+set n09 ram 512
+set n02 cpu 512
+get n10
+ping n10 n08
+link n07 n13 bw 64
+set n08 ram 64
+ping n08 n10
+set n08 ram 128
+link n03 n07 bw 32
+set n03 cpu 512
+link n08 n08 bw 16
+set n08 cpu 128
+link n08 n07 bw 128
+link n07 n11 bw 32
+set n07 disk 1024
+del n12
+link n02 n13 bw 128
+link n13 n13 bw 16
+set n13 cpu 128
+get n01
+link n01 n08 bw 64
+get n08
+ping n08 n06
+link n11 n08 bw 32
+ping n11 n01
+ping n11 n15
+set n11 ram 512
+link n11 n04 bw 128
+set n13 cpu 1024
+get n09
+ping n09 n12
+set n01 cpu 128
+ping n01 n01
+set n12 ram 512
+link n02 n07 bw 16
+set n08 ram 128
+set n08 cpu 128
+set n08 cpu 64
+set n14 cpu 128
+ping n10 n06
+set n10 cpu 512
+link n10 n06 bw 32
+set n10 cpu 128
+set n10 ram 256
+link n12 n09 bw 64
+set n12 disk 128
+set n12 ram 1024
+set n12 disk 128
+link n11 n09 bw 128
+link n11 n06 bw 16
+ping n11 n08
+set n12 disk 1024
+link n05 n08 bw 32
+ping n05 n11
+get n05
+link n05 n14 bw 16
+link n05 n12 bw 128
+set n05 ram 1024
+del n08
+link n05 n06 bw 128
+set n05 cpu 256
+ping n05 n01
+set n10 disk 64
+set n06 disk 1024
+link n06 n02 bw 32
+link n06 n06 bw 128
+link n06 n04 bw 16
+link n06 n15 bw 32
+ping n06 n01
+ping n07 n08
+link n06 n12 bw 64
+link n08 n08 bw 128
+ping n08 n14
+ping n01 n14
+link n01 n04 bw 128
+link n14 n03 bw 16
+set n14 ram 1024
+ping n14 n15
+set n14 ram 256
+ping n14 n07
+ping n14 n03
+link n05 n10 bw 16
+set n05 cpu 1024
+del n11
+link n09 n05 bw 16
+set n09 cpu 1024
+link n01 n05 bw 128
+set n03 ram 64
+link n03 n06 bw 64
+set n01 cpu 1024
+ping n07 n08
+link n07 n09 bw 64
+set n07 ram 1024
+link n02 n11 bw 32
+get n02
+set n02 ram 128
+link n05 n15 bw 32
+set n05 ram 64
+set n05 ram 1024
+ping n10 n16
+set n10 disk 1024
+ping n07 n04
+get n07
+ping n12 n09
+set n12 cpu 64
+get n06
+del n03
+set n06 ram 256
+ping n06 n06
+link n06 n06 bw 64
+link n10 n13 bw 32
+ping n10 n04
+link n16 n10 bw 64
+get n16
+set n16 cpu 128
+set n16 disk 1024
+ping n16 n10
+set n16 disk 512
+set n16 cpu 64
+link n14 n09 bw 32
+link n14 n07 bw 128
+set n08 cpu 64
+set n04 cpu 1024
+set n04 disk 128
+link n04 n14 bw 64
+set n02 cpu 512
+set n02 ram 256
+set n03 cpu 256
+ping n07 n05
+link n07 n07 bw 128
+get n07
+set n03 cpu 512
+link n05 n04 bw 32
+set n10 disk 64
+ping n10 n15
+ping n10 n14
+ping n10 n03
+set n10 cpu 512
+link n05 n10 bw 16
+get n05
+link n07 n08 bw 64
+set n07 disk 64
+set n07 disk 1024
+set n14 cpu 1024
+ping n06 n16
+link n06 n03 bw 32
+link n14 n12 bw 32
+link n14 n11 bw 64
+set n14 ram 512
+set n03 disk 128
+set n03 ram 1024
+link n09 n07 bw 16
+set n09 ram 1024
+link n09 n03 bw 32
+ping n03 n09
+link n03 n01 bw 128
+ping n03 n10
+set n03 cpu 512
+link n03 n06 bw 32
+set n03 cpu 1024
+set n03 ram 1024
+set n03 ram 128
+set n07 disk 64
+ping n07 n01
+link n07 n05 bw 64
+ping n07 n14
+set n15 ram 512
+ping n09 n13
+link n09 n08 bw 16
+get n09
+set n13 disk 64
+set n15 disk 1024
+get n15
+set n02 ram 128
+link n02 n16 bw 16
+set n02 ram 128
+ping n02 n15
+set n05 cpu 256
+ping n05 n15
+set n05 cpu 256
+set n05 cpu 1024
+set n07 disk 1024
+link n07 n01 bw 32
+link n02 n15 bw 128
+set n02 cpu 128
+set n02 disk 128
+link n02 n10 bw 16
+get n16
+link n16 n05 bw 16
+set n16 ram 64
+ping n16 n13
+ping n07 n15
+set n07 disk 1024
+link n07 n08 bw 128
+set n04 cpu 512
+del n09
+set n11 ram 128
+link n09 n12 bw 64
+set n09 ram 256
+set n07 cpu 256
+set n07 ram 128
+get n07
+ping n10 n14
+link n16 n12 bw 32
+link n13 n07 bw 16
+get n13
+link n05 n08 bw 64
+set n05 ram 128
+set n05 ram 256
+ping n05 n10
+del n09
+set n10 cpu 128
+del n16
+ping n10 n11
+ping n07 n01
+link n04 n10 bw 64
+set n10 cpu 512
+set n10 ram 256
+ping n03 n15
+set n03 disk 64
+set n15 cpu 256
+del n07
+ping n01 n13
+set n01 ram 256
+link n15 n13 bw 16
+get n15
+link n15 n09 bw 32
+set n03 disk 256
+set n03 disk 64
+ping n03 n09
+set n03 cpu 1024
+ping n03 n07
+set n03 disk 256
+link n08 n13 bw 32
+ping n12 n06
+link n12 n08 bw 128
+set n12 cpu 1024
+del n16
+ping n13 n12
+link n13 n03 bw 128
+link n13 n12 bw 32
+get n13
+link n06 n13 bw 16
+link n06 n05 bw 128
+link n15 n03 bw 16
+set n15 disk 256
+link n15 n11 bw 64
+set n15 disk 512
+set n04 cpu 1024
+link n04 n16 bw 64
+ping n04 n11
+ping n04 n13
+ping n04 n04
+link n04 n07 bw 128
+ping n02 n02
+del n06
+ping n02 n07
+del n05
+get n01
+ping n13 n16
+ping n01 n07
+set n01 cpu 256
+link n01 n15 bw 128
+link n12 n04 bw 128
+set n04 ram 64
+set n03 ram 1024
+set n03 disk 1024
+set n08 cpu 64
+get n08
+set n08 cpu 64
+set n05 ram 1024
+ping n05 n06
+link n03 n14 bw 64
+link n03 n10 bw 64
+ping n10 n09
+set n10 disk 512
+set n04 disk 128
+link n04 n11 bw 16
+link n16 n01 bw 32
+link n16 n05 bw 128
+link n04 n10 bw 32
+set n04 cpu 1024
+set n06 ram 1024
+link n02 n02 bw 64
+ping n02 n14
+set n04 cpu 256
+ping n04 n05
+ping n04 n01
+set n05 disk 256
+set n01 disk 128
+set n01 ram 512
+ping n01 n09
+set n06 disk 64
+set n11 ram 256
+link n01 n06 bw 64
+link n01 n01 bw 128
+set n01 cpu 256
+set n01 cpu 64
+set n04 ram 256
+set n04 disk 512
+ping n04 n04
+set n04 cpu 512
+link n04 n03 bw 128
+set n04 disk 512
+set n08 cpu 256
+del n10
+set n05 disk 256
+set n05 cpu 64
+set n05 ram 1024
+ping n05 n14
+link n13 n04 bw 128
+link n13 n05 bw 32
+set n07 cpu 64
+get n07
+set n07 cpu 1024
+link n07 n13 bw 16
+link n07 n06 bw 128
+link n06 n14 bw 16
+link n12 n01 bw 16
+set n12 disk 64
+ping n12 n05
+del n10
+get n12
+ping n02 n04
+get n02
+ping n02 n08
+set n02 ram 1024
+set n14 disk 256
+ping n14 n01
+link n14 n02 bw 32
+link n15 n13 bw 64
+set n09 disk 1024
+link n09 n06 bw 16
+ping n04 n06
+set n04 disk 64
+link n04 n06 bw 64
+link n04 n09 bw 32
+link n04 n08 bw 128
+set n11 ram 64
+ping n13 n02
+ping n13 n03
+get n04
+ping n05 n12
+set n05 disk 256
+ping n06 n07
+link n06 n12 bw 128
+set n06 disk 64
+set n07 ram 256
+del n02
+set n07 ram 64
+set n08 cpu 64
+link n08 n02 bw 16
+set n08 cpu 128
+link n08 n16 bw 16
+link n01 n13 bw 32
+link n12 n09 bw 32
+set n11 disk 512
+link n11 n07 bw 32
+link n14 n02 bw 128
+set n14 ram 128
+link n08 n16 bw 32
+set n12 disk 64
+set n12 ram 256
+link n12 n05 bw 64
+set n12 ram 1024
+del n07
+get n16
+set n16 ram 64
+set n16 disk 64
+ping n16 n13
+get n16
+link n10 n13 bw 32
+set n10 ram 512
+set n15 cpu 128
+ping n15 n02
+link n04 n13 bw 128
+ping n04 n07
+set n04 disk 64
+link n04 n08 bw 128
+link n03 n08 bw 32
+link n11 n02 bw 128
+get n11
+ping n12 n08
+set n12 disk 128
+set n15 cpu 1024
+del n12
+ping n02 n03
+del n01
+link n02 n16 bw 128
+set n02 cpu 64
+set n02 disk 128
+link n13 n07 bw 32
+set n10 cpu 512
+ping n10 n05
+set n02 ram 256
+del n16
+link n02 n07 bw 16
+set n02 disk 64
+link n05 n03 bw 128
+set n05 cpu 512
+del n03
+ping n05 n06
+set n14 ram 128
+set n02 disk 128
+ping n02 n01
+link n02 n07 bw 128
+link n01 n13 bw 64
+set n01 ram 64
+get n02
+set n13 ram 64
+get n13
+link n13 n03 bw 32
+set n13 disk 1024
+link n01 n09 bw 128
+ping n01 n10
+set n14 cpu 64
+set n14 ram 256
+get n04
+set n04 cpu 512
+link n06 n11 bw 32
+link n06 n13 bw 128
+set n01 disk 1024
+set n01 cpu 1024
+link n01 n03 bw 128
+set n01 ram 64
+set n01 disk 64
+link n05 n03 bw 32
+link n13 n05 bw 128
+set n02 ram 512
+set n02 ram 64
+set n02 disk 512
+link n02 n12 bw 64
+link n02 n08 bw 32
+set n06 cpu 256
+ping n06 n11
+ping n03 n14
+set n03 cpu 1024
+set n03 ram 64
+ping n03 n08
+link n10 n07 bw 64
+link n16 n06 bw 32
+set n04 ram 512
+ping n04 n03
+link n04 n07 bw 64
+get n04
+set n09 cpu 64
+set n12 disk 1024
+link n12 n03 bw 64
+set n09 cpu 256
+ping n09 n03
+link n09 n05 bw 64
+link n08 n01 bw 32
+set n08 disk 128
+link n11 n15 bw 128
+ping n11 n07
+ping n11 n11
+link n11 n01 bw 128
+set n11 cpu 1024
+link n11 n08 bw 16
+link n09 n02 bw 32
+link n09 n12 bw 16
+set n09 disk 64
+set n07 ram 64
+set n07 cpu 512
+ping n07 n10
+del n15
+set n07 cpu 1024
+ping n06 n04
+set n06 cpu 128
+link n12 n07 bw 16
+set n12 cpu 512
+link n10 n11 bw 16
+get n03
+set n12 disk 1024
+set n12 disk 512
+link n11 n15 bw 16
+set n15 ram 256
+ping n15 n02
+set n07 cpu 64
+ping n07 n15
+ping n07 n16
+set n07 disk 512
+ping n07 n07
+get n11
+ping n11 n10
+link n10 n05 bw 128
+get n10
+link n10 n13 bw 128
+ping n10 n04
+set n06 ram 512
+ping n02 n03
+ping n01 n06
+set n01 cpu 256
+get n01
+link n01 n07 bw 32
+link n01 n02 bw 16
+del n12
+set n10 ram 256
+ping n10 n07
+get n03
+set n03 disk 128
+set n03 ram 1024
+ping n06 n05
+set n06 cpu 64
+get n16
+set n16 ram 256
+link n16 n05 bw 64
+set n06 disk 1024
+set n06 cpu 512
+set n16 cpu 256
+del n04
+set n15 ram 512
+ping n13 n15
+link n13 n03 bw 64
+link n12 n13 bw 32
+set n12 ram 64
+set n12 disk 64
+ping n02 n15
+set n02 ram 128
+link n02 n15 bw 16
+set n02 disk 512
+link n01 n14 bw 16
+set n01 cpu 1024
+set n01 cpu 128
+get n01
+set n01 ram 64
+link n05 n08 bw 128
+ping n12 n08
+set n15 disk 128
+ping n15 n03
+link n15 n10 bw 64
+set n14 ram 256
+set n14 disk 1024
+ping n14 n15
+set n14 ram 128
+ping n06 n09
+link n06 n16 bw 32
+set n06 cpu 512
+del n11
+set n16 ram 1024
+ping n16 n09
+ping n16 n10
+ping n01 n14
+link n13 n06 bw 128
+get n13
+set n13 cpu 1024
+ping n13 n09
+get n13
+ping n13 n03
+link n01 n15 bw 128
+set n01 cpu 256
+ping n01 n08
+set n01 disk 1024
+set n01 disk 128
+get n01
+set n01 cpu 512
+ping n01 n14
+ping n01 n05
+ping n14 n12
+set n14 disk 64
+ping n14 n03
+ping n13 n13
+set n13 cpu 512
+ping n07 n14
+get n07
+link n07 n13 bw 64
+ping n01 n13
+set n12 ram 512
+ping n12 n13
+ping n11 n02
+set n11 disk 1024
+link n11 n15 bw 128
+get n11
+link n09 n09 bw 128
+ping n09 n05
+set n14 cpu 512
+link n06 n05 bw 64
+link n06 n03 bw 32
+get n08
+set n08 ram 128
+link n15 n10 bw 64
+set n15 disk 128
+link n15 n06 bw 128
+ping n03 n02
+set n09 disk 1024
+ping n09 n15
+link n09 n01 bw 64
+link n12 n11 bw 32
+ping n12 n14
+set n12 ram 128
+set n12 disk 512
+link n07 n06 bw 32
+link n07 n07 bw 32
+link n07 n14 bw 16
+get n07
+ping n07 n13
+ping n07 n15
+get n11
+set n15 disk 64
+set n12 cpu 512
+link n12 n10 bw 32
+set n12 ram 128
+link n01 n08 bw 128
+set n01 cpu 64
+set n07 ram 512
+ping n07 n13
+get n07
+set n07 ram 256
+set n03 cpu 512
+ping n03 n04
+del n13
+link n12 n06 bw 64
+set n12 disk 512
+set n07 cpu 256
+set n07 cpu 64
+link n11 n08 bw 64
+get n11
+del n09
+set n11 disk 256
+ping n11 n15
+set n11 cpu 64
+set n11 ram 128
+link n10 n08 bw 64
+link n05 n01 bw 16
+set n10 ram 64
+get n10
+link n16 n11 bw 64
+set n16 disk 128
+ping n16 n10
+set n16 ram 128
+ping n14 n12
+link n14 n09 bw 16
+get n14
+set n14 disk 512
+link n03 n04 bw 16
+get n03
+ping n14 n08
+set n02 ram 512
+link n02 n01 bw 32
+set n04 ram 256
+set n04 ram 64
+set n04 ram 1024
+set n04 cpu 128
+set n04 ram 256
+ping n04 n04
+set n15 ram 512
+ping n15 n10
+ping n02 n12
+ping n02 n11
+set n02 disk 512
+get n02
+get n03
+ping n03 n01
+set n03 ram 1024
+ping n16 n07
+ping n16 n04
+get n02
+ping n02 n13
+ping n02 n02
+set n13 ram 1024
+set n13 cpu 256
+get n07
+link n07 n07 bw 32
+set n02 disk 256
+ping n10 n03
+ping n10 n09
+ping n14 n10
+set n02 disk 1024
+link n06 n13 bw 16
+link n06 n02 bw 64
+ping n10 n05
+set n04 disk 256
+link n04 n07 bw 32
+get n04
+ping n04 n14
+set n04 ram 1024
+ping n08 n12
+link n08 n12 bw 64
+set n05 ram 128
+set n10 cpu 512
+link n10 n09 bw 16
+set n10 ram 1024
+set n10 cpu 256
+set n14 ram 1024
+set n14 cpu 64
+link n04 n02 bw 32
+ping n04 n06
+get n04
+link n04 n01 bw 128
+set n04 cpu 128
+set n11 disk 128
+set n11 cpu 512
+set n16 disk 256
+link n16 n09 bw 16
+set n16 ram 256
+link n07 n13 bw 16
+ping n07 n03
+set n07 ram 128
+set n07 cpu 64
+link n07 n11 bw 64
+set n10 cpu 128
+ping n10 n02
+set n10 disk 128
+set n10 ram 64
+set n10 disk 512
+ping n10 n14
+link n11 n07 bw 32
+get n11
+link n10 n13 bw 64
+link n10 n09 bw 16
+link n10 n02 bw 16
+ping n10 n01
+link n08 n02 bw 16
+set n08 disk 256
+set n08 ram 64
+set n08 cpu 1024
+get n13
+set n13 cpu 64
+set n13 ram 128
+link n13 n09 bw 64
+link n15 n01 bw 32
+ping n14 n11
+set n14 disk 256
+link n14 n10 bw 64
+set n04 disk 1024
+set n04 cpu 512
+link n04 n16 bw 64
+set n08 cpu 1024
+get n08
+set n06 disk 64
+set n06 ram 128
+set n06 cpu 128
+link n15 n13 bw 64
+link n12 n02 bw 32
+ping n12 n09
+get n10
+set n04 cpu 64
+link n04 n09 bw 16
+set n04 disk 128
+link n02 n04 bw 128
+set n02 cpu 128
+set n02 cpu 512
+set n02 ram 256
+ping n02 n16
+set n02 ram 256
+set n11 ram 256
+set n11 disk 1024
+set n04 cpu 512
+del n02
+set n03 disk 64
+set n08 cpu 512
+link n08 n09 bw 64
+get n08
+link n10 n10 bw 128
+set n12 disk 1024
+ping n04 n09
+link n04 n03 bw 32
+ping n09 n09
+set n09 disk 256
+ping n11 n16
+set n11 ram 256
+set n01 ram 512
+ping n01 n15
+del n01
+set n01 ram 256
+set n01 disk 128
+ping n01 n01
+link n01 n05 bw 32
+link n01 n10 bw 32
+del n08
+link n14 n11 bw 128
+link n15 n14 bw 64
+link n15 n13 bw 128
+set n07 cpu 256
+set n07 cpu 64
+ping n03 n10
+set n03 disk 64
+ping n03 n02
+get n03
+link n03 n02 bw 16
+ping n03 n03
+link n11 n02 bw 128
+set n16 ram 128
+ping n04 n04
+ping n04 n06
+ping n04 n05
+ping n04 n03
+link n09 n05 bw 64
+ping n09 n14
+set n09 ram 512
+link n09 n07 bw 16
+get n08
+link n08 n08 bw 64
+ping n08 n06
+set n11 ram 256
+set n11 ram 128
+del n07
+ping n11 n05
+set n07 cpu 128
+ping n10 n13
+link n14 n10 bw 64
+ping n14 n16
+set n14 ram 512
+set n04 ram 1024
+ping n04 n05
+set n04 cpu 128
+set n14 disk 512
+get n14
+ping n14 n16
+set n14 disk 64
+link n14 n04 bw 64
+link n15 n13 bw 64
+set n10 cpu 512
+ping n10 n09
+ping n10 n12
+set n16 disk 64
+ping n16 n07
+ping n16 n10
+ping n16 n01
+set n14 ram 64
+del n03
+set n14 cpu 128
+set n14 disk 256
+set n14 disk 128
+set n16 cpu 512
+ping n16 n14
+set n16 ram 128
+ping n16 n08
+link n07 n02 bw 64
+set n07 ram 256
+link n13 n01 bw 64
+link n13 n08 bw 32
+link n13 n01 bw 64
+set n13 cpu 256
+link n03 n02 bw 16
+set n03 ram 128
+set n03 disk 128
+set n03 cpu 256
+set n10 ram 256
+ping n13 n01
+set n15 cpu 64
+link n15 n01 bw 64
+set n15 ram 256
+ping n15 n09
+set n03 disk 128
+ping n03 n02
+set n03 disk 64
+set n03 cpu 512
+set n03 disk 1024
+del n06
+ping n03 n03
+set n03 disk 1024
+set n10 disk 64
+ping n10 n03
+link n14 n05 bw 16
+ping n14 n09
+set n07 disk 64
+set n13 cpu 256
+link n05 n02 bw 16
+get n05
+ping n05 n07
+del n05
+set n01 cpu 1024
+ping n12 n08
+link n12 n03 bw 64
+link n09 n12 bw 128
+set n09 disk 64
+del n04
+set n05 disk 128
+ping n05 n03
+set n05 ram 512
+ping n05 n02
+set n05 disk 128
+link n14 n02 bw 64
+ping n14 n02
+ping n10 n10
+get n10
+ping n10 n10
+set n10 disk 1024
+set n10 cpu 256
+link n10 n13 bw 32
+ping n10 n16
+set n10 disk 128
+del n09
+ping n10 n05
+set n10 disk 128
+set n15 ram 512
+ping n15 n03
+link n15 n07 bw 16
+del n07
+ping n14 n01
+set n14 disk 128
+link n14 n04 bw 128
+set n14 ram 1024
+ping n03 n04
+del n11
+del n02
+ping n08 n03
+set n08 ram 512
+ping n08 n05
+set n08 disk 128
+ping n08 n09
+get n13
+link n13 n08 bw 128
+ping n13 n04
+link n13 n13 bw 64
+link n13 n07 bw 16
+ping n13 n04
+set n15 cpu 512
+del n08
+set n15 ram 1024
+ping n15 n02
+set n15 ram 1024
+get n16
+link n16 n15 bw 16
+ping n09 n10
+set n09 cpu 1024
+del n11
+set n15 ram 64
+link n11 n04 bw 64
+del n01
+del n09
+set n05 cpu 1024
+set n05 disk 128
+set n13 disk 256
+del n08
+link n09 n01 bw 128
+ping n09 n11
+ping n09 n07
+ping n14 n16
+set n09 disk 256
+link n09 n04 bw 64
+link n05 n03 bw 16
+link n05 n14 bw 16
+link n05 n14 bw 128
+set n05 cpu 256
+link n10 n12 bw 32
+del n07
+get n09
+link n09 n15 bw 64
+link n09 n06 bw 128
+ping n09 n10
+set n09 cpu 256
+link n09 n01 bw 64
+set n13 cpu 1024
+set n13 cpu 64
+link n13 n01 bw 32
+link n13 n02 bw 64
+ping n13 n01
+link n09 n16 bw 64
+del n08
+set n11 cpu 256
+ping n11 n11
+set n11 cpu 1024
+set n11 disk 1024
+link n02 n10 bw 128
+link n02 n09 bw 64
+set n10 cpu 256
+set n10 ram 128
+link n02 n08 bw 128
+set n02 ram 256
+link n02 n16 bw 128
+set n12 cpu 64
+link n01 n13 bw 16
+ping n01 n15
+del n07
+link n01 n10 bw 32
+set n01 disk 256
+link n12 n10 bw 32
+link n12 n10 bw 16
+ping n12 n12
+ping n12 n08
+ping n08 n12
+ping n05 n09
+set n07 disk 256
+ping n07 n05
+link n07 n05 bw 64
+link n07 n11 bw 16
+ping n07 n12
+link n07 n01 bw 32
+set n08 ram 1024
+set n07 ram 256
+link n12 n03 bw 32
+link n12 n13 bw 64
+link n12 n02 bw 128
+get n12
+link n12 n07 bw 128
+link n07 n15 bw 64
+link n07 n14 bw 128
+link n07 n02 bw 16
+link n12 n13 bw 16
+set n04 ram 1024
+link n07 n03 bw 32
+set n07 ram 512
+set n06 cpu 64
+del n14
+get n06
+set n03 disk 1024
+del n06
+set n03 ram 512
+del n01
+set n03 cpu 128
+link n15 n06 bw 64
+del n11
+ping n03 n16
+link n08 n15 bw 32
+ping n08 n10
+set n08 ram 1024
+set n08 ram 256
+ping n08 n12
+set n06 cpu 256
+link n06 n06 bw 32
+link n04 n06 bw 32
+link n04 n01 bw 128
+set n04 ram 1024
+get n13
+set n10 disk 512
+ping n10 n10
+ping n10 n14
+link n10 n08 bw 16
+ping n07 n15
+del n07
+ping n04 n12
+set n14 ram 256
+ping n14 n06
+set n15 cpu 1024
+set n03 cpu 128
+ping n03 n06
+set n03 cpu 512
+set n10 ram 128
+get n03
+link n03 n06 bw 32
+ping n03 n06
+ping n03 n13
+ping n03 n12
+link n10 n08 bw 16
+link n10 n02 bw 64
+set n10 ram 128
+link n08 n06 bw 16
+get n08
+set n04 disk 64
+set n04 ram 64
+ping n16 n11
+set n16 ram 64
+del n01
+get n16
+set n16 ram 64
+ping n13 n11
+link n13 n12 bw 16
+set n13 cpu 128
+link n13 n09 bw 32
+ping n13 n10
+set n14 cpu 1024
+set n12 cpu 256
+set n07 ram 512
+link n13 n10 bw 32
+set n04 disk 256
+link n04 n08 bw 16
+link n07 n03 bw 32
+set n07 cpu 512
+set n12 ram 1024
+ping n02 n11
+set n02 ram 64
+get n02
+set n02 disk 64
+link n02 n13 bw 64
+ping n02 n11
+ping n05 n11
+get n10
+link n10 n06 bw 64
+ping n10 n08
+del n08
+get n10
+set n10 cpu 512
+set n10 ram 256
+link n15 n04 bw 32
+ping n01 n03
+set n01 disk 64
+link n01 n04 bw 128
+link n01 n05 bw 32
+get n09
+set n09 cpu 512
+set n09 disk 128
+set n02 disk 512
+ping n02 n16
+get n02
+link n10 n04 bw 16
+link n10 n02 bw 32
+del n08
+set n01 cpu 128
+set n16 disk 1024
+set n15 ram 128
+ping n16 n03
+set n16 disk 128
+set n16 disk 512
+ping n16 n06
+set n16 cpu 128
+set n02 ram 256
+link n15 n06 bw 128
+set n15 disk 256
+link n05 n13 bw 16
+link n05 n13 bw 64
+link n05 n04 bw 64
+set n06 cpu 512
+set n06 cpu 256
+set n06 cpu 512
+ping n06 n08
+set n06 disk 512
+link n05 n07 bw 128
+set n05 cpu 1024
+get n15
+set n12 cpu 64
+link n12 n07 bw 64
+link n12 n13 bw 32
+link n12 n01 bw 64
+set n16 ram 512
+link n16 n11 bw 32
+set n09 ram 256
+set n09 disk 64
+link n12 n11 bw 32
+link n12 n12 bw 16
+ping n08 n04
+link n08 n02 bw 128
+del n05
+link n14 n01 bw 64
+set n14 disk 512
+set n14 cpu 1024
+set n07 ram 256
+get n07
+set n14 ram 64
+set n14 cpu 512
+link n14 n13 bw 64
+link n14 n04 bw 128
+set n11 disk 128
+ping n11 n07
+link n11 n13 bw 128
+link n11 n10 bw 64
+ping n11 n11
+set n12 cpu 512
+ping n12 n10
+ping n10 n13
+set n10 ram 1024
+get n13
+link n13 n04 bw 16
+set n12 cpu 128
+get n12
+link n12 n11 bw 128
+get n12
+ping n12 n08
+link n04 n11 bw 128
+set n04 ram 512
+get n16
+set n10 disk 128
+set n10 ram 1024
+get n01
+link n01 n04 bw 128
+del n15
+set n06 ram 1024
+link n16 n10 bw 64
+del n07
+link n15 n06 bw 32
+get n15
+ping n15 n07
+link n11 n05 bw 64
+del n14
+del n04
+set n08 ram 128
+set n08 disk 64
+set n08 cpu 256
+ping n08 n03
+link n08 n01 bw 32
+set n08 cpu 512
+link n12 n05 bw 32
+get n12
+link n12 n15 bw 128
+ping n10 n03
+link n10 n08 bw 32
+set n10 cpu 1024
+link n14 n15 bw 64
+ping n14 n02
+set n14 cpu 1024
+set n08 ram 512
+link n05 n12 bw 16
+set n05 ram 256
+set n05 cpu 1024
+link n06 n09 bw 16
+del n03
+ping n07 n02
+ping n07 n06
+link n01 n12 bw 64
+ping n01 n05
+link n01 n06 bw 32
+set n13 disk 256
+link n13 n16 bw 16
+ping n13 n14
+set n09 cpu 256
+link n09 n15 bw 64
+ping n09 n14
+link n09 n12 bw 32
+link n11 n12 bw 64
+ping n11 n14
+link n11 n06 bw 16
+set n11 ram 64
+set n11 cpu 1024
+set n11 ram 64
+set n06 cpu 256
+link n10 n10 bw 128
+set n10 disk 256
+link n13 n01 bw 16
+ping n13 n01
+set n13 ram 64
+set n07 cpu 256
+set n07 disk 1024
+ping n13 n08
+link n07 n06 bw 128
+set n07 ram 1024
+set n07 disk 64
+link n07 n01 bw 64
+link n07 n05 bw 128
+ping n08 n08
+link n08 n07 bw 128
+set n08 cpu 128
+get n01
+link n01 n08 bw 32
+set n15 cpu 1024
+ping n15 n07
+ping n15 n05
+ping n15 n16
+link n15 n13 bw 128
+set n04 ram 1024
+link n05 n13 bw 64
+set n05 disk 1024
+del n08
+set n14 cpu 256
+set n02 cpu 256
+set n02 disk 128
+link n15 n14 bw 64
+ping n15 n13
+set n15 disk 256
+link n07 n02 bw 64
+get n07
+set n07 disk 64
+link n07 n01 bw 128
+link n07 n15 bw 32
+ping n10 n09
+set n10 cpu 64
+get n10
+set n08 ram 512
+link n04 n12 bw 128
+link n04 n08 bw 64
+ping n04 n05
+del n09
+ping n14 n08
+link n14 n13 bw 64
+set n14 disk 512
+get n15
+set n15 cpu 256
+link n15 n03 bw 16
+link n01 n08 bw 128
+link n12 n07 bw 128
+link n12 n11 bw 32
+del n14
+ping n13 n12
+get n13
+link n13 n11 bw 16
+ping n14 n13
+link n02 n09 bw 16
+set n02 cpu 256
+set n02 disk 64
+link n04 n09 bw 16
+set n10 cpu 64
+set n10 ram 64
+link n01 n10 bw 128
+set n01 cpu 64
+set n04 cpu 256
+link n13 n12 bw 128
+link n13 n11 bw 16
+set n10 ram 128
+set n10 ram 256
+set n14 cpu 64
+link n02 n14 bw 32
+link n02 n12 bw 16
+del n10
+link n02 n14 bw 128
+set n15 disk 64
+ping n15 n11
+link n02 n04 bw 128
+set n14 cpu 1024
+set n14 ram 1024
+set n13 cpu 128
+set n13 disk 64
+set n09 cpu 64
+set n09 cpu 512
+link n09 n14 bw 16
+set n09 ram 128
+link n15 n07 bw 64
+set n13 disk 512
+ping n13 n03
+set n13 ram 128
+set n13 disk 64
+ping n13 n02
+set n03 cpu 128
+set n03 ram 128
+ping n11 n10
+set n11 ram 1024
+set n11 ram 512
+link n13 n10 bw 128
+set n13 cpu 1024
+link n13 n14 bw 128
+set n13 cpu 512
+link n13 n05 bw 16
+set n13 ram 1024
+set n14 ram 128
+set n12 disk 1024
+set n12 ram 256
+ping n12 n01
+set n12 ram 64
+ping n12 n13
+set n14 ram 128
+set n05 cpu 512
+set n05 cpu 1024
+set n05 cpu 64
+set n12 cpu 256
+get n12
+set n12 cpu 256
+ping n08 n12
+set n08 cpu 512
+del n14
+link n08 n08 bw 128
+link n01 n03 bw 128
+ping n01 n02
+del n12
+ping n15 n10
+link n15 n10 bw 64
+get n15
+ping n15 n05
+ping n11 n07
+link n11 n12 bw 128
+ping n11 n15
+ping n14 n08
+set n14 ram 1024
+get n11
+ping n11 n12
+ping n11 n02
+set n01 cpu 64
+ping n01 n14
+set n01 ram 128
+link n04 n03 bw 128
+set n04 cpu 512
+ping n09 n02
+get n10
+set n12 cpu 1024
+set n12 cpu 128
+set n12 ram 128
+link n12 n05 bw 64
+set n12 disk 128
+ping n07 n13
+link n07 n10 bw 64
+link n03 n05 bw 128
+set n03 disk 512
+set n14 disk 256
+set n13 cpu 512
+link n13 n13 bw 64
+ping n03 n09
+get n15
+link n15 n16 bw 32
+del n06
+set n04 ram 64
+set n12 ram 512
+link n06 n02 bw 64
+link n13 n02 bw 64
+set n09 disk 512
+set n09 disk 128
+set n09 cpu 256
+set n14 disk 1024
+link n15 n10 bw 16
+set n10 cpu 512
+set n10 disk 64
+ping n09 n13
+ping n09 n14
+set n09 disk 64
+set n08 cpu 128
+get n08
+link n08 n01 bw 32
+ping n01 n10
+link n01 n08 bw 32
+ping n01 n02
+link n01 n14 bw 128
+ping n01 n09
+ping n04 n14
+set n15 cpu 1024
+set n03 cpu 512
+get n03
+ping n10 n03
+ping n10 n06
+set n08 disk 1024
+set n08 disk 512
+link n08 n12 bw 64
+ping n08 n04
+ping n10 n07
+ping n04 n07
+set n07 ram 1024
+ping n07 n03
+ping n07 n13
+set n14 ram 64
+set n14 cpu 256
+link n08 n15 bw 32
+link n15 n11 bw 32
+get n15
+set n15 ram 1024
+ping n15 n02
+ping n07 n15
+get n07
+ping n15 n10
+set n16 disk 1024
+ping n16 n05
+ping n04 n11
+get n04
+link n04 n12 bw 16
+set n04 ram 1024
+link n11 n08 bw 64
+set n11 disk 64
+link n11 n14 bw 16
+link n11 n16 bw 64
+set n11 disk 64
+link n13 n04 bw 32
+set n13 disk 64
+get n13
+ping n09 n02
+del n03
+set n13 ram 1024
+set n13 disk 64
+link n13 n04 bw 64
+link n13 n07 bw 64
+get n04
+link n04 n11 bw 32
+ping n03 n08
+set n03 cpu 256
+get n08
+get n11
+set n11 ram 512
+get n11
+ping n11 n06
+set n11 cpu 128
+ping n03 n05
+get n13
+ping n13 n12
+get n03
+ping n03 n02
+set n03 cpu 512
+set n05 ram 1024
+link n05 n01 bw 128
+set n05 ram 256
+set n04 disk 1024
+ping n04 n11
+set n04 disk 64
+ping n04 n09
+set n07 disk 128
+link n14 n06 bw 16
+set n06 disk 128
+ping n06 n11
+del n01
+get n16
+link n16 n10 bw 32
+get n16
+set n10 disk 1024
+ping n10 n12
+set n06 ram 512
+ping n06 n09
+link n06 n05 bw 32
+get n14
+set n14 ram 256
+link n04 n10 bw 128
+link n04 n06 bw 32
+link n04 n05 bw 16
+ping n04 n08
+get n04
+del n12
+set n15 ram 128
+get n15
+ping n09 n15
+link n09 n10 bw 16
+set n09 cpu 64
+link n09 n15 bw 32
+link n16 n02 bw 64
+get n02
+set n02 cpu 512
+link n02 n05 bw 64
+set n02 ram 128
+set n02 cpu 256
+set n05 ram 128
+set n11 ram 256
+link n11 n09 bw 64
+ping n11 n14
+link n11 n11 bw 128
+link n06 n15 bw 16
+set n06 ram 256
+link n06 n09 bw 32
+get n06
+get n03
+set n03 disk 256
+set n03 cpu 64
+set n03 disk 64
+link n13 n03 bw 128
+link n13 n12 bw 32
+del n06
+set n08 cpu 512
+get n08
+set n08 cpu 512
+link n08 n07 bw 32
+link n12 n09 bw 128
+set n12 ram 1024
+set n12 cpu 128
+link n02 n09 bw 128
+set n12 ram 1024
+set n05 ram 1024
+ping n09 n05
+link n09 n02 bw 32
+ping n09 n11
+link n15 n15 bw 64
+ping n16 n13
+get n16
+link n16 n07 bw 32
+link n03 n15 bw 32
+set n03 disk 64
+link n03 n09 bw 32
+set n02 disk 512
+set n02 ram 64
+set n02 ram 256
+ping n15 n13
+set n05 disk 512
+link n05 n03 bw 32
+link n06 n02 bw 64
+get n06
+ping n06 n04
+link n06 n01 bw 128
+set n01 disk 1024
+set n01 cpu 1024
+del n08
+set n01 ram 1024
+del n11
+ping n16 n12
+set n16 cpu 256
+set n16 disk 256
+link n16 n13 bw 16
+set n16 disk 128
+link n09 n05 bw 32
+link n09 n13 bw 32
+set n09 ram 64
+set n09 disk 256
+link n09 n14 bw 64
+link n05 n13 bw 128
+get n05
+ping n05 n10
+set n05 ram 512
+ping n15 n14
+link n01 n14 bw 64
+link n01 n08 bw 128
+link n14 n03 bw 128
+set n14 disk 256
+get n11
+ping n11 n13
+set n12 cpu 256
+get n12
+link n06 n03 bw 32
+get n04
+link n04 n15 bw 64
+ping n16 n09
+set n10 disk 256
+set n10 ram 1024
+get n10
+ping n10 n15
+ping n10 n09
+get n10
+set n08 cpu 1024
+link n08 n14 bw 64
+ping n08 n15
+set n08 ram 64
+get n08
+get n05
+set n05 ram 256
+ping n05 n16
+set n05 ram 128
+link n07 n08 bw 64
+set n09 cpu 1024
+del n07
+link n14 n08 bw 32
+del n09
+set n09 ram 128
+set n09 ram 1024
+set n09 cpu 128
+set n04 disk 128
+link n09 n04 bw 16
+set n09 ram 64
+link n09 n14 bw 64
+set n09 ram 1024
+ping n09 n12
+get n02
+link n02 n14 bw 16
+ping n06 n12
+set n06 disk 64
+set n06 cpu 1024
+link n07 n02 bw 16
+set n16 cpu 1024
+get n16
+set n16 ram 512
+get n11
+set n11 cpu 512
+set n04 disk 512
+ping n04 n15
+set n04 disk 1024
+ping n12 n07
+ping n12 n06
+link n12 n06 bw 64
+ping n07 n14
+get n07
+ping n07 n14
+ping n07 n16
+ping n07 n10
+get n09
+link n09 n05 bw 32
+get n04
+link n04 n02 bw 32
+set n05 cpu 128
+set n12 disk 512
+ping n13 n06
+ping n13 n04
+set n14 ram 128
+link n14 n14 bw 16
+set n14 disk 1024
+set n14 disk 512
+link n14 n04 bw 32
+link n10 n15 bw 64
+set n14 ram 256
+del n12
+link n14 n15 bw 16
+ping n14 n11
+set n14 disk 64
+set n01 disk 64
+set n01 cpu 1024
+ping n01 n08
+ping n01 n03
+set n12 cpu 1024
+set n12 cpu 64
+set n12 disk 128
+link n05 n10 bw 32
+set n05 ram 128
+ping n05 n16
+ping n05 n14
+set n05 disk 64
+link n05 n11 bw 32
+set n05 ram 1024
+set n02 ram 64
+set n02 cpu 128
+ping n12 n01
+del n12
+ping n12 n06
+set n07 disk 64
+ping n07 n13
+ping n07 n15
+get n07
+link n07 n07 bw 128
+get n07
+set n07 ram 64
+set n04 cpu 512
+set n15 cpu 512
+ping n15 n14
+set n15 disk 128
+set n15 cpu 512
+link n15 n09 bw 128
+set n15 cpu 128
+set n15 disk 512
+link n15 n08 bw 32
+get n01
+ping n01 n02
+link n01 n04 bw 64
+link n14 n12 bw 64
+get n14
+link n14 n08 bw 32
+ping n14 n08
+link n14 n07 bw 32
+set n03 cpu 1024
+link n03 n11 bw 16
+set n16 ram 512
+link n16 n01 bw 16
+link n09 n05 bw 64
+set n09 ram 128
+link n09 n11 bw 16
+del n15
+set n09 disk 256
+set n09 cpu 512
+link n09 n13 bw 128
+link n09 n10 bw 16
+set n09 ram 64
+link n09 n05 bw 32
+link n09 n11 bw 16
+link n11 n14 bw 32
+set n11 cpu 128
+set n01 disk 1024
+ping n02 n10
+set n02 ram 512
+ping n01 n04
+link n09 n15 bw 32
+set n09 ram 256
+set n09 cpu 256
+del n02
+set n14 disk 512
+set n14 ram 64
+set n14 cpu 128
+set n14 disk 128
+set n01 cpu 128
+set n01 cpu 64
+ping n01 n09
+set n14 ram 256
+link n15 n12 bw 128
+get n01
+link n05 n06 bw 32
+link n12 n09 bw 64
+link n12 n04 bw 128
+link n12 n10 bw 128
+set n12 ram 128
+link n12 n14 bw 16
+set n12 cpu 256
+set n05 cpu 256
+set n06 disk 512
+link n06 n09 bw 128
+set n15 ram 64
+ping n15 n08
+get n15
+ping n15 n14
+set n15 ram 64
+link n15 n14 bw 128
+del n16
+ping n11 n15
+ping n11 n08
+set n11 disk 256
+set n11 ram 1024
+set n11 cpu 1024
+link n10 n13 bw 64
+set n10 cpu 128
+link n10 n14 bw 16
+link n16 n13 bw 64
+ping n10 n15
+link n10 n04 bw 16
+set n08 ram 512
+set n08 disk 1024
+ping n09 n10
+get n09
+set n09 ram 1024
+set n11 ram 512
+get n11
+link n03 n03 bw 64
+link n08 n07 bw 16
+link n08 n15 bw 32
+set n10 ram 256
+set n10 ram 512
+link n10 n13 bw 128
+set n15 cpu 128
+ping n15 n03
+link n15 n08 bw 64
+link n08 n07 bw 16
+link n08 n11 bw 16
+ping n08 n13
+ping n08 n16
+link n08 n14 bw 32
+ping n08 n05
+del n16
+link n04 n14 bw 32
+get n04
+set n03 disk 128
+ping n03 n06
+set n03 disk 512
+ping n03 n09
+get n06
+get n05
+link n05 n02 bw 32
+link n05 n06 bw 32
+get n05
+link n03 n08 bw 128
+link n08 n10 bw 128
+ping n08 n01
+link n08 n02 bw 128
+link n10 n02 bw 64
+link n10 n14 bw 64
+get n10
+set n10 disk 64
+set n13 disk 128
+link n13 n05 bw 16
+link n02 n10 bw 64
+link n02 n15 bw 128
+set n12 ram 1024
+get n12
+link n12 n16 bw 64
+set n12 ram 256
+set n12 ram 1024
+set n13 ram 128
+set n13 cpu 512
+link n09 n15 bw 32
+set n11 ram 256
+link n11 n13 bw 16
+del n05
+set n09 cpu 256
+link n02 n06 bw 128
+get n02
+set n02 cpu 1024
+set n02 disk 512
+set n05 disk 1024
+link n05 n06 bw 128
+set n05 disk 1024
+set n05 ram 1024
+set n05 ram 256
+ping n02 n08
+set n02 ram 1024
+set n02 ram 512
+set n08 ram 1024
+set n08 cpu 256
+ping n08 n13
+get n01
+ping n03 n09
+link n03 n16 bw 128
+link n03 n10 bw 32
+ping n15 n16
+link n15 n10 bw 128
+link n13 n05 bw 16
+ping n16 n03
+set n16 disk 256
+set n15 disk 128
+set n15 disk 64
+link n16 n09 bw 64
+link n16 n12 bw 32
+link n01 n14 bw 16
+set n09 disk 64
+link n14 n14 bw 32
+set n13 cpu 256
+set n13 cpu 512
+ping n13 n01
+link n13 n09 bw 32
+set n08 disk 512
+ping n08 n09
+set n08 cpu 128
+ping n03 n09
+set n03 disk 1024
+link n03 n06 bw 32
+link n03 n09 bw 64
+get n05
+link n05 n03 bw 32
+set n05 cpu 512
+link n05 n13 bw 128
+link n12 n07 bw 64
+get n01
+link n01 n09 bw 128
+set n16 disk 1024
+del n14
+set n16 cpu 512
+set n12 cpu 256
+set n12 ram 1024
+set n04 cpu 512
+link n04 n12 bw 16
+set n04 ram 256
+ping n06 n12
+link n06 n03 bw 16
+ping n06 n15
+set n04 ram 64
+ping n03 n02
+set n03 disk 64
+ping n03 n13
+link n03 n16 bw 128
+link n14 n12 bw 128
+set n14 disk 256
+del n13
+ping n14 n11
+link n14 n16 bw 32
+set n15 cpu 256
+del n03
+set n01 disk 1024
+del n01
+set n09 ram 64
+link n09 n03 bw 32
+get n09
+set n15 ram 256
+set n15 cpu 512
+ping n15 n08
+set n10 disk 256
+set n10 disk 64
+get n10
+link n04 n10 bw 16
+link n04 n07 bw 32
+get n04
+ping n04 n02
+set n04 ram 1024
+set n04 cpu 1024
+link n12 n02 bw 128
+link n12 n15 bw 16
+get n15
+set n15 ram 256
+ping n14 n15
+link n14 n16 bw 32
+set n14 ram 512
+set n09 cpu 512
+set n14 ram 512
+set n07 disk 256
+set n07 ram 1024
+link n15 n01 bw 128
+set n04 disk 128
+set n04 cpu 128
+link n04 n14 bw 64
+get n04
+ping n04 n14
+get n11
+ping n11 n01
+link n11 n02 bw 64
+set n15 disk 64
+ping n04 n13
+set n02 ram 512
+set n02 cpu 512
+set n02 cpu 256
+set n02 cpu 128
+set n07 disk 1024
+set n07 ram 64
+get n07
+link n10 n11 bw 128
+set n03 cpu 512
+get n16
+set n16 cpu 128
+ping n16 n08
+set n16 ram 512
+set n16 cpu 128
+link n06 n04 bw 64
+set n06 disk 1024
+del n02
+link n06 n05 bw 16
+set n06 disk 64
+del n14
+set n11 cpu 64
+ping n11 n09
+del n09
+del n01
+link n09 n04 bw 128
+link n11 n06 bw 64
+get n14
+get n15
+ping n15 n11
+set n15 disk 1024
+set n14 cpu 128
+set n06 disk 512
+set n06 ram 512
+link n06 n11 bw 64
+get n12
+get n14
+link n14 n12 bw 16
+ping n14 n06
+set n14 ram 64
+get n14
+set n14 ram 512
+get n14
+link n14 n13 bw 64
+set n14 ram 128
+link n14 n11 bw 64
+ping n14 n02
+set n12 disk 1024
+link n05 n14 bw 32
+ping n05 n09
+del n11
+get n08
+set n08 cpu 1024
+del n03
+ping n08 n04
+set n02 ram 256
+set n02 ram 64
+set n16 cpu 512
+ping n01 n06
+ping n04 n01
+set n04 disk 256
+ping n04 n13
+set n04 cpu 512
+ping n08 n05
+set n08 ram 1024
+get n07
+set n03 ram 512
+link n03 n09 bw 32
+set n01 cpu 128
+del n14
+ping n01 n04
+ping n04 n04
+ping n04 n05
+set n11 disk 64
+set n04 cpu 1024
+link n04 n08 bw 64
+set n05 disk 1024
+link n10 n06 bw 32
+set n10 cpu 128
+ping n02 n07
+get n02
+set n02 disk 256
+link n11 n07 bw 64
+link n11 n04 bw 64
+set n11 ram 128
+ping n14 n04
+set n05 disk 1024
+del n05
+set n14 ram 512
+set n14 ram 1024
+set n14 ram 64
+link n14 n10 bw 128
+link n02 n07 bw 32
+set n02 ram 128
+ping n15 n01
+ping n15 n04
+get n09
+ping n02 n02
+link n09 n14 bw 16
+link n09 n09 bw 128
+link n03 n15 bw 128
+ping n03 n04
+ping n03 n01
+set n03 ram 1024
+set n03 cpu 64
+link n02 n09 bw 32
+set n02 ram 512
+set n02 ram 1024
+link n13 n13 bw 128
+set n15 ram 128
+link n15 n14 bw 16
+set n15 ram 64
+set n04 disk 64
+link n04 n02 bw 128
+set n04 ram 128
+ping n04 n03
+set n06 cpu 1024
+set n06 disk 512
+link n06 n03 bw 32
+ping n06 n07
+del n14
+ping n07 n10
+link n10 n15 bw 32
+set n10 cpu 1024
+set n10 disk 128
+set n10 ram 256
+set n05 cpu 1024
+set n10 disk 128
+set n12 ram 1024
+set n12 disk 1024
+set n09 ram 64
+ping n09 n09
+get n09
+set n13 cpu 1024
+get n13
+set n13 ram 512
+set n13 ram 128
+set n11 cpu 256
+link n11 n10 bw 128
+set n11 ram 64
+ping n11 n15
+ping n09 n09
+set n09 disk 64
+link n09 n03 bw 64
+set n09 ram 256
+link n09 n15 bw 128
+ping n13 n02
+link n13 n13 bw 32
+set n12 cpu 256
+get n12
+link n12 n09 bw 16
+set n05 ram 1024
+link n12 n07 bw 128
+link n04 n14 bw 128
+set n04 ram 512
+link n04 n13 bw 128
+set n04 cpu 64
+set n04 disk 512
+link n14 n01 bw 128
+set n08 ram 64
+ping n12 n09
+set n12 ram 64
+ping n01 n06
+link n01 n08 bw 32
+link n07 n15 bw 16
+set n09 cpu 512
+set n05 ram 512
+ping n12 n06
+ping n03 n12
+set n03 cpu 1024
+link n08 n10 bw 16
+set n08 ram 64
+set n08 ram 128
+get n06
+link n06 n05 bw 64
+get n09
+link n09 n04 bw 32
+del n07
+ping n09 n01
+set n10 cpu 256
+set n10 cpu 64
+set n01 ram 128
+set n01 cpu 128
+set n01 disk 512
+set n13 ram 64
+get n13
+set n14 ram 512
+link n14 n13 bw 64
+set n14 ram 1024
+set n07 disk 64
+set n07 ram 1024
+set n10 cpu 64
+set n10 disk 256
+set n10 disk 1024
+get n10
+del n16
+set n10 ram 128
+link n07 n10 bw 128
+get n06
+ping n06 n14
+get n07
+link n07 n06 bw 128
+get n07
+link n07 n04 bw 32
+set n07 ram 256
+link n07 n02 bw 128
+set n07 disk 256
+link n07 n09 bw 64
+set n04 cpu 128
+ping n04 n05
+set n04 disk 512
+link n04 n01 bw 32
+ping n13 n14
+ping n13 n11
+ping n13 n13
+set n13 ram 1024
+ping n06 n09
+ping n06 n02
+link n05 n16 bw 128
+link n05 n08 bw 16
+set n04 ram 256
+ping n04 n10
+set n04 disk 256
+link n04 n01 bw 32
+set n04 cpu 512
+ping n14 n16
+set n08 ram 128
+get n10
+set n10 cpu 64
+set n10 cpu 256
+set n10 disk 128
+set n10 cpu 64
+get n10
+set n01 disk 1024
+set n16 cpu 128
+set n16 disk 1024
+link n16 n07 bw 16
+link n13 n16 bw 128
+set n13 cpu 64
+set n11 cpu 64
+set n11 cpu 512
+get n11
+del n07
+set n15 ram 256
+set n15 ram 64
+link n07 n10 bw 64
+set n07 disk 256
+del n07
+link n07 n09 bw 128
+set n02 ram 1024
+link n13 n08 bw 16
+ping n04 n05
+del n09
+ping n04 n16
+ping n04 n15
+link n02 n09 bw 64
+del n09
+set n02 cpu 256
+link n02 n02 bw 64
+get n02
+set n01 cpu 256
+link n01 n07 bw 32
+link n10 n12 bw 64
+set n13 ram 256
+set n13 cpu 256
+ping n07 n03
+get n07
+set n07 ram 1024
+link n07 n15 bw 128
+del n10
+link n13 n10 bw 128
+ping n13 n10
+ping n16 n12
+set n16 ram 128
+ping n16 n04
+set n02 disk 1024
+link n02 n01 bw 64
+set n02 cpu 256
+ping n02 n04
+ping n02 n07
+link n02 n02 bw 64
+ping n02 n16
+link n05 n02 bw 16
+set n05 disk 1024
+set n05 cpu 512
+link n05 n12 bw 32
+set n02 ram 256
+link n02 n13 bw 64
+get n07
+ping n07 n04
+set n07 disk 1024
+get n02
+set n10 cpu 1024
+del n14
+del n03
+link n10 n02 bw 64
+ping n10 n03
+get n04
+link n04 n07 bw 32
+set n04 ram 128
+ping n11 n07
+set n11 disk 128
+set n11 disk 256
+ping n06 n07
+set n06 ram 512
+link n10 n03 bw 32
+set n10 cpu 64
+link n12 n05 bw 16
+link n08 n12 bw 32
+get n08
+link n08 n06 bw 64
+link n08 n02 bw 16
+ping n08 n07
+set n08 cpu 512
+ping n15 n13
+link n15 n10 bw 64
+set n02 disk 1024
+link n02 n15 bw 16
+set n02 disk 512
+ping n07 n02
+link n07 n01 bw 32
+set n07 ram 512
+ping n02 n04
+link n02 n05 bw 64
+set n02 cpu 512
+ping n02 n09
+set n02 disk 512
+set n09 cpu 256
+link n09 n05 bw 32
+set n09 cpu 1024
+set n09 cpu 512
+link n09 n01 bw 64
+get n12
+set n12 ram 512
+set n12 disk 64
+ping n12 n12
+ping n11 n06
+link n11 n11 bw 128
+ping n11 n06
+get n11
+set n05 cpu 64
+set n05 disk 128
+link n12 n04 bw 64
+set n12 ram 64
+set n12 disk 1024
+link n12 n11 bw 64
+ping n11 n04
+link n11 n09 bw 64
+link n11 n10 bw 128
+ping n13 n16
+set n13 cpu 512
+link n13 n05 bw 64
+link n13 n01 bw 128
+set n13 cpu 128
+del n07
+link n10 n02 bw 16
+link n10 n10 bw 64
+set n10 ram 1024
+ping n10 n05
+ping n10 n07
+set n10 cpu 128
+set n13 cpu 128
+ping n13 n09
+get n13
+set n02 ram 128
+set n02 disk 128
+get n16
+link n16 n04 bw 32
+set n16 cpu 1024
+ping n08 n15
+link n08 n14 bw 64
+set n08 disk 64
+link n07 n02 bw 32
+link n07 n10 bw 32
+set n11 disk 1024
+set n11 disk 256
+link n08 n14 bw 128
+set n08 disk 512
+ping n08 n03
+get n07
+link n07 n03 bw 128
+ping n07 n08
+link n14 n15 bw 128
+del n06
+set n05 cpu 256
+set n08 ram 256
+set n08 cpu 512
+set n08 cpu 128
+set n08 cpu 64
+get n12
+ping n15 n02
+link n15 n01 bw 16
+link n15 n13 bw 64
+set n05 disk 1024
+get n05
+set n05 cpu 64
+set n11 ram 1024
+link n11 n12 bw 16
+set n11 ram 128
+set n07 disk 128
+set n07 disk 256
+link n07 n08 bw 32
+set n10 disk 64
+ping n10 n01
+set n10 disk 1024
+ping n10 n13
+set n10 ram 128
+set n16 cpu 1024
+link n16 n11 bw 64
+get n02
+set n02 ram 128
+set n02 disk 512
+set n02 disk 256
+set n10 disk 64
+ping n10 n09
+link n02 n12 bw 16
+set n02 disk 512
+set n06 disk 128
+set n06 ram 128
+ping n06 n01
+link n11 n06 bw 16
+link n11 n07 bw 16
+set n09 cpu 256
+get n09
+ping n09 n04
+link n09 n12 bw 16
+ping n09 n11
+set n08 ram 128
+set n04 disk 64
+set n01 cpu 128
+link n01 n02 bw 32
+set n01 ram 64
+ping n01 n08
+set n05 disk 512
+del n04
+set n05 cpu 512
+link n05 n04 bw 16
+link n05 n12 bw 32
+set n16 disk 128
+set n16 ram 512
+link n16 n05 bw 128
+ping n08 n06
+set n08 ram 1024
+ping n08 n02
+link n08 n11 bw 64
+set n08 ram 1024
+link n10 n16 bw 64
+set n03 disk 256
+set n03 cpu 256
+del n03
+set n06 disk 512
+ping n06 n14
+link n02 n13 bw 16
+ping n14 n16
+ping n14 n06
+get n14
+link n06 n03 bw 32
+get n06
+set n06 cpu 1024
+set n06 disk 1024
+ping n13 n02
+set n13 cpu 1024
+set n02 ram 512
+get n02
+link n06 n12 bw 32
+set n06 cpu 128
+link n08 n09 bw 32
+get n11
+set n11 disk 1024
+get n11
+link n11 n14 bw 128
+get n06
+set n06 disk 1024
+link n06 n03 bw 16
+get n06
+link n06 n11 bw 64
+link n06 n01 bw 128
+set n06 disk 512
+set n06 ram 512
+ping n01 n15
+ping n02 n06
+del n09
+del n07
+ping n11 n16
+ping n11 n03
+set n11 cpu 128
+set n11 cpu 1024
+set n05 cpu 1024
+set n07 disk 512
+ping n07 n05
+link n07 n02 bw 32
+set n08 ram 64
+ping n08 n12
+get n08
+ping n08 n07
+set n08 ram 512
+link n08 n03 bw 64
+get n08
+set n14 cpu 512
+set n14 disk 64
+set n05 disk 512
+ping n05 n01
+get n01
+link n01 n02 bw 32
+ping n02 n03
+set n02 ram 512
+set n15 ram 512
+get n16
+set n03 ram 128
+set n03 ram 64
+link n03 n05 bw 128
+get n03
+link n03 n03 bw 64
+get n16
+set n14 cpu 512
+link n11 n12 bw 128
+link n11 n10 bw 32
+set n11 cpu 128
+link n02 n16 bw 16
+del n05
+ping n02 n12
+ping n02 n16
+ping n02 n13
+link n09 n01 bw 128
+ping n09 n03
+link n09 n14 bw 16
+ping n09 n11
+set n10 cpu 256
+set n10 ram 1024
+set n10 cpu 128
+ping n10 n02
+get n10
+ping n10 n02
+set n06 cpu 64
+set n13 disk 64
+set n13 cpu 512
+set n13 ram 64
+set n13 ram 1024
+ping n14 n13
+set n14 ram 512
+set n14 disk 512
+link n01 n14 bw 128
+link n01 n15 bw 16
+ping n01 n04
+set n12 ram 128
+get n12
+set n03 cpu 256
+set n03 ram 256
+set n03 cpu 1024
+set n10 ram 1024
+link n10 n12 bw 32
+set n10 ram 64
+ping n10 n16
+link n10 n14 bw 16
+ping n13 n14
+ping n13 n03
+link n14 n09 bw 128
+link n14 n16 bw 128
+set n03 cpu 128
+link n03 n16 bw 128
+set n05 ram 512
+set n11 disk 256
+get n10
+link n10 n12 bw 64
+set n04 cpu 64
+link n04 n08 bw 64
+link n08 n03 bw 16
+ping n08 n14
+set n08 ram 1024
+link n11 n04 bw 32
+ping n11 n05
+set n11 cpu 128
+set n11 cpu 512
+get n09
+set n09 disk 64
+ping n07 n09
+get n02
+link n02 n07 bw 16
+set n02 cpu 64
+link n12 n13 bw 128
+set n12 cpu 512
+set n09 cpu 1024
+ping n09 n06
+ping n09 n10
+link n13 n08 bw 128
+ping n12 n15
+link n09 n12 bw 32
+set n07 cpu 64
+link n07 n10 bw 128
+get n07
+link n07 n07 bw 128
+set n14 cpu 1024
+link n11 n09 bw 64
+set n11 ram 1024
+set n06 ram 128
+set n06 disk 256
+set n09 cpu 1024
+set n16 cpu 512
+set n16 ram 1024
+link n16 n04 bw 32
+link n04 n06 bw 64
+set n04 cpu 64
+link n04 n07 bw 32
+set n06 disk 128
+set n06 disk 256
+set n01 ram 64
+ping n01 n10
+set n08 ram 64
+set n09 ram 1024
+ping n08 n10
+link n08 n01 bw 64
+set n06 ram 64
+set n06 disk 256
+set n11 cpu 64
+get n11
+link n11 n12 bw 64
+get n02
+set n02 ram 64
+set n02 cpu 512
+link n02 n01 bw 64
+link n02 n13 bw 64
+set n16 ram 512
+set n16 ram 256
+set n09 ram 1024
+set n09 ram 128
+set n09 cpu 512
+link n07 n11 bw 128
+ping n07 n03
+set n11 ram 512
+set n11 disk 64
+get n11
+get n08
+set n08 cpu 256
+link n08 n13 bw 128
+link n11 n07 bw 128
+link n11 n08 bw 32
+set n11 ram 256
+ping n11 n07
+set n14 disk 128
+link n14 n14 bw 128
+set n14 cpu 1024
+ping n14 n15
+set n14 cpu 128
+set n14 ram 512
+get n16
+set n16 disk 1024
+set n10 disk 64
+link n08 n02 bw 64
+get n02
+del n13
+del n16
+set n07 ram 512
+ping n07 n10
+set n07 disk 512
+set n06 disk 512
+link n06 n13 bw 16
+set n05 cpu 128
+del n01
+set n07 cpu 512
+ping n07 n04
+del n09
+set n07 ram 512
+link n08 n14 bw 32
+ping n08 n01
+set n08 ram 64
+set n08 cpu 128
+set n08 disk 512
+link n11 n07 bw 32
+del n03
+set n11 ram 128
+ping n11 n04
+set n11 cpu 64
+set n07 disk 64
+set n07 disk 256
+link n07 n13 bw 64
+link n07 n14 bw 16
+link n11 n13 bw 16
+get n13
+ping n13 n12
+link n05 n09 bw 16
+set n05 disk 256
+link n09 n05 bw 64
+ping n03 n01
+link n03 n02 bw 32
+set n03 ram 128
+set n15 ram 1024
+set n10 ram 512
+set n10 ram 64
+link n10 n11 bw 64
+ping n10 n12
+set n10 ram 128
+get n10
+link n10 n05 bw 32
+set n10 disk 256
+del n15
+set n10 disk 1024
+set n13 ram 1024
+del n09
+link n05 n06 bw 16
+set n05 ram 256
+link n07 n08 bw 128
+set n09 cpu 128
+link n09 n07 bw 32
+link n09 n09 bw 32
+link n09 n11 bw 16
+link n09 n11 bw 128
+set n01 cpu 64
+get n01
+ping n01 n11
+link n01 n06 bw 64
+link n01 n10 bw 32
+link n11 n16 bw 64
+ping n11 n04
+get n06
+set n06 disk 64
+get n14
+link n05 n16 bw 64
+set n05 ram 256
+set n05 ram 128
+del n02
+set n05 disk 1024
+get n11
+ping n11 n07
+link n01 n03 bw 128
+ping n01 n04
+set n04 cpu 64
+set n04 cpu 256
+set n04 ram 256
+link n04 n11 bw 64
+ping n04 n01
+ping n04 n14
+link n14 n16 bw 32
+link n16 n07 bw 128
+set n16 disk 128
+ping n16 n15
+set n16 ram 512
+set n06 disk 512
+del n07
+get n16
+set n16 ram 64
+link n14 n06 bw 16
+link n14 n07 bw 32
+set n04 disk 64
+ping n04 n14
+ping n07 n16
+set n07 ram 128
+ping n05 n08
+link n12 n12 bw 32
+ping n12 n11
+set n12 cpu 256
+get n12
+set n12 ram 256
+set n12 ram 1024
+get n08
+link n08 n11 bw 32
+ping n14 n06
+link n05 n11 bw 16
+set n04 disk 1024
+set n04 ram 1024
+link n04 n15 bw 16
+ping n04 n05
+set n11 cpu 256
+ping n11 n03
+link n11 n11 bw 128
+get n11
+link n09 n01 bw 64
+link n09 n07 bw 16
+link n09 n11 bw 16
+link n09 n10 bw 128
+ping n04 n05
+link n05 n02 bw 128
+link n05 n05 bw 32
+get n05
+ping n08 n11
+ping n08 n13
+set n08 ram 512
+link n08 n10 bw 128
+link n11 n10 bw 32
+link n02 n09 bw 32
+ping n09 n13
+set n09 ram 64
+ping n16 n13
+set n02 ram 1024
+link n15 n04 bw 64
+set n15 disk 1024
+ping n15 n03
+link n15 n05 bw 64
+set n15 ram 512
+set n02 cpu 1024
+link n02 n12 bw 16
+link n10 n07 bw 16
+set n10 disk 256
+link n10 n11 bw 16
+set n10 ram 512
+ping n02 n05
+set n02 cpu 1024
+get n02
+set n08 disk 1024
+link n06 n05 bw 64
+link n06 n07 bw 64
+set n06 ram 64
+set n06 cpu 64
+set n06 ram 64
+link n06 n06 bw 64
+ping n06 n09
+set n15 ram 512
+ping n15 n02
+link n09 n08 bw 128
+ping n08 n07
+ping n08 n04
+set n08 cpu 512
+get n08
+link n01 n01 bw 64
+set n03 cpu 512
+link n16 n14 bw 64
+del n06
+set n09 ram 64
+link n09 n03 bw 64
+get n09
+ping n09 n05
+set n06 cpu 256
+set n09 ram 128
+ping n09 n11
+link n14 n05 bw 16
+get n15
+set n05 disk 512
+get n05
+link n05 n14 bw 128
+link n05 n05 bw 64
+set n02 cpu 512
+set n02 ram 256
+del n12
+del n11
+set n12 ram 1024
+set n02 disk 1024
+set n09 ram 128
+set n09 ram 256
+del n12
+get n01
+link n06 n06 bw 128
+set n02 disk 64
+ping n02 n05
+ping n11 n06
+ping n11 n11
+set n11 disk 512
+set n07 disk 512
+link n12 n05 bw 32
+link n10 n13 bw 32
+ping n10 n15
+set n10 ram 512
+ping n10 n15
+set n03 ram 512
+set n03 cpu 128
+link n03 n11 bw 32
+get n05
+ping n07 n06
+set n07 cpu 512
+set n09 cpu 64
+get n09
+set n06 ram 256
+ping n06 n01
+ping n06 n09
+ping n06 n01
+ping n14 n12
+link n14 n02 bw 128
+set n14 disk 512
+get n04
+link n12 n08 bw 16
+ping n12 n10
+link n12 n16 bw 32
+set n10 cpu 64
+set n10 ram 512
+del n05
+set n10 disk 256
+get n10
+set n10 cpu 512
+link n10 n08 bw 32
+set n10 disk 64
+ping n02 n06
+ping n02 n04
+link n02 n10 bw 64
+set n01 disk 512
+get n01
+link n01 n04 bw 64
+set n02 disk 256
+set n02 cpu 256
+set n02 cpu 1024
+set n16 disk 512
+link n16 n13 bw 32
+set n16 disk 64
+set n16 ram 128
+set n16 cpu 1024
+link n03 n03 bw 16
+link n15 n13 bw 64
+link n15 n06 bw 32
+ping n15 n12
+set n14 ram 256
+set n14 cpu 256
+set n02 cpu 128
+ping n15 n10
+get n15
+link n15 n03 bw 64
+get n15
+get n02
+ping n02 n04
+set n02 ram 1024
+ping n02 n04
+set n02 disk 512
+link n16 n13 bw 16
+set n01 cpu 1024
+ping n01 n09
+link n01 n15 bw 64
+link n01 n03 bw 64
+set n01 disk 1024
+set n01 cpu 128
+set n09 cpu 1024
+link n09 n12 bw 16
+ping n09 n07
+link n09 n03 bw 128
+set n09 disk 64
+ping n05 n14
+link n08 n10 bw 128
+get n08
+link n08 n11 bw 64
+ping n03 n13
+del n06
+link n12 n15 bw 64
+del n02
+del n13
+set n10 disk 512
+link n10 n04 bw 64
+del n06
+get n10
+link n11 n14 bw 64
+set n11 disk 512
+ping n05 n05
+link n01 n02 bw 64
+link n10 n03 bw 32
+set n10 cpu 512
+link n09 n02 bw 32
+get n10
+set n10 ram 256
+get n10
+ping n10 n14
+set n16 ram 512
+ping n16 n07
+ping n16 n02
+ping n16 n09
+link n09 n10 bw 32
+get n09
+ping n09 n11
+ping n09 n04
+get n06
+ping n06 n07
+link n06 n01 bw 32
+set n12 disk 256
+get n12
+set n13 ram 1024
+set n04 ram 128
+set n04 cpu 1024
+link n11 n08 bw 128
+set n13 cpu 256
+link n13 n12 bw 128
+link n13 n05 bw 64
+ping n16 n10
+get n16
+set n16 cpu 512
+ping n12 n07
+set n12 ram 512
+link n10 n08 bw 64
+del n05
+set n10 cpu 128
+set n09 ram 128
+ping n09 n09
+ping n06 n03
+set n06 ram 1024
+set n06 ram 512
+set n16 ram 256
+link n13 n14 bw 128
+set n13 ram 512
+link n13 n15 bw 16
+set n01 disk 256
+set n01 cpu 64
+link n01 n03 bw 128
+link n03 n03 bw 16
+set n03 ram 512
+link n03 n11 bw 16
+get n10
+set n10 cpu 64
+link n10 n06 bw 128
+link n10 n08 bw 32
+link n05 n05 bw 32
+set n13 cpu 512
+ping n16 n05
+ping n13 n15
+set n13 disk 256
+ping n13 n14
+set n13 cpu 64
+get n13
+set n13 ram 256
+set n13 disk 1024
+link n13 n03 bw 16
+set n04 ram 1024
+link n04 n11 bw 16
+link n03 n12 bw 32
+set n03 disk 64
+set n11 disk 256
+link n11 n01 bw 32
+set n04 disk 128
+link n04 n07 bw 64
+set n04 cpu 512
+set n07 ram 1024
+get n07
+ping n07 n13
+link n02 n06 bw 128
+link n07 n03 bw 16
+ping n03 n12
+link n03 n12 bw 16
+ping n11 n16
+set n11 cpu 128
+ping n11 n01
+ping n06 n16
+set n06 ram 256
+set n06 disk 512
+set n05 ram 128
+link n05 n12 bw 128
+set n02 cpu 256
+set n02 ram 1024
+link n09 n08 bw 32
+get n09
+link n02 n05 bw 32
+set n02 cpu 1024
+ping n09 n09
+link n09 n11 bw 16
+ping n09 n08
+set n09 disk 256
+get n13
+link n13 n11 bw 16
+link n13 n11 bw 32
+set n13 disk 128
+set n01 disk 256
+ping n01 n05
+ping n11 n11
+link n11 n04 bw 16
+link n11 n07 bw 32
+link n11 n11 bw 16
+ping n03 n02
+set n03 cpu 512
+ping n12 n11
+set n05 disk 256
+set n05 disk 1024
+ping n05 n06
+del n15
+set n02 cpu 1024
+set n13 ram 512
+link n13 n05 bw 32
+set n06 ram 256
+set n06 cpu 512
+link n05 n16 bw 32
+set n05 disk 256
+link n05 n03 bw 16
+ping n06 n02
+link n02 n15 bw 32
+del n05
+ping n14 n04
+ping n16 n08
+set n16 ram 64
+set n16 ram 512
+set n16 ram 128
+set n01 disk 64
+ping n01 n03
+del n10
+ping n12 n06
+link n02 n14 bw 32
+link n02 n07 bw 32
+ping n02 n05
+set n02 disk 512
+set n12 disk 128
+set n12 disk 512
+get n03
+link n10 n14 bw 128
+del n02
+get n02
+set n03 cpu 256
+link n03 n13 bw 128
+set n03 ram 512
+link n03 n10 bw 32
+set n03 cpu 1024
+ping n03 n04
+ping n12 n01
+get n12
+ping n12 n10
+set n12 cpu 1024
+set n08 disk 256
+set n13 ram 128
+set n13 disk 512
+set n13 cpu 128
+del n11
+link n13 n11 bw 128
+set n13 disk 1024
+link n15 n13 bw 32
+link n09 n06 bw 64
+set n16 ram 1024
+ping n16 n02
+set n05 ram 1024
+link n05 n10 bw 128
+set n05 ram 256
+link n05 n12 bw 128
+link n05 n02 bw 32
+get n08
+set n08 ram 512
+set n04 disk 256
+get n04
+set n04 cpu 1024
+link n04 n01 bw 128
+ping n04 n02
+ping n04 n12
+del n04
+set n14 disk 1024
+ping n10 n08
+link n07 n02 bw 64
+del n01
+link n07 n08 bw 128
+ping n11 n05
+set n11 cpu 64
+link n11 n04 bw 16
+ping n11 n09
+get n14
+ping n10 n01
+ping n06 n14
+set n06 disk 128
+ping n06 n09
+get n09
+ping n09 n05
+ping n09 n16
+set n09 cpu 64
+get n10
+set n04 ram 1024
+set n04 disk 128
+get n07
+link n07 n13 bw 16
+set n12 disk 512
+link n12 n09 bw 16
+ping n07 n16
+link n02 n13 bw 64
+link n15 n12 bw 128
+set n15 ram 256
+del n02
+ping n06 n07
+ping n02 n05
+set n03 cpu 512
+link n03 n15 bw 128
+set n03 disk 64
+ping n08 n05
+link n08 n02 bw 64
+link n14 n08 bw 16
+get n05
+set n05 disk 128
+link n08 n05 bw 16
+get n08
+set n08 disk 256
+set n16 ram 1024
+set n10 cpu 256
+link n16 n11 bw 128
+set n16 cpu 128
+link n16 n15 bw 16
+set n16 cpu 64
+set n07 cpu 256
+set n07 cpu 128
+get n05
+set n05 ram 128
+ping n05 n16
+link n13 n15 bw 64
+set n13 cpu 512
+ping n13 n11
+get n13
+set n13 cpu 256
+set n06 disk 256
+link n06 n07 bw 128
+set n06 cpu 64
+set n13 disk 256
+link n13 n14 bw 64
+get n13
+set n13 ram 64
+link n13 n03 bw 128
+link n13 n10 bw 128
+set n04 ram 512
+get n04
+link n04 n02 bw 64
+link n11 n05 bw 128
+get n11
+ping n11 n08
+del n02
+ping n11 n06
+link n11 n09 bw 16
+link n07 n13 bw 16
+link n07 n08 bw 64
+link n07 n07 bw 32
+set n01 ram 1024
+link n01 n04 bw 16
+del n04
+link n02 n05 bw 128
+link n02 n12 bw 16
+set n12 disk 256
+set n12 ram 256
+ping n12 n07
+link n07 n01 bw 16
+ping n14 n01
+ping n14 n15
+set n11 ram 64
+del n06
+set n11 ram 128
+get n11
+link n06 n14 bw 16
+del n03
+link n16 n15 bw 32
+del n15
+set n07 disk 1024
+link n06 n06 bw 64
+link n06 n04 bw 32
+link n06 n02 bw 16
+set n12 ram 128
+get n12
+set n12 disk 128
+ping n15 n06
+del n10
+set n01 cpu 64
+ping n02 n15
+link n15 n07 bw 128
+get n15
+ping n15 n16
+set n15 ram 512
+get n15
+set n13 disk 128
+ping n10 n12
+set n10 ram 1024
+ping n08 n03
+get n08
+del n11
+ping n08 n12
+set n05 cpu 128
+link n05 n09 bw 64
+link n05 n06 bw 64
+set n05 ram 64
+del n16
+set n01 ram 1024
+set n10 cpu 256
+set n10 cpu 1024
+ping n10 n10
+set n10 ram 512
+link n16 n01 bw 64
+set n16 disk 128
+link n08 n06 bw 128
+set n08 cpu 64
+del n12
+link n08 n06 bw 128
+ping n08 n07
+set n06 cpu 1024
+set n06 ram 64
+get n06
+set n06 ram 1024
+link n11 n10 bw 128
+link n11 n09 bw 16
+link n03 n04 bw 32
+set n03 disk 512
+get n11
+link n09 n02 bw 32
+link n09 n05 bw 128
+link n09 n07 bw 128
+set n05 ram 1024
+ping n05 n08
+link n12 n13 bw 64
+set n09 cpu 512
+set n10 disk 128
+set n10 disk 1024
+link n10 n11 bw 32
+link n10 n02 bw 128
+ping n03 n09
+link n03 n07 bw 16
+set n03 disk 256
+ping n03 n10
+ping n02 n06
+set n02 disk 128
+link n10 n09 bw 16
+set n10 ram 128
+set n10 disk 512
+ping n10 n03
+ping n10 n12
+del n01
+set n08 disk 512
+ping n08 n03
+link n08 n03 bw 128
+link n08 n06 bw 32
+link n08 n14 bw 64
+set n08 cpu 256
+get n08
+ping n11 n04
+link n16 n13 bw 16
+ping n16 n01
+ping n16 n02
+link n03 n04 bw 128
+set n05 disk 64
+del n13
+set n05 disk 1024
+link n05 n16 bw 32
+ping n05 n02
+set n05 disk 512
+del n05
+ping n06 n04
+link n03 n01 bw 32
+set n16 cpu 512
+link n16 n03 bw 64
+set n16 cpu 1024
+link n16 n02 bw 32
+ping n16 n01
+get n04
+link n04 n01 bw 16
+ping n09 n14
+set n09 ram 1024
+link n01 n07 bw 16
+set n01 ram 64
+get n01
+get n10
+set n10 cpu 64
+ping n10 n01
+set n10 ram 256
+link n12 n13 bw 16
+set n12 cpu 64
+get n12
+link n12 n02 bw 16
+get n12
+link n12 n14 bw 64
+link n14 n11 bw 64
+set n14 ram 512
+set n14 disk 128
+link n14 n03 bw 128
+ping n14 n03
+get n14
+set n07 ram 128
+set n10 cpu 512
+ping n10 n06
+ping n03 n04
+get n03
+link n03 n09 bw 64
+link n14 n14 bw 128
+ping n11 n09
+link n11 n12 bw 128
+set n11 ram 64
+ping n11 n05
+set n01 ram 128
+ping n03 n03
+link n10 n05 bw 128
+link n05 n15 bw 32
+link n05 n08 bw 32
+ping n05 n16
+set n05 ram 128
+set n05 cpu 128
+set n05 disk 512
+get n14
+del n05
+get n14
+set n14 disk 512
+link n12 n03 bw 128
+set n12 disk 256
+get n06
+set n06 disk 512
+get n01
+set n01 ram 128
+set n05 disk 512
+link n05 n15 bw 16
+set n15 disk 64
+set n16 ram 512
+set n16 cpu 256
+link n16 n04 bw 16
+set n16 disk 64
+ping n06 n10
+link n04 n07 bw 64
+get n04
+set n04 disk 1024
+link n04 n15 bw 32
+ping n04 n05
+set n05 ram 64
+link n05 n13 bw 64
+ping n05 n14
+ping n05 n08
+get n04
+ping n08 n04
+ping n08 n12
+link n08 n12 bw 64
+ping n08 n01
+set n04 cpu 128
+link n01 n12 bw 16
+ping n05 n01
+ping n05 n03
+set n05 ram 128
+get n10
+get n08
+link n08 n14 bw 64
+ping n08 n09
+set n08 cpu 128
+ping n06 n04
+set n06 ram 128
+link n06 n01 bw 64
+ping n06 n09
+set n06 ram 64
+set n13 ram 1024
+link n13 n02 bw 32
+set n13 disk 64
+set n13 ram 512
+set n13 cpu 1024
+ping n08 n15
+set n08 disk 1024
+get n08
+del n14
+ping n08 n16
+set n09 disk 64
+ping n09 n07
+set n06 disk 1024
+set n06 cpu 64
+set n06 disk 1024
+get n06
+ping n06 n16
+del n09
+link n14 n04 bw 16
+ping n14 n15
+ping n14 n10
+set n13 ram 512
+link n11 n09 bw 128
+ping n03 n07
+set n08 ram 512
+set n11 ram 512
+get n11
+ping n05 n04
+ping n07 n10
+set n07 disk 1024
+set n07 ram 512
+link n11 n11 bw 16
+set n11 disk 128
+link n11 n16 bw 32
+del n08
+ping n13 n16
+ping n02 n16
+set n02 cpu 256
+set n02 cpu 128
+set n10 ram 512
+ping n10 n05
+set n10 cpu 128
+del n14
+set n05 ram 512
+set n02 ram 1024
+ping n09 n16
+link n09 n06 bw 64
+ping n09 n07
+link n13 n01 bw 16
+set n15 disk 64
+set n15 disk 128
+ping n15 n14
+del n04
+link n06 n15 bw 16
+set n03 ram 64
+del n14
+set n03 cpu 1024
+ping n03 n03
+get n03
+set n03 ram 128
+ping n15 n11
+set n15 ram 512
+link n11 n06 bw 16
+link n02 n07 bw 32
+link n16 n09 bw 16
+set n16 ram 1024
+set n01 disk 128
+del n09
+set n01 disk 128
+set n01 disk 1024
+link n13 n10 bw 16
+set n12 cpu 128
+get n05
+del n09
+set n11 cpu 256
+ping n11 n16
+set n11 disk 512
+del n11
+del n12
+ping n11 n12
+del n01
+del n11
+ping n11 n14
+link n11 n12 bw 64
+set n11 disk 128
+ping n16 n05
+ping n01 n11
+ping n01 n15
+link n01 n13 bw 16
+get n05
+set n05 disk 512
+del n04
+link n15 n07 bw 32
+ping n15 n08
+set n15 cpu 256
+ping n15 n04
+link n15 n05 bw 32
+set n15 disk 512
+link n02 n06 bw 64
+set n02 cpu 1024
+set n02 ram 256
+link n02 n12 bw 16
+set n04 disk 1024
+get n11
+link n11 n06 bw 64
+link n11 n10 bw 64
+link n11 n13 bw 32
+set n03 disk 256
+set n12 disk 256
+set n12 disk 128
+set n12 ram 128
+set n08 cpu 512
+link n08 n11 bw 16
+set n08 disk 1024
+link n08 n01 bw 32
+link n08 n01 bw 64
+set n14 cpu 512
+set n14 cpu 64
+set n05 cpu 1024
+set n05 disk 64
+set n05 ram 64
+ping n13 n04
+ping n12 n10
+link n12 n16 bw 16
+link n03 n10 bw 16
+ping n03 n15
+link n05 n07 bw 16
+set n13 disk 512
+set n14 ram 64
+ping n14 n13
+ping n14 n11
+set n08 ram 256
+link n08 n15 bw 128
+ping n08 n01
+link n09 n06 bw 32
+set n09 cpu 256
+set n09 ram 64
+set n03 disk 256
+del n09
+set n03 cpu 512
+link n03 n06 bw 128
+link n15 n03 bw 128
+del n14
+set n15 ram 512
+set n15 cpu 256
+link n15 n01 bw 128
+ping n15 n01
+del n03
+del n13
+link n04 n11 bw 32
+get n04
+set n11 disk 256
+set n11 ram 64
+link n11 n07 bw 64
+set n03 cpu 512
+link n03 n16 bw 64
+set n08 cpu 1024
+link n08 n03 bw 16
+set n08 disk 64
+ping n08 n11
+link n08 n03 bw 16
+set n07 cpu 512
+set n07 disk 128
+ping n07 n01
+link n07 n10 bw 128
+set n08 ram 512
+set n08 disk 512
+del n01
+set n08 ram 512
+ping n08 n12
+get n05
+set n05 ram 64
+link n09 n01 bw 16
+ping n09 n13
+set n13 disk 64
+ping n13 n03
+set n13 disk 256
+ping n13 n02
+link n08 n16 bw 32
+link n03 n01 bw 16
+link n03 n10 bw 128
+link n16 n14 bw 128
+ping n16 n03
+ping n14 n10
+ping n14 n12
+get n09
+set n09 cpu 256
+del n06
+link n13 n01 bw 128
+set n13 disk 128
+set n13 ram 64
+link n06 n08 bw 64
+ping n06 n05
+get n06
+ping n06 n14
+set n06 disk 1024
+set n06 ram 128
+set n01 disk 1024
+set n01 ram 512
+link n01 n02 bw 32
+set n01 disk 128
+link n08 n05 bw 64
+set n08 cpu 64
+link n08 n11 bw 16
+get n16
+link n16 n07 bw 64
+set n12 cpu 256
+ping n12 n10
+set n13 cpu 128
+set n10 cpu 1024
+link n15 n15 bw 128
+get n13
+set n13 ram 64
+ping n13 n03
+link n13 n12 bw 64
+set n11 cpu 256
+ping n05 n09
+ping n05 n04
+set n12 cpu 256
+set n12 ram 1024
+set n05 disk 512
