@@ -1,0 +1,245 @@
+{
+  "seed": 0,
+  "base": {
+    "ce": 0.9386080279946327,
+    "perplexity": 2.5564204748025174,
+    "ce_std": 0.11824571831807701,
+    "n_windows": 64
+  },
+  "metadata": {
+    "parameters": 1820544,
+    "n_quantized_layers": 16,
+    "vocab_size": 36
+  },
+  "E1_rtn": [
+    {
+      "bits": 2,
+      "granularity": "per_tensor",
+      "ce": 7.36600798368454,
+      "ppl": 1581.3085566829775,
+      "dce": 6.427399955689907
+    },
+    {
+      "bits": 2,
+      "granularity": "per_channel",
+      "ce": 2.0969217009842396,
+      "ppl": 8.141070651099088,
+      "dce": 1.1583136729896069
+    },
+    {
+      "bits": 3,
+      "granularity": "per_tensor",
+      "ce": 1.2275975476950407,
+      "ppl": 3.4130200608895733,
+      "dce": 0.288989519700408
+    },
+    {
+      "bits": 3,
+      "granularity": "per_channel",
+      "ce": 0.9578216252848506,
+      "ppl": 2.606013412027719,
+      "dce": 0.019213597290217876
+    },
+    {
+      "bits": 4,
+      "granularity": "per_tensor",
+      "ce": 0.950921424664557,
+      "ppl": 2.588093293972558,
+      "dce": 0.01231339666992426
+    },
+    {
+      "bits": 4,
+      "granularity": "per_channel",
+      "ce": 0.9401269247755408,
+      "ppl": 2.5603063640175745,
+      "dce": 0.0015188967809081078
+    },
+    {
+      "bits": 6,
+      "granularity": "per_tensor",
+      "ce": 0.9388441052287817,
+      "ppl": 2.557024058720938,
+      "dce": 0.0002360772341489792
+    },
+    {
+      "bits": 6,
+      "granularity": "per_channel",
+      "ce": 0.9388494091108441,
+      "ppl": 2.5570376209109424,
+      "dce": 0.00024138111621141434
+    },
+    {
+      "bits": 8,
+      "granularity": "per_tensor",
+      "ce": 0.9386955117806792,
+      "ppl": 2.5566441299273355,
+      "dce": 8.748378604650497e-05
+    },
+    {
+      "bits": 8,
+      "granularity": "per_channel",
+      "ce": 0.9386645574122667,
+      "ppl": 2.556564991847879,
+      "dce": 5.6529417634010315e-05
+    }
+  ],
+  "E2_methods": [
+    {
+      "bits": 2,
+      "method": "rtn",
+      "ce": 2.0969217009842396,
+      "ppl": 8.141070651099088,
+      "dce": 1.1583136729896069
+    },
+    {
+      "bits": 2,
+      "method": "rtn+clip",
+      "ce": 1.0026819221675396,
+      "ppl": 2.72558183339938,
+      "dce": 0.06407389417290688
+    },
+    {
+      "bits": 2,
+      "method": "gptq",
+      "ce": 0.9439546437934041,
+      "ppl": 2.5701252774110204,
+      "dce": 0.005346615798771381
+    },
+    {
+      "bits": 2,
+      "method": "gptq+clip",
+      "ce": 0.953624926507473,
+      "ppl": 2.5950996755778184,
+      "dce": 0.015016898512840271
+    },
+    {
+      "bits": 3,
+      "method": "rtn",
+      "ce": 0.9578216252848506,
+      "ppl": 2.606013412027719,
+      "dce": 0.019213597290217876
+    },
+    {
+      "bits": 3,
+      "method": "rtn+clip",
+      "ce": 0.9465679069980979,
+      "ppl": 2.5768504747580394,
+      "dce": 0.007959879003465176
+    },
+    {
+      "bits": 3,
+      "method": "gptq",
+      "ce": 0.9384024618193507,
+      "ppl": 2.5558950152333066,
+      "dce": -0.0002055661752820015
+    },
+    {
+      "bits": 3,
+      "method": "gptq+clip",
+      "ce": 0.9382568039000034,
+      "ppl": 2.555522755995229,
+      "dce": -0.0003512240946292877
+    },
+    {
+      "bits": 4,
+      "method": "rtn",
+      "ce": 0.9401269247755408,
+      "ppl": 2.5603063640175745,
+      "dce": 0.0015188967809081078
+    },
+    {
+      "bits": 4,
+      "method": "rtn+clip",
+      "ce": 0.9391497820615768,
+      "ppl": 2.5578058012107863,
+      "dce": 0.0005417540669441223
+    },
+    {
+      "bits": 4,
+      "method": "gptq",
+      "ce": 0.9387111980468035,
+      "ppl": 2.556684234442087,
+      "dce": 0.00010317005217075348
+    },
+    {
+      "bits": 4,
+      "method": "gptq+clip",
+      "ce": 0.9391179969534278,
+      "ppl": 2.5577245023688233,
+      "dce": 0.0005099689587950706
+    }
+  ],
+  "E3": {
+    "worst_logratio": 1.8211480819005532,
+    "surrogate_identity_relerr": 6.845313290051708e-08,
+    "gptq_leq_rtn": {
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "dce_vs_pred_corr": 0.9460254315524024,
+    "dce_vs_pred_slope": 1.864372018338975e-08,
+    "dce_vs_pred_intercept": -0.040987229686553224,
+    "alignment": {
+      "kappa_mean": 16.65906091742064,
+      "worst_logratio_isotropic": 1.8211480819005532,
+      "worst_logratio_directional": 5.937768404573561
+    }
+  },
+  "E4": {
+    "rtn": {
+      "budget_bits_per_weight": 2.5,
+      "budget_memory": 4423680,
+      "used_memory": 4423680,
+      "uniform2_dce": 1.1583136729896069,
+      "uniform3_dce": 0.019213597290217876,
+      "allocated_dce": 0.6594417449086905,
+      "allocation": {
+        "0.attention.qkv": 2,
+        "0.attention.out": 4,
+        "0.mlp.0": 2,
+        "0.mlp.2": 3,
+        "1.attention.qkv": 2,
+        "1.attention.out": 3,
+        "1.mlp.0": 2,
+        "1.mlp.2": 2,
+        "2.attention.qkv": 3,
+        "2.attention.out": 3,
+        "2.mlp.0": 2,
+        "2.mlp.2": 2,
+        "3.attention.qkv": 3,
+        "3.attention.out": 4,
+        "3.mlp.0": 3,
+        "3.mlp.2": 3
+      }
+    },
+    "gptq": {
+      "budget_bits_per_weight": 2.5,
+      "budget_memory": 4423680,
+      "used_memory": 4423680,
+      "uniform2_dce": 0.005346615798771381,
+      "uniform3_dce": -0.0002055661752820015,
+      "allocated_dce": -5.859881639480591e-06,
+      "allocation": {
+        "0.attention.qkv": 3,
+        "0.attention.out": 4,
+        "0.mlp.0": 2,
+        "0.mlp.2": 2,
+        "1.attention.qkv": 2,
+        "1.attention.out": 3,
+        "1.mlp.0": 2,
+        "1.mlp.2": 2,
+        "2.attention.qkv": 3,
+        "2.attention.out": 4,
+        "2.mlp.0": 2,
+        "2.mlp.2": 2,
+        "3.attention.qkv": 3,
+        "3.attention.out": 4,
+        "3.mlp.0": 3,
+        "3.mlp.2": 3
+      }
+    },
+    "kkt_marginal_gap_rtn": 32.6998834199345
+  },
+  "total_seconds": 57.50438332557678
+}
