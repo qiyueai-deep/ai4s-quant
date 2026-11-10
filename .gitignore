@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Trained checkpoints (regeneratable via experiments_quant.py / theory_lab scripts)
+*.pt

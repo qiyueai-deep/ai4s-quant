@@ -1,0 +1,900 @@
+route n30 n23 via n19
+link n30 n17 bw 355 lat 506
+set n25 io 981
+ping n25 n25 245
+ping n25 n31 197
+set n25 net 4077
+link n25 n01 bw 889 lat 560
+route n11 n04 via n01
+set n11 gpu 1151
+route n25 n15 via n29
+link n25 n26 bw 661 lat 820
+set n25 disk 4532
+link n25 n08 bw 481 lat 533
+link n25 n29 bw 679 lat 311
+set n18 io 5103
+link n18 n18 bw 807 lat 221
+route n18 n14 via n04
+set n18 ram 5700
+del n29
+link n20 n16 bw 200 lat 37
+quota n24 2222 80
+ping n24 n13 836
+del n27
+route n12 n10 via n10
+route n12 n09 via n22
+quota n32 886 64
+quota n12 793 66
+route n12 n26 via n07
+set n30 net 2169
+set n06 disk 4297
+route n21 n12 via n07
+quota n21 3734 42
+link n10 n29 bw 120 lat 912
+link n10 n23 bw 867 lat 641
+quota n10 2486 60
+quota n10 4062 76
+set n10 disk 1670
+link n08 n02 bw 784 lat 413
+ping n08 n18 884
+link n08 n01 bw 228 lat 871
+set n19 net 6897
+route n08 n06 via n24
+del n10
+set n23 net 1479
+quota n23 948 53
+set n24 io 7137
+link n25 n22 bw 348 lat 55
+link n02 n24 bw 207 lat 683
+quota n02 3171 59
+set n02 ram 3366
+set n06 io 2435
+link n18 n29 bw 228 lat 613
+set n18 io 3268
+del n29
+set n18 io 2856
+set n18 gpu 8044
+quota n18 1010 50
+route n15 n22 via n16
+link n15 n22 bw 494 lat 83
+link n15 n16 bw 558 lat 866
+link n25 n24 bw 373 lat 814
+link n25 n28 bw 587 lat 665
+ping n10 n28 719
+set n10 net 3572
+ping n30 n30 967
+quota n30 2031 39
+set n30 cpu 2085
+set n30 gpu 3524
+set n25 io 877
+del n11
+set n12 ram 3929
+link n25 n08 bw 239 lat 819
+route n25 n02 via n24
+set n32 ram 4759
+route n03 n13 via n05
+link n07 n30 bw 843 lat 984
+quota n07 1047 49
+set n07 io 4982
+quota n07 1736 12
+set n07 cpu 165
+route n07 n26 via n29
+link n07 n21 bw 798 lat 998
+set n07 net 5806
+set n32 io 7026
+set n32 ram 7837
+link n32 n31 bw 284 lat 987
+set n30 disk 4817
+link n30 n03 bw 1 lat 337
+link n30 n14 bw 507 lat 578
+link n30 n21 bw 1001 lat 718
+route n29 n20 via n08
+set n12 io 4303
+ping n12 n20 375
+set n23 net 6686
+link n28 n31 bw 144 lat 438
+ping n28 n04 294
+del n23
+set n01 gpu 7078
+route n32 n11 via n19
+route n17 n03 via n13
+set n17 disk 7908
+set n17 net 7148
+route n18 n08 via n16
+ping n18 n31 852
+link n18 n06 bw 1011 lat 638
+set n18 gpu 7093
+link n18 n27 bw 577 lat 183
+del n01
+quota n18 3428 91
+link n31 n05 bw 786 lat 232
+route n18 n07 via n08
+quota n32 2975 5
+route n32 n03 via n17
+route n32 n13 via n07
+ping n32 n23 14
+link n28 n05 bw 147 lat 127
+link n28 n16 bw 874 lat 823
+link n28 n28 bw 746 lat 557
+link n28 n18 bw 116 lat 70
+link n23 n04 bw 581 lat 558
+link n23 n05 bw 493 lat 188
+set n23 disk 6088
+quota n12 2147 84
+quota n12 2309 11
+ping n12 n20 99
+route n12 n18 via n25
+set n12 ram 1904
+link n12 n31 bw 160 lat 125
+link n12 n14 bw 85 lat 844
+set n12 ram 3495
+link n02 n04 bw 687 lat 286
+route n02 n03 via n04
+ping n02 n24 578
+del n27
+quota n02 1030 20
+ping n02 n17 484
+set n18 ram 2173
+ping n18 n01 191
+del n31
+quota n30 2016 67
+ping n30 n03 936
+set n30 ram 7970
+ping n30 n02 574
+set n30 ram 7224
+ping n30 n16 602
+link n30 n11 bw 697 lat 603
+ping n14 n09 220
+link n14 n04 bw 922 lat 548
+del n01
+ping n05 n11 543
+ping n05 n24 594
+link n05 n23 bw 509 lat 516
+set n05 cpu 4278
+ping n08 n32 686
+link n08 n04 bw 62 lat 339
+ping n08 n12 838
+ping n08 n07 390
+ping n08 n26 788
+ping n08 n09 759
+link n05 n14 bw 850 lat 719
+link n05 n17 bw 779 lat 402
+set n05 io 821
+route n05 n29 via n20
+link n05 n05 bw 276 lat 277
+route n05 n24 via n12
+link n05 n25 bw 358 lat 254
+set n04 net 3192
+del n27
+set n11 ram 308
+route n11 n09 via n15
+set n24 ram 7131
+set n24 io 491
+set n23 net 2986
+del n26
+quota n23 869 74
+set n10 ram 1348
+ping n10 n18 312
+link n10 n21 bw 172 lat 917
+route n10 n20 via n31
+link n10 n29 bw 455 lat 824
+set n10 io 3605
+ping n10 n16 442
+link n01 n13 bw 233 lat 554
+ping n31 n06 805
+link n31 n01 bw 112 lat 199
+route n31 n24 via n03
+set n31 ram 3064
+set n31 gpu 2271
+quota n31 2050 6
+set n27 ram 785
+link n27 n10 bw 677 lat 308
+route n21 n21 via n13
+del n32
+link n21 n32 bw 245 lat 765
+quota n21 1821 49
+del n18
+route n12 n31 via n27
+quota n22 1287 84
+set n22 disk 718
+set n22 gpu 4034
+route n22 n16 via n24
+ping n22 n01 483
+link n22 n05 bw 65 lat 901
+ping n22 n30 537
+link n22 n17 bw 625 lat 467
+route n22 n19 via n30
+ping n05 n20 55
+set n05 net 7201
+route n05 n15 via n11
+ping n01 n17 29
+route n01 n31 via n28
+set n01 ram 2045
+quota n06 481 49
+ping n06 n15 521
+link n06 n10 bw 94 lat 613
+del n31
+ping n06 n30 916
+del n21
+link n23 n13 bw 527 lat 55
+quota n23 1177 83
+set n04 disk 1229
+del n03
+set n04 net 255
+ping n13 n28 46
+ping n13 n04 611
+del n15
+del n28
+route n25 n17 via n17
+set n25 gpu 1581
+set n25 net 367
+set n25 cpu 1393
+set n29 io 2545
+quota n29 1108 73
+link n29 n04 bw 468 lat 386
+route n29 n03 via n06
+route n29 n29 via n23
+quota n25 3983 25
+del n18
+link n32 n32 bw 667 lat 558
+ping n32 n24 251
+set n32 disk 3334
+set n07 ram 4878
+set n05 io 5385
+set n05 cpu 4471
+set n06 disk 2347
+quota n27 80 77
+set n14 ram 3962
+route n21 n24 via n15
+route n21 n27 via n22
+quota n21 1618 36
+route n21 n18 via n09
+set n21 ram 7902
+quota n06 1776 12
+link n06 n19 bw 380 lat 83
+link n06 n30 bw 245 lat 139
+ping n06 n26 430
+quota n06 2781 60
+ping n06 n31 871
+route n16 n04 via n15
+route n16 n02 via n02
+del n32
+del n06
+ping n02 n08 217
+set n02 ram 8027
+set n02 ram 1016
+del n12
+link n32 n17 bw 404 lat 748
+ping n32 n10 23
+link n32 n12 bw 979 lat 997
+set n32 disk 4729
+quota n32 2343 42
+ping n32 n04 493
+route n05 n25 via n15
+link n10 n22 bw 466 lat 763
+link n10 n29 bw 511 lat 178
+route n24 n31 via n09
+del n10
+ping n24 n04 430
+del n16
+del n14
+route n24 n30 via n15
+link n24 n19 bw 104 lat 516
+set n03 cpu 309
+set n06 net 5384
+route n06 n04 via n09
+set n14 disk 4699
+set n26 net 5243
+route n26 n19 via n12
+ping n26 n03 798
+set n10 ram 2414
+set n10 net 4666
+ping n10 n07 646
+set n10 ram 6619
+ping n10 n18 837
+route n31 n12 via n15
+link n09 n30 bw 705 lat 234
+set n10 net 1567
+set n07 gpu 1994
+quota n07 750 27
+link n26 n32 bw 991 lat 886
+set n24 net 3418
+ping n02 n31 553
+link n05 n12 bw 420 lat 484
+ping n05 n01 520
+set n06 gpu 5685
+route n06 n09 via n18
+route n28 n27 via n15
+link n28 n16 bw 1009 lat 377
+quota n28 2465 42
+del n01
+set n11 net 7009
+link n11 n01 bw 20 lat 28
+ping n32 n29 375
+set n30 gpu 582
+quota n30 1161 69
+quota n30 3749 38
+link n30 n05 bw 334 lat 182
+set n30 gpu 4322
+route n26 n03 via n27
+link n26 n29 bw 16 lat 366
+set n29 disk 5806
+set n29 gpu 7202
+route n07 n22 via n14
+link n07 n10 bw 273 lat 162
+link n25 n14 bw 808 lat 142
+set n25 ram 429
+ping n25 n08 548
+ping n25 n12 452
+ping n25 n19 856
+quota n25 179 79
+link n24 n03 bw 722 lat 161
+quota n25 390 91
+set n25 ram 6714
+ping n25 n05 171
+del n13
+set n25 disk 1729
+link n25 n24 bw 778 lat 16
+set n25 disk 3680
+ping n25 n09 985
+link n25 n02 bw 183 lat 673
+ping n25 n12 281
+ping n25 n21 918
+link n29 n16 bw 672 lat 23
+ping n29 n24 628
+quota n29 2755 14
+set n12 gpu 7963
+ping n12 n11 152
+ping n02 n17 763
+ping n02 n08 4
+ping n17 n07 169
+route n17 n17 via n05
+link n17 n01 bw 196 lat 608
+quota n17 10 87
+set n17 io 7133
+link n32 n29 bw 960 lat 351
+ping n32 n26 295
+link n32 n25 bw 827 lat 356
+quota n32 3239 64
+del n31
+ping n24 n07 461
+del n13
+route n24 n04 via n05
+set n24 cpu 3359
+del n05
+link n09 n16 bw 219 lat 939
+link n09 n02 bw 411 lat 983
+link n09 n06 bw 935 lat 470
+route n09 n20 via n14
+quota n09 836 43
+del n08
+ping n15 n15 858
+ping n15 n02 443
+set n15 disk 8173
+link n15 n26 bw 952 lat 486
+route n17 n31 via n07
+link n13 n09 bw 213 lat 46
+link n13 n15 bw 176 lat 197
+del n22
+quota n13 3522 20
+del n02
+ping n13 n02 738
+ping n31 n08 981
+quota n31 2629 96
+set n31 disk 3889
+route n10 n10 via n14
+link n06 n11 bw 268 lat 210
+quota n06 2953 93
+link n06 n06 bw 753 lat 140
+route n13 n18 via n18
+set n13 net 6270
+set n02 ram 4781
+route n27 n32 via n04
+ping n27 n04 9
+link n27 n18 bw 55 lat 477
+quota n24 3827 31
+quota n24 3642 36
+quota n05 2539 44
+set n05 gpu 400
+ping n05 n19 450
+route n05 n10 via n23
+quota n30 1714 14
+link n04 n31 bw 87 lat 750
+link n04 n23 bw 382 lat 981
+quota n16 3808 21
+link n26 n32 bw 477 lat 645
+link n17 n27 bw 603 lat 700
+route n23 n10 via n06
+del n26
+quota n23 782 14
+set n23 gpu 7139
+del n31
+link n01 n27 bw 437 lat 624
+link n01 n31 bw 678 lat 682
+link n01 n07 bw 409 lat 961
+link n07 n05 bw 451 lat 240
+quota n07 2273 84
+set n07 io 5807
+set n07 io 2506
+ping n07 n31 865
+set n23 net 5419
+set n23 gpu 1098
+set n23 disk 546
+link n28 n08 bw 160 lat 269
+link n28 n07 bw 589 lat 309
+ping n28 n03 943
+set n28 cpu 1638
+set n19 cpu 6148
+set n19 disk 7105
+ping n19 n32 590
+link n19 n12 bw 827 lat 538
+ping n24 n20 345
+link n24 n22 bw 741 lat 349
+set n24 net 3922
+ping n17 n16 279
+quota n17 2517 50
+ping n17 n27 32
+ping n17 n19 991
+route n12 n21 via n16
+link n12 n24 bw 513 lat 484
+set n12 io 6650
+link n20 n08 bw 224 lat 212
+quota n20 3136 5
+route n20 n10 via n04
+set n20 ram 2469
+quota n20 735 82
+del n17
+link n20 n10 bw 723 lat 996
+set n20 net 5609
+route n20 n14 via n30
+quota n07 1548 1
+set n07 gpu 1860
+set n07 cpu 561
+quota n07 3132 8
+route n10 n31 via n30
+set n26 net 283
+route n26 n26 via n28
+route n26 n08 via n07
+ping n26 n28 690
+ping n26 n21 275
+link n26 n30 bw 154 lat 768
+link n32 n23 bw 160 lat 760
+set n32 ram 4210
+quota n32 2164 19
+ping n02 n27 193
+set n02 cpu 1234
+set n02 ram 7808
+set n13 net 5711
+quota n16 634 80
+set n16 gpu 6362
+route n18 n29 via n23
+link n20 n26 bw 422 lat 854
+set n20 ram 3214
+set n28 disk 6229
+link n17 n12 bw 390 lat 256
+del n20
+quota n17 2760 97
+route n17 n02 via n03
+set n17 ram 7098
+ping n07 n06 800
+set n07 gpu 3605
+del n27
+set n17 gpu 6683
+link n23 n06 bw 947 lat 332
+link n23 n09 bw 570 lat 492
+ping n23 n02 776
+ping n32 n12 71
+del n12
+route n32 n13 via n11
+set n32 gpu 3913
+link n32 n08 bw 500 lat 990
+del n08
+quota n23 2575 73
+link n23 n24 bw 367 lat 112
+route n23 n04 via n16
+link n24 n28 bw 103 lat 970
+del n13
+quota n10 14 57
+route n13 n20 via n24
+quota n13 3429 40
+ping n13 n06 701
+quota n08 1926 92
+route n20 n27 via n25
+set n23 gpu 645
+route n23 n04 via n14
+link n23 n01 bw 563 lat 967
+link n17 n31 bw 822 lat 16
+ping n17 n26 382
+ping n32 n12 627
+del n27
+link n29 n16 bw 341 lat 452
+set n29 cpu 2969
+set n29 disk 3706
+set n29 net 5081
+set n29 ram 4905
+ping n29 n30 956
+set n29 disk 3965
+quota n29 2097 10
+ping n29 n28 231
+set n31 ram 2020
+set n31 ram 6309
+del n10
+set n04 net 239
+set n04 disk 787
+set n04 ram 1997
+set n04 disk 5112
+set n26 ram 4784
+ping n26 n08 542
+route n26 n25 via n08
+del n15
+del n20
+link n21 n07 bw 448 lat 537
+ping n21 n09 281
+link n21 n03 bw 282 lat 870
+set n21 cpu 2632
+set n21 io 5202
+set n21 io 1511
+route n20 n23 via n14
+route n20 n30 via n31
+set n19 cpu 5181
+link n19 n08 bw 312 lat 100
+ping n19 n06 196
+set n30 disk 2206
+ping n30 n15 357
+route n30 n06 via n14
+set n30 gpu 625
+quota n30 3669 66
+del n30
+quota n18 2249 58
+set n18 disk 1866
+link n24 n11 bw 938 lat 442
+quota n24 1247 79
+ping n24 n12 885
+set n05 ram 8014
+set n29 disk 123
+ping n07 n26 187
+quota n07 893 88
+route n22 n22 via n32
+ping n22 n27 231
+ping n22 n02 638
+route n22 n25 via n24
+set n22 ram 7901
+set n14 io 4103
+ping n14 n27 118
+del n14
+set n14 gpu 896
+quota n14 716 34
+route n23 n06 via n09
+quota n23 3972 24
+route n06 n16 via n26
+ping n06 n30 122
+link n06 n12 bw 825 lat 268
+ping n06 n28 816
+del n21
+route n06 n15 via n05
+del n08
+set n06 ram 8149
+ping n19 n15 375
+set n19 cpu 2271
+ping n19 n25 2
+set n01 cpu 472
+ping n01 n26 247
+set n01 net 2238
+link n01 n29 bw 599 lat 170
+set n01 ram 113
+set n01 net 5845
+set n26 gpu 2591
+set n17 net 2304
+link n17 n27 bw 323 lat 541
+route n17 n17 via n19
+set n09 io 7752
+route n09 n22 via n32
+route n09 n06 via n22
+ping n09 n09 259
+route n30 n20 via n19
+set n20 disk 515
+set n20 io 8041
+link n20 n21 bw 305 lat 699
+link n32 n31 bw 250 lat 668
+link n24 n23 bw 688 lat 125
+link n24 n07 bw 452 lat 529
+set n24 ram 142
+ping n24 n25 833
+set n24 disk 7779
+set n24 ram 6544
+del n01
+link n10 n18 bw 290 lat 93
+quota n10 137 67
+del n18
+del n05
+route n17 n22 via n12
+route n17 n13 via n23
+set n17 gpu 5006
+del n26
+route n17 n02 via n14
+route n17 n30 via n22
+set n17 cpu 4908
+route n18 n31 via n16
+set n18 gpu 8081
+ping n18 n17 993
+del n16
+link n25 n12 bw 115 lat 710
+set n25 io 2849
+set n25 ram 171
+set n25 net 6952
+set n31 ram 4670
+link n31 n04 bw 163 lat 262
+del n24
+quota n01 3482 41
+del n16
+link n01 n26 bw 286 lat 223
+quota n01 3126 54
+link n01 n18 bw 175 lat 738
+link n19 n28 bw 325 lat 878
+quota n15 1597 4
+quota n15 2562 15
+link n15 n18 bw 370 lat 301
+set n15 cpu 3158
+link n15 n09 bw 88 lat 90
+set n05 net 7541
+quota n01 659 93
+link n01 n13 bw 303 lat 456
+route n01 n27 via n12
+quota n01 2604 40
+route n01 n02 via n24
+ping n18 n04 10
+link n18 n32 bw 278 lat 879
+ping n15 n29 66
+set n14 io 345
+ping n01 n08 171
+route n01 n25 via n25
+ping n28 n20 201
+set n16 cpu 5060
+ping n25 n25 928
+ping n25 n05 342
+route n25 n14 via n19
+link n25 n15 bw 909 lat 929
+set n04 io 707
+quota n04 2221 58
+link n20 n31 bw 609 lat 938
+ping n20 n14 573
+ping n07 n17 792
+link n10 n22 bw 424 lat 405
+del n30
+route n10 n05 via n20
+set n10 io 56
+set n10 gpu 3936
+link n10 n20 bw 171 lat 688
+route n10 n06 via n31
+del n31
+route n10 n13 via n32
+set n20 disk 3637
+route n20 n10 via n01
+set n30 ram 1744
+set n30 gpu 2549
+ping n08 n31 787
+del n26
+link n18 n11 bw 3 lat 718
+link n13 n10 bw 711 lat 160
+quota n13 1180 22
+ping n13 n09 595
+set n13 net 3000
+link n27 n10 bw 4 lat 563
+set n27 disk 3684
+del n25
+set n12 io 2074
+ping n12 n15 227
+link n12 n12 bw 861 lat 233
+quota n12 3997 39
+route n29 n17 via n15
+set n29 disk 1002
+route n29 n18 via n18
+ping n29 n11 192
+link n29 n20 bw 537 lat 827
+quota n29 1325 38
+del n13
+set n08 cpu 3408
+set n08 disk 3258
+set n08 ram 7077
+link n11 n12 bw 13 lat 36
+link n24 n30 bw 157 lat 109
+set n24 ram 227
+quota n24 1783 19
+ping n15 n12 74
+set n15 gpu 4811
+set n15 gpu 4214
+set n15 disk 7014
+set n15 cpu 2480
+quota n08 512 33
+link n08 n06 bw 794 lat 908
+quota n05 1441 81
+ping n31 n32 854
+ping n31 n12 180
+del n32
+set n31 disk 1967
+set n31 io 4075
+set n31 io 6585
+del n30
+link n31 n23 bw 791 lat 668
+ping n18 n08 704
+set n20 gpu 6293
+ping n16 n17 856
+ping n16 n26 91
+ping n16 n12 143
+set n16 gpu 7354
+route n29 n13 via n30
+link n29 n26 bw 796 lat 490
+set n29 ram 7067
+set n29 gpu 945
+set n29 gpu 7193
+ping n29 n01 214
+route n29 n09 via n02
+set n05 cpu 755
+set n05 net 4809
+link n05 n03 bw 642 lat 151
+set n05 gpu 1496
+link n05 n05 bw 130 lat 101
+link n25 n14 bw 82 lat 504
+route n31 n07 via n32
+link n31 n26 bw 681 lat 2
+set n31 disk 120
+link n31 n05 bw 116 lat 930
+del n18
+ping n31 n21 723
+set n31 io 1231
+set n31 ram 6992
+route n02 n10 via n07
+link n02 n18 bw 868 lat 972
+set n02 cpu 6483
+route n02 n05 via n08
+route n29 n25 via n31
+set n29 io 4133
+ping n29 n01 741
+set n08 io 4540
+route n08 n11 via n19
+set n10 gpu 2273
+route n10 n03 via n24
+set n10 cpu 6860
+ping n30 n12 69
+route n30 n20 via n10
+ping n19 n25 972
+set n19 cpu 7353
+set n19 gpu 6573
+set n14 net 4057
+link n14 n29 bw 603 lat 656
+quota n23 3645 3
+set n23 gpu 2154
+link n23 n10 bw 135 lat 448
+quota n23 2503 83
+ping n23 n32 352
+link n23 n07 bw 443 lat 439
+link n23 n32 bw 835 lat 347
+route n18 n06 via n13
+del n19
+ping n18 n11 136
+route n03 n23 via n03
+set n22 cpu 542
+set n25 ram 7689
+link n25 n21 bw 654 lat 474
+quota n07 2834 21
+link n07 n21 bw 615 lat 115
+del n08
+ping n18 n30 941
+route n24 n15 via n16
+route n24 n19 via n11
+link n24 n27 bw 269 lat 190
+set n19 io 7411
+set n08 disk 7751
+del n10
+set n08 io 714
+set n08 ram 3994
+route n08 n01 via n09
+set n08 net 4343
+set n08 ram 1700
+set n08 disk 7940
+link n14 n07 bw 933 lat 567
+set n25 ram 5091
+set n22 net 3838
+link n22 n28 bw 671 lat 241
+ping n24 n09 540
+set n04 net 7657
+set n13 ram 2515
+set n23 ram 3684
+set n23 net 6681
+quota n22 2903 89
+quota n22 1684 42
+set n22 ram 973
+set n22 disk 7725
+del n10
+ping n20 n03 31
+set n20 io 3661
+ping n20 n32 986
+set n20 disk 8088
+link n20 n04 bw 274 lat 750
+link n14 n05 bw 972 lat 385
+route n14 n10 via n25
+quota n14 1513 40
+del n04
+link n13 n27 bw 88 lat 181
+set n07 gpu 6358
+link n19 n10 bw 282 lat 555
+quota n19 287 25
+set n19 disk 4940
+set n19 cpu 2483
+set n19 disk 5403
+ping n22 n09 417
+link n11 n18 bw 324 lat 973
+link n26 n26 bw 271 lat 966
+set n26 net 5095
+link n26 n11 bw 333 lat 295
+link n11 n21 bw 522 lat 416
+route n11 n23 via n26
+link n24 n27 bw 319 lat 945
+quota n24 3959 82
+set n24 cpu 1275
+ping n24 n22 789
+route n24 n09 via n03
+link n07 n08 bw 193 lat 52
+link n11 n14 bw 276 lat 116
+link n13 n26 bw 586 lat 312
+link n13 n05 bw 592 lat 374
+route n05 n12 via n13
+set n05 io 3900
+ping n22 n13 322
+route n22 n29 via n12
+set n22 io 2672
+ping n26 n25 888
+ping n26 n24 200
+link n26 n06 bw 641 lat 815
+quota n26 3534 24
+set n26 ram 7314
+route n26 n22 via n32
+link n26 n29 bw 559 lat 780
+route n18 n20 via n14
+quota n13 1939 49
+route n13 n06 via n26
+route n13 n17 via n27
+ping n13 n19 225
+link n13 n29 bw 791 lat 990
+link n21 n05 bw 377 lat 787
+link n26 n07 bw 635 lat 888
+ping n26 n12 159
+link n21 n28 bw 903 lat 733
+set n21 disk 5450
+quota n21 3615 63
+route n21 n11 via n04
+set n21 gpu 7217
+ping n11 n05 400
+del n27
+set n11 gpu 2687
+ping n07 n32 687
+set n07 io 7255
+set n07 ram 2547
+del n15
+del n18
+ping n16 n16 903
+set n16 ram 7551
+ping n21 n30 477
+ping n31 n04 407
+set n31 cpu 668
+set n31 disk 6824
+route n13 n01 via n03
+ping n13 n24 608
+set n13 cpu 5223
+set n17 gpu 5427
+set n26 gpu 4881
+set n26 disk 3516
+del n21
+link n05 n28 bw 449 lat 809
+del n28
+ping n23 n25 182
+ping n09 n25 941
+set n28 io 4283
+del n24
+route n28 n06 via n19
+route n28 n05 via n29
+set n28 cpu 6707
+quota n28 19 61
+set n28 gpu 316
+ping n28 n25 381
+route n31 n30 via n01

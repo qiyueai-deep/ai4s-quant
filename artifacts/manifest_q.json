@@ -1,0 +1,20 @@
+{
+  "seed": 0,
+  "corpus": "hard",
+  "config": {
+    "vocab_size": 36,
+    "max_seq_len": 192,
+    "d_model": 192,
+    "n_layers": 4,
+    "n_heads": 4,
+    "d_ff": 768,
+    "dropout": 0.0
+  },
+  "parameters": 1820544,
+  "vocab_size": 36,
+  "corpus_train_chars": 154287,
+  "corpus_val_chars": 17292,
+  "steps": 800,
+  "val_ce": 0.9292420521378517,
+  "train_seconds": 253.3721969127655
+}
