@@ -1,0 +1,3 @@
+method	m_hat	iters	wall_seconds
+amortized	1.5545833	30	22.703796
+fresh simulation	1.1449167	12	0.32142615
