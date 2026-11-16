@@ -1,0 +1,12 @@
+quantity	value
+n_probes	1536
+n_probe_seeds	8
+alpha_mean	0.94736468
+alpha_std	0.095939697
+tv_mean	0.052635322
+kl_mean	0.048173461
+top1_agreement_mean	0.90234375
+identity_max_error_exact	3.3306691e-16
+identity_max_error_mc	0.0042611966
+pinsker_floor_mean	0.91843636
+pinsker_holds	True

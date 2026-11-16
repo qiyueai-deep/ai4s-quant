@@ -1,0 +1,155 @@
+{
+  "seed": 7,
+  "metadata": {
+    "target_parameters": 4790528,
+    "draft_parameters": 113984,
+    "compression": 42.028074115665355,
+    "vocab_size": 33,
+    "val_ce_target": 0.5949334353208542,
+    "benchmark_prompts": 24,
+    "benchmark_new_tokens": 64
+  },
+  "A": {
+    "n_probes": 1536,
+    "n_probe_seeds": 8,
+    "alpha_mean": 0.947364678137701,
+    "alpha_std": 0.09593969663954874,
+    "tv_mean": 0.05263532186229907,
+    "kl_mean": 0.04817346133939963,
+    "top1_agreement_mean": 0.90234375,
+    "identity_max_error_exact": 3.3306690738754696e-16,
+    "identity_max_error_mc": 0.004261196594648298,
+    "pinsker_floor_mean": 0.9184363560734132,
+    "pinsker_holds": true,
+    "alpha_robustness": {
+      "seeds": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "alphas": [
+        0.9406387529295274,
+        0.9646835492762568,
+        0.9427600102500174,
+        0.9468763635556834,
+        0.9461745243583527,
+        0.9462146704831952,
+        0.9442670109954001,
+        0.9473025432531744
+      ],
+      "min": 0.9406387529295274,
+      "max": 0.9646835492762568,
+      "mean": 0.947364678137701
+    }
+  },
+  "B": {
+    "alpha_sweep_mean": 0.3116504856722315,
+    "alpha_probe_stochastic_mean": 0.947364678137701,
+    "dp_emitted_vs_measured_max_error": 0.07536231884057987,
+    "cost_c0": 1.6977097818214455,
+    "cost_g": 0.22334486975265255,
+    "cost_r2": 0.9877832979098973,
+    "kstar_predicted": 4,
+    "kstar_observed": 4,
+    "kstar_gap": 0,
+    "predicted_peak_speedup": 1.2375801301115394,
+    "observed_peak_speedup": 1.2794210713580003,
+    "max_abs_speedup_error": 0.07868750329684882,
+    "ranking_correlation": 0.9878787878787878,
+    "finite_optimum": true,
+    "all_outputs_match_greedy": true,
+    "step_cost_ratio": 0.1778241624175306,
+    "target_step_seconds": 0.003118367000715807,
+    "draft_step_seconds": 0.0005545210000127554
+  },
+  "C": {
+    "kl_sft_draft": 0.38672574012352046,
+    "kl_distilled_draft": 0.1090773832604574,
+    "pinsker_floor_sft": 0.5602695484029333,
+    "pinsker_floor_distilled": 0.7664647957368553,
+    "greedy_agreement_sft": 0.84375,
+    "greedy_agreement_distilled": 0.8645833333333334,
+    "agreement_gain": 0.02083333333333337,
+    "floor_holds_sft": true,
+    "floor_holds_distilled": true,
+    "probe_kl_temperature2": 0.05364382796409888,
+    "probe_alpha_temperature2": 0.9310526616487437,
+    "pinsker_floor_temperature2": 0.8362260277637211,
+    "measured_greedy_acceptance_sweep": 0.3116504856722315
+  },
+  "D": {
+    "oracle_k": 4,
+    "oracle_speedup": 1.2794210713580003,
+    "default_k": 8,
+    "default_speedup": 1.200349724534443,
+    "adaptive": {
+      "global": {
+        "speedup": 1.2646304648714493,
+        "outputs_match_greedy": true,
+        "k_mean": 4.020964360587002,
+        "k_min": 2,
+        "k_max": 8,
+        "k_distribution": {
+          "low": {
+            "mean": 4.020964360587002,
+            "min": 2,
+            "max": 8,
+            "rounds": 477
+          }
+        },
+        "controller": {
+          "acc_low": 0.6039757137211655,
+          "acc_high": 0.6521739130434783,
+          "rounds_low": 3339,
+          "rounds_high": 0,
+          "g": 0.19140338517049538,
+          "target_step_seconds": 0.0028755499981343744,
+          "draft_step_seconds": 0.000550390003869931,
+          "entropy_threshold": null
+        }
+      },
+      "bucketed": {
+        "speedup": 1.230375762425327,
+        "outputs_match_greedy": true,
+        "k_mean": 3.9747899159663866,
+        "k_min": 1,
+        "k_max": 7,
+        "k_distribution": {
+          "low": {
+            "mean": 4.345132743362832,
+            "min": 4,
+            "max": 7,
+            "rounds": 226
+          },
+          "high": {
+            "mean": 3.64,
+            "min": 1,
+            "max": 4,
+            "rounds": 250
+          }
+        },
+        "controller": {
+          "acc_low": 0.7944356096287294,
+          "acc_high": 0.5686241283195845,
+          "rounds_low": 1582,
+          "rounds_high": 1749,
+          "g": 0.17165874956279273,
+          "target_step_seconds": 0.0027634866690884035,
+          "draft_step_seconds": 0.00047437666604916253,
+          "entropy_threshold": 0.6836194176549772
+        }
+      }
+    },
+    "adaptive_global_speedup": 1.2646304648714493,
+    "adaptive_bucketed_speedup": 1.230375762425327,
+    "online_vs_oracle_global": 0.9884396100567172,
+    "online_vs_oracle_bucketed": 0.9616660143946076,
+    "online_vs_default": 1.053551676668179
+  },
+  "total_seconds": 17.65442180633545
+}
