@@ -1,0 +1,11 @@
+quantity	value
+states	576
+numeric_residual	4.7153647e-16
+TV_generator	0.04092549
+W1_generator	1.7655105
+train_seconds	6.050463
+threshold	15
+rare_prob_true	0.0040233236
+rare_prob_generated	0.004075
+rare_relative_error	0.012844215
+cost_exponent_in_states	1.3742974

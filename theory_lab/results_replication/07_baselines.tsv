@@ -1,0 +1,7 @@
+estimator	TV	ESS
+oracle iid	0.012511052	9647.8014
+histogram iid	0.014723279	9642.6479
+Gillespie CTMC	0.013859169	8510.7784
+Metropolis thin=4 (legacy)	0.018634743	1019.2584
+repaired EBM	0.014689946	9642.604
+legacy D3PM	0.097336545	9981.3541

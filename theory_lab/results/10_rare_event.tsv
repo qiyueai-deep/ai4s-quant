@@ -1,0 +1,5 @@
+estimator	mean	bias	variance	MSE	mean_ESS	CI_coverage
+plain IS, tilted proposal	1.7346594e-06	-3.9017459e-10	1.639381e-17	1.6546046e-17	1977.9545	0.935
+oracle crude iid	5e-06	3.2649504e-06	2.4874372e-09	2.4980971e-09	2000	nan
+Metropolis thin=4 (legacy)	0	-1.7350496e-06	0	3.010397e-12	nan	nan
+histogram iid (train data)	0	-1.7350496e-06	0	3.010397e-12	nan	nan
